@@ -9,6 +9,10 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
+# Create the job file if it doesn't exist
+with open("jobs.txt","a+") as f:
+    f.write("")
+
 # Scrape the jobs
 scrape = JobScraper()
 new_jobs = scrape.get_jobs()
