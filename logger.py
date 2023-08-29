@@ -15,8 +15,16 @@ with open("jobs.txt","a+") as f:
 
 # Scrape the jobs
 scrape = JobScraper()
-new_jobs = scrape.get_jobs()
-scrape.driver.close()
+new_jobs=[]
+try:
+    new_jobs = scrape.get_jobs()
+except Exception as e:
+    with open("log.txt","a+") as f:
+        f.write(e)
+    print("Scraping failure")
+    exit(1)
+finally:
+    scrape.driver.close()
 
 # Save old jobs to compare later
 old_file = []

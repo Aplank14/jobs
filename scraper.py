@@ -115,9 +115,9 @@ class JobScraper:
         self.driver.get(url)
 
         try:
-            self.wait_and_click("/html[@class='win win-10_0 webkit chrome chrome-115 chrome-115_0_0_0 loaded']/body[@class='region-NA  careers']/div[@id='wrapper']/main[@id='main']/div[@id='job-info']/div[@class='container']/div[@id='jobs-departments']/div[@class='department'][3]/a/div[@class='department-link']")
+            self.wait_and_click("//h3[text()='Engineering']")
         except Exception:
-            print("Paylocity element took too long to load or was not found.")
+            print("Reddit element took too long to load or was not found.")
 
         html = self.driver.page_source
         soup = BeautifulSoup(html.lower(), "html.parser")
