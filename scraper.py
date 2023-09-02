@@ -8,7 +8,7 @@ class JobScraper:
     def __init__(self):
         self.driver = webdriver.Chrome()
         self.wait = WebDriverWait(self.driver, 20)
-        self.bad_titles = ['senior', 'lead', 'principal', 'staff', 'manager', 'director', 'specialist', 'assistant', 'analyst', 'sr.', 'iii', 'representative', 'counsel', 'bilingual', 'associate emea', 'head', 'manger', 'coordinator']
+        self.bad_titles = ['senior', 'lead', 'principal', 'staff', 'manager', 'director', 'specialist', 'assistant', 'analyst', 'sr.', 'iii', 'representative', 'counsel', 'bilingual', 'associate emea', 'head', 'manger', 'coordinator', 'europe', 'asia']
 
     def filter_jobs(self, i):
         for title in self.bad_titles:
@@ -139,7 +139,7 @@ class JobScraper:
         try:
             self.wait_and_click("//input[@id='remoteLocationFilter']")
         except Exception:
-            print("Paylocity element took too long to load or was not found.")
+            print("Turnitin element took too long to load or was not found.")
 
         html = self.driver.page_source
         soup = BeautifulSoup(html.lower(), "html.parser")
