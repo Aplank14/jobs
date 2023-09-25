@@ -21,8 +21,9 @@ A selenium based web scraper to automate job searching. Basic flow is as follows
     pip install pyvirtualdisplay
 
 ## env
-specify the following env vars. Recipients are comma delimited.
+Specify the following env vars. Recipients are comma delimited. When running locally `DEV` should probably be set to `True`.
 
+    DEV='<True_or_False>'
     EMAIL='<YOUR_EMAIL@gmail.com>'
     PASSWORD='<APP_PASSWORD_FOR_EMAIL>'
     RECIPIENT_EMAILS='recipient1@gmail.com,recipient2@gmail.com'
@@ -32,7 +33,15 @@ Running once is simple with:
 
     python logger.py
 
-On Windows you can setup a scheduled task with `Task Scheduler` to run the logger automatically.
+To run without sending an email:
+
+    python logger.py -n
+
+For development, set the environment variable `DEV` to `True`. Then, you can test a single scraper function name using the following:
+
+    python logger.py -f discord
+
+To run periodically, on Windows you can setup a scheduled task with `Task Scheduler` to run the logger automatically. On Linux just use Cron!
 1. Create a new task in `Task Scheduler`
 2. Set trigger to be whatever frequency you wish
 3. Action should be "Start a program" 
