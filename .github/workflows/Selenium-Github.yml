@@ -16,9 +16,9 @@ jobs:
       - name: Setting up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.11'
           cache: 'pip'
-        run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt
 
 
       - name: Removing previous chrome instances on runner
