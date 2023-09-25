@@ -3,12 +3,36 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+import chromedriver_autoinstaller
+
+from pyvirtualdisplay import Display
 
 class JobScraper:
-    def __init__(self):
-        self.driver = webdriver.Chrome()
-        self.wait = WebDriverWait(self.driver, 20)
-        self.bad_titles = ['senior', 'lead', 'principal', 'staff', 'manager', 'director', 'specialist', 'assistant', 'analyst', 'sr.', 'iii', 'representative', 'counsel', 'bilingual', 'associate emea', 'head', 'manger', 'coordinator', 'europe', 'asia']
+    def __init__(self, dev):
+        self.bad_titles = []
+        with open('deny.txt', 'r') as file:
+            self.bad_titles = [line.strip() for line in file]
+        
+        if not dev:
+            chromedriver_autoinstaller.install() 
+            display = Display(visible=0, size=(800, 800))  
+            display.start()
+
+        chrome_options = webdriver.ChromeOptions()    
+        options = [
+            "--window-size=1200,1200",
+            "--ignore-certificate-errors"   
+            "--headless",
+        ]
+
+        for option in options:
+            chrome_options.add_argument(option)
+
+        self.driver = webdriver.Chrome(options = chrome_options)
+        self.wait = WebDriverWait(self.driver, 10)
+
 
     def filter_jobs(self, i):
         for title in self.bad_titles:
