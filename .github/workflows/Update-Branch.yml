@@ -13,7 +13,7 @@ jobs:
           ref: "bot"
 
       - name: Pull master
-        run: git pull origin master
+        run: git pull origin master --rebase
 
       - name: Git Push
         run: git push
