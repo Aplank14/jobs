@@ -1,4 +1,4 @@
-name: Selenium Github Action
+name: Update Bot Branch
 on:
   push:
     branches:
