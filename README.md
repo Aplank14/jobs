@@ -18,6 +18,7 @@ A selenium based web scraper to automate job searching. Basic flow is as follows
     pip install secure-smtplib
     pip install python-dotenv
     pip install chromedriver-autoinstaller
+    pip install pyvirtualdisplay
 
 ## env
 specify the following env vars. Recipients are comma delimited.

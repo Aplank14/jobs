@@ -7,6 +7,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 import chromedriver_autoinstaller
 
+from pyvirtualdisplay import Display
+
 class JobScraper:
     def __init__(self, dev):
         self.bad_titles = []
@@ -14,7 +16,9 @@ class JobScraper:
             self.bad_titles = [line.strip() for line in file]
         
         if not dev:
-            chromedriver_autoinstaller.install()  
+            chromedriver_autoinstaller.install() 
+            display = Display(visible=0, size=(800, 800))  
+            display.start()
 
         chrome_options = webdriver.ChromeOptions()    
         options = [

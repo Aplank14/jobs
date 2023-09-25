@@ -42,7 +42,7 @@ def scrape(dev, func=None):
     scraper = JobScraper(dev)
     scraped_jobs=[]
     try:
-        if (dev=="TRUE" and func):
+        if (dev and func):
             devFunc = getattr(scraper, func)
             scraped_jobs = devFunc()
         else:
@@ -58,7 +58,7 @@ def scrape(dev, func=None):
 
 def logJobs(args):
 
-    dev = os.environ.get("DEV")
+    dev = (os.environ.get("DEV") == "True")
 
     new_jobs = scrape(dev, args.func)
     out_str = ''.join(new_jobs)
