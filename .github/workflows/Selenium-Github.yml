@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: '3.9'
           cache: 'pip'
-      - run: pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
 
       - name: Removing previous chrome instances on runner
@@ -28,6 +28,11 @@ jobs:
         run: sudo apt-get install xvfb
 
       - name: Running the Python script
+        env:
+          EMAIL: ${{ secrets.EMAIL }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+          DEV: ${{ vars.DEV }}
+          RECIPIENT_EMAILS: ${{ vars.RECIPIENT_EMAILS }}
         run: python logger.py
       
       - name: Add & Commit
