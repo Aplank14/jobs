@@ -1,0 +1,19 @@
+name: Selenium Github Action
+on:
+  commit:
+    branch:
+      master
+jobs:
+  update-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          ref: "bot"
+
+      - name: Pull master
+        run: git pull origin master
+
+      - name: Git Push
+        run: git push
