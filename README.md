@@ -13,12 +13,7 @@ A selenium based web scraper to automate job searching. Basic flow is as follows
     git clone https://github.com/Aplank14/jobs.git
 
 ## dependencies
-    pip install selenium
-    pip install beautifulsoup4
-    pip install secure-smtplib
-    pip install python-dotenv
-    pip install chromedriver-autoinstaller
-    pip install pyvirtualdisplay
+    pip install -r requirements.txt
 
 ## env
 Specify the following env vars. Recipients are comma delimited. When running locally `DEV` should probably be set to `True`.
