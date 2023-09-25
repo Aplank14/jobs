@@ -16,11 +16,11 @@ A selenium based web scraper to automate job searching. Basic flow is as follows
     pip install -r requirements.txt
 
 ## env
-Specify the following env vars. Recipients are comma delimited. When running locally `DEV` should probably be set to `True`.
+Specify the following env vars. Recipients are comma delimited. When running locally, `DEV` should probably be set to `True`.
 
     DEV='<True_or_False>'
     EMAIL='<YOUR_EMAIL@gmail.com>'
-    PASSWORD='<APP_PASSWORD_FOR_EMAIL>'
+    PASSWORD='<APP_PASSWORD_FOR_GMAIL>'
     RECIPIENT_EMAILS='recipient1@gmail.com,recipient2@gmail.com'
 
 ## run
@@ -36,13 +36,15 @@ For development, set the environment variable `DEV` to `True`. Then, you can tes
 
     python logger.py -f discord
 
-To run periodically, on Windows you can setup a scheduled task with `Task Scheduler` to run the logger automatically. On Linux just use Cron!
+To recieve email alerts you can set it to run periodically automatically on a local machine or Github actions. For local automation with Linux just use crontab. On Windows you can setup a scheduled task with `Task Scheduler` to run the logger automatically. 
 1. Create a new task in `Task Scheduler`
 2. Set trigger to be whatever frequency you wish
 3. Action should be "Start a program" 
 4. Program: `python.exe`
 5. Arguments: C:\Users\path\to\jobs\logger.py
 6. Start in: C:\Users\path\to\jobs\
+
+It is even easier to run periodically using Github actions! All you have to do is fork this repository, create an environment called `bot`, then set the enviornment variables described above.
 
 ## apply
 :sob:
