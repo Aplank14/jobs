@@ -2,11 +2,10 @@ senior
 lead
 principal
 staff
-manager
+manage
 director
 specialist
 assistant
-analyst
 sr.
 iii
 representative
@@ -19,3 +18,10 @@ coordinator
 europe
 asia
 (contract)
+emea
+planner
+officer
+investigator
+partner
+strategist
+expert
