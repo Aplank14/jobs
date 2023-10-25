@@ -89,16 +89,8 @@ class JobScraper:
         return jobs
 
     def remitly(self):
-        url = 'https://remitly.wd5.myworkdayjobs.com/Remitly_Careers'
+        url = 'https://remitly.wd5.myworkdayjobs.com/Remitly_Careers?jobFamilyGroup=c9699b32e2da1029a051260e906d0000&locationCountry=bc33aa3152ec42d4995f4791a106ed09&timeType=56d53b9ae3a1102534c884fb37ef0001'
         self.driver.get(url)
-
-        try:
-            self.wait_and_click("//button[@data-automation-id='distanceLocation']")
-            self.wait_and_click("//label[@for='82e0c5da80581000d124020d6a840000']")
-            self.wait_and_click("//button[@data-automation-id='jobFamilyGroup']")
-            self.wait_and_click("//label[@for='c9699b32e2da1029a051260e906d0000']")
-        except Exception:
-            print("Remitly element took too long to load or was not found.")
 
         html = self.driver.page_source
         soup = BeautifulSoup(html.lower(), "html.parser")
@@ -107,7 +99,7 @@ class JobScraper:
         jobs = ['\nRemitly:\n']
         for job in listings:
             if self.filter_jobs(job.text):
-                jobs.append("Remitly " + job.text + "\n" + "https://careers.remitly.com" + job['href'] + "\n")
+                jobs.append("Remitly " + job.text + "\n" + "https://remitly.wd5.myworkdayjobs.com" + job['href'] + "\n")
         return jobs
 
 
