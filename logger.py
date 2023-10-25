@@ -11,31 +11,6 @@ load_dotenv()
 
 import argparse
 
-def generateEmailMessage(diff, out_str):
-    changes = False
-
-    message_body = "Here is the job feed for today:\n\n"
-
-    message_body += "\n----New Jobs----\n\n"
-    for line in diff:
-        if line.startswith('+ '):
-            changes = True
-            message_body += line
-
-    message_body += "\n\n---Removed Jobs----\n\n"
-    for line in diff:
-        if line.startswith('- '):
-            changes = True
-            message_body += line
-
-    message_body += "\n\n---All Jobs----\n"
-    message_body += out_str
-
-    if changes == False:
-        return None
-
-    return message_body
-
 def scrape(dev, func=None):
 
     # Init the job scraper
@@ -55,17 +30,11 @@ def scrape(dev, func=None):
         exit(1)
     finally:
         scraper.driver.close()
-    return scraped_jobs
 
-def logJobs(args):
+    # Convert list to str and return
+    return ''.join(scraped_jobs)
 
-    # If running in dev mode for testing
-    dev = (os.environ.get("DEV") == "True")
-
-    # Get the jobs from the scraper. Calls scraper.py
-    new_jobs = scrape(dev, args.func)
-    out_str = ''.join(new_jobs)
-
+def saveToFileAndDiff(new_jobs):
     # Save old file contents to compare later
     old_file = []
     with open('jobs.txt', 'r') as f:
@@ -73,7 +42,7 @@ def logJobs(args):
 
     # Write new jobs to file
     with open('jobs.txt', 'w') as f:
-        f.write("%s" % out_str)
+        f.write("%s" % new_jobs)
 
     # Get new file contents to compare to old
     new_file = []
@@ -84,15 +53,34 @@ def logJobs(args):
     differ = difflib.Differ()
     diff = list(differ.compare(old_file, new_file))
 
-    message_body = generateEmailMessage(diff, out_str)
-    if message_body == None:
-        print("No changes... Exiting without sending email")
-        return
+    return diff
 
-    if (args.noemail):
-        print("Running in no email mode... Here are the email contents:\n", message_body)
-        return
+def generateEmailMessage(diff, all_jobs):
+    changes = False
 
+    message_body = "Here is the job feed for today:\n\n"
+
+    message_body += "\n----New Jobs----\n\n"
+    for line in diff:
+        if line.startswith('+ '):
+            changes = True
+            message_body += line
+
+    message_body += "\n\n---Removed Jobs----\n\n"
+    for line in diff:
+        if line.startswith('- '):
+            changes = True
+            message_body += line
+
+    message_body += "\n\n---All Jobs----\n"
+    message_body += all_jobs
+
+    if changes == False:
+        return None
+
+    return message_body
+
+def sendMail(message_body):
     # Login to Gmail
     sender_email = os.environ.get("EMAIL")
     sender_password = os.environ.get("PASSWORD")
@@ -109,7 +97,27 @@ def logJobs(args):
             msg.attach(MIMEText(message_body, "plain"))
             server.sendmail(sender_email, recipient_email, msg.as_string())
 
-    print("Email sent successfully.")
+def main(args):
+
+    # If running in dev mode for testing
+    dev = (os.environ.get("DEV") == "True")
+
+    # Get the jobs from the scraper. Calls scraper.py
+    new_jobs = scrape(dev, args.func)
+
+    # Save jobs to file for history. Get the diff from previous save.
+    diff = saveToFileAndDiff(new_jobs)
+
+    message_body = generateEmailMessage(diff, new_jobs)
+    if message_body == None:
+        print("No changes... Exiting without sending email")
+        return
+
+    if (args.noemail):
+        print("Running in no email mode... Here are the email contents:\n", message_body)
+    else:
+        sendMail(message_body)
+        print("Email sent successfully.")
 
 if __name__ == "__main__":
     # Create the job file if it doesn't exist
@@ -123,4 +131,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Start logger with arguments
-    logJobs(args)
+    main(args)
