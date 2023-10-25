@@ -38,19 +38,20 @@ def generateEmailMessage(diff, out_str):
 
 def scrape(dev, func=None):
 
-    # Scrape the jobs
+    # Init the job scraper
     scraper = JobScraper(dev)
     scraped_jobs=[]
     try:
         if (dev and func):
+            # If running in -f mode only run one function. For testing only
             devFunc = getattr(scraper, func)
             scraped_jobs = devFunc()
         else:
+            # Running normally, scrape all jobs
             scraped_jobs = scraper.get_jobs()
     except Exception as e:
-        with open("log.txt","a+") as f:
-            f.write(e)
         print("Scraping failure")
+        print(e)
         exit(1)
     finally:
         scraper.driver.close()
@@ -58,8 +59,10 @@ def scrape(dev, func=None):
 
 def logJobs(args):
 
+    # If running in dev mode for testing
     dev = (os.environ.get("DEV") == "True")
 
+    # Get the jobs from the scraper. Calls scraper.py
     new_jobs = scrape(dev, args.func)
     out_str = ''.join(new_jobs)
 
@@ -118,4 +121,6 @@ if __name__ == "__main__":
     parser.add_argument("-noemail", help = "No email mode", action = 'store_true')
     parser.add_argument("-func", type=str, help = "Only run one scraper function", required=False)
     args = parser.parse_args()
+
+    # Start logger with arguments
     logJobs(args)
