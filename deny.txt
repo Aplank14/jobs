@@ -25,3 +25,8 @@ investigator
 partner
 strategist
 expert
+executive
+clearance
+amts
+architect
+devsecops

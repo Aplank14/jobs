@@ -46,7 +46,7 @@ class JobScraper:
         btn.click()
 
     def get_jobs(self):
-        return self.spotify() + self.discord() + self.remitly() + self.paylocity() + self.reddit() + self.turnitin()
+        return self.spotify() + self.discord() + self.remitly() + self.paylocity() + self.reddit() + self.turnitin() + self.zillow() + self.pintrest() + self.onepassword() + self.capitalone() + self.salesforce()
 
     def spotify(self):
         url = 'https://lifeatspotify.com/jobs?l=remote-americas&l=remote-emea&l=remote-estamericas-remote&c=backend&c=client-c&c=data&c=developer-tools-infrastructure&c=engineering-leadership&c=machine-learning&c=mobile&c=network-engineering-it&c=security&c=tech-research&c=web'
@@ -149,13 +149,8 @@ class JobScraper:
 
 
     def turnitin(self):
-        url = 'https://careers.smartrecruiters.com/TurnitinLLC'
+        url = 'https://careers.smartrecruiters.com/TurnitinLLC?search=software&remoteLocation=true'
         self.driver.get(url)
-
-        try:
-            self.wait_and_click("//input[@id='remoteLocationFilter']")
-        except Exception:
-            print("Turnitin element took too long to load or was not found.")
 
         html = self.driver.page_source
         soup = BeautifulSoup(html.lower(), "html.parser")
@@ -170,4 +165,97 @@ class JobScraper:
                 jobs.append("TurnItIn " + name + "\n" + job['href'] + "\n")
 
         return jobs
+    
+    def onepassword(self):
+        url = 'https://jobs.lever.co/1password?workplaceType=remote&location=Remote%20%28US%20or%20Canada%29'
+        self.driver.get(url)
 
+        html = self.driver.page_source
+        soup = BeautifulSoup(html.lower(), "html.parser")
+
+        # Filter the div elements based on their children's text content
+        listings = soup.find_all('a', href=lambda href: href and "https://jobs.lever.co/1password/" in href)
+
+        jobs = ['\n1Password:\n']
+        for job in listings:
+            if job.h5 == None: continue
+            name = job.h5.text
+            # Special filter for 1password
+            if "designer" in name or "analyst" in name: continue
+            if self.filter_jobs(name):
+                jobs.append("1Password " + name + "\n" + job['href'] + "\n")
+
+        return jobs
+    
+    def pintrest(self):
+        url = 'https://www.pinterestcareers.com/en/jobs/?search=engineer&team=Engineering&type=Regular&remote=true&pagesize=50#results'
+        self.driver.get(url)
+
+        html = self.driver.page_source
+        soup = BeautifulSoup(html.lower(), "html.parser")
+        listings = soup.find_all('a', class_='js-view-job')
+
+        jobs = ['\nPintrest:\n']
+        for job in listings:
+            name = job.text
+            if self.filter_jobs(name):
+                jobs.append("Pintrest " + name + "\n" + "https://www.pinterestcareers.com" + job['href'] + "\n")
+
+        return jobs
+    
+    def salesforce(self):
+        url = 'https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&location=Remote&location=Indianapolis&location=Chicago&team=Software+Engineering&pagesize=50#results'
+        self.driver.get(url)
+        
+        html = self.driver.page_source
+        soup = BeautifulSoup(html.lower(), "html.parser")
+        listings = soup.find_all('a', class_='js-view-job')
+
+        jobs = ['\nSalesforce:\n']
+        for job in listings:
+            name = job.text
+            if self.filter_jobs(name):
+                jobs.append("Salesforce " + name + "\n" + "https://careers.salesforce.com" + job['href'] + "\n")
+
+        return jobs
+    
+    def zillow(self):
+        url = 'https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External?locations=bf3166a9227a01f8b514f0b00b147bc9&jobFamilyGroup=a90eab1aaed6105e8dd41df427a82ee6'
+        self.driver.get(url)
+
+        html = self.driver.page_source
+        soup = BeautifulSoup(html.lower(), "html.parser")
+        listings = soup.find_all('a', attrs={"data-automation-id": "jobTitle"})
+
+        jobs = ['\nZillow:\n']
+        for job in listings:
+            name = job.text
+            if self.filter_jobs(name):
+                jobs.append("Zillow " + name + "\n" + "https://zillow.wd5.myworkdayjobs.com/" + job['href'] + "\n")
+
+        return jobs
+    
+    def capitalone(self):
+        url = 'https://www.capitalonecareers.com/category/engineering-jobs/234/29016/1'
+        self.driver.get(url)
+
+        try:
+            self.wait_and_click("//button[@id='custom_fields.remote-toggle']")
+            self.wait_and_click("//input[@data-display='Remote']")
+            self.wait_and_click("//input[@data-display='Remote Eligible']")
+        except Exception:
+            print("CapitalOne element took too long to load or was not found.")
+
+        html = self.driver.page_source
+        soup = BeautifulSoup(html.lower(), "html.parser")
+        listings = soup.find_all('a')
+
+        jobs = ['\nCapitalOne:\n']
+        for job in listings:
+            if not job.has_attr('data-job-id'): continue
+            name = job.h2.text
+            if self.filter_jobs(name):
+                jobs.append("CapitalOne " + name + "\n" + "https://www.capitalonecareers.com" + job['href'] + "\n")
+
+        return jobs
+    
