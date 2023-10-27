@@ -30,10 +30,10 @@ Pintrest software engineer, android
 https://www.pinterestcareers.com/en/jobs/4807475/software-engineer-android/?gh_jid=4807475
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
-Pintrest android software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest site reliability engineer
 https://www.pinterestcareers.com/en/jobs/4987965/site-reliability-engineer/?gh_jid=4987965
+Pintrest android software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest software engineer ii, release
 https://www.pinterestcareers.com/en/jobs/5396224/software-engineer-ii-release/?gh_jid=5396224
 Pintrest distinguished engineer
@@ -46,34 +46,30 @@ https://www.pinterestcareers.com/en/jobs/5337884/data-scientist-data-platform-sc
 https://jobs.lever.co/1password/f13fa52d-208d-4506-a34a-61a9e4f66946
 1Password backend developer
 https://jobs.lever.co/1password/cd818e35-5ff0-4534-a905-5c8b34de8c07
+1Password developer, frontend
+https://jobs.lever.co/1password/b90d1a77-ba71-4dad-8cb6-f428f260e2c4
 1Password rust developer
 https://jobs.lever.co/1password/ba4e4cf1-8d8a-4fc8-8878-4bf055a43f53
-1Password sr developer, front end
-https://jobs.lever.co/1password/cbd7e267-293e-4048-9d94-34dd4ab70571
 
 CapitalOne:
+CapitalOne distinguished engineer- (remote eligible)
+https://www.capitalonecareers.com/job/richmond/distinguished-engineer-remote-eligible/1732/56328258048
 CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/56218472112
-CapitalOne data engineer
-https://www.capitalonecareers.com/job/mclean/data-engineer/1732/56216930640
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/56181554624
+https://www.capitalonecareers.com/job/plano/software-engineer-full-stack/1732/56274133824
 
 Salesforce:
 Salesforce software engineer, backend - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207025/software-engineer-backend-slack-multiple-levels/
+Salesforce full-stack software engineer - frontend
+https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce software engineer, android - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
 Salesforce backend software engineer - heroku
 https://careers.salesforce.com/en/jobs/jr225183/backend-software-engineer-heroku/
-Salesforce frontend software engineer - heroku
-https://careers.salesforce.com/en/jobs/jr225318/frontend-software-engineer-heroku/
 Salesforce software engineer, machine learning
 https://careers.salesforce.com/en/jobs/jr223421/software-engineer-machine-learning/
 Salesforce data engineer
 https://careers.salesforce.com/en/jobs/jr220763/data-engineer/
-Salesforce software engineer, backend - slack
-https://careers.salesforce.com/en/jobs/jr222971/software-engineer-backend-slack/
 Salesforce full-stack software engineer - backend
 https://careers.salesforce.com/en/jobs/jr210031/full-stack-software-engineer-backend/
 Salesforce full-stack software engineer
