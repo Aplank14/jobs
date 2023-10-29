@@ -2,18 +2,12 @@
 Spotify:
 
 Discord:
-Discord software engineer - voice & video infrastructure
-https://discord.com/jobs/6367013002
 
 Remitly:
 
 Paylocity:
-Paylocity associate security software engineer - remote, us
-https://www.paylocity.com/careers/product-technology/?jobid=22710
-Paylocity network automation engineer - remote, us
-https://www.paylocity.com/careers/product-technology/?jobid=22733
-Paylocity security software engineer - remote, us
-https://www.paylocity.com/careers/product-technology/?jobid=22709
+Paylocity full-stack software engineer- marketplace - remote, us
+https://www.paylocity.com/careers/product-technology/?jobid=22734
 
 Reddit:
 Reddit customer success engineer, ads
@@ -26,10 +20,10 @@ Zillow:
 Pintrest:
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
-Pintrest software engineer, android
-https://www.pinterestcareers.com/en/jobs/4807475/software-engineer-android/?gh_jid=4807475
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest software engineer, android
+https://www.pinterestcareers.com/en/jobs/4807475/software-engineer-android/?gh_jid=4807475
 Pintrest site reliability engineer
 https://www.pinterestcareers.com/en/jobs/4987965/site-reliability-engineer/?gh_jid=4987965
 Pintrest android software engineer, core and monetization
@@ -60,8 +54,10 @@ https://www.capitalonecareers.com/job/plano/software-engineer-full-stack/1732/56
 Salesforce:
 Salesforce software engineer, backend - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207025/software-engineer-backend-slack-multiple-levels/
-Salesforce full-stack software engineer - frontend
-https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
+Salesforce software engineer, marketing decision science
+https://careers.salesforce.com/en/jobs/jr225887/software-engineer-marketing-decision-science/
+Salesforce frontend software engineer - heroku
+https://careers.salesforce.com/en/jobs/jr225318/frontend-software-engineer-heroku/
 Salesforce software engineer, android - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
 Salesforce backend software engineer - heroku
