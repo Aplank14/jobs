@@ -13,7 +13,7 @@ class JobScraper:
     def __init__(self, dev):
         self.bad_titles = []
         with open('deny.txt', 'r') as file:
-            self.bad_titles = [line.strip() for line in file]
+            self.bad_titles = [line.replace('\n', '') for line in file]
         
         if not dev:
             chromedriver_autoinstaller.install() 
