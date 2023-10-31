@@ -2,12 +2,18 @@
 Spotify:
 
 Discord:
+Discord data engineer
+https://discord.com/jobs/6966192002
 
 Remitly:
 
 Paylocity:
-Paylocity full-stack software engineer- marketplace - remote, us
-https://www.paylocity.com/careers/product-technology/?jobid=22734
+Paylocity associate security software engineer - remote, us
+https://www.paylocity.com/careers/product-technology/?jobid=22710
+Paylocity network automation engineer - remote, us
+https://www.paylocity.com/careers/product-technology/?jobid=22733
+Paylocity security software engineer - remote, us
+https://www.paylocity.com/careers/product-technology/?jobid=22709
 
 Reddit:
 Reddit customer success engineer, ads
@@ -21,6 +27,8 @@ Pintrest:
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest software engineer, backend
+https://www.pinterestcareers.com/en/jobs/4813946/software-engineer-backend/?gh_jid=4813946
+Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest software engineer, android
 https://www.pinterestcareers.com/en/jobs/4807475/software-engineer-android/?gh_jid=4807475
@@ -30,28 +38,26 @@ Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest software engineer ii, release
 https://www.pinterestcareers.com/en/jobs/5396224/software-engineer-ii-release/?gh_jid=5396224
-Pintrest distinguished engineer
-https://www.pinterestcareers.com/en/jobs/5397956/distinguished-engineer/?gh_jid=5397956
 Pintrest data scientist, data platform sciences
 https://www.pinterestcareers.com/en/jobs/5337884/data-scientist-data-platform-sciences/?gh_jid=5337884
+Pintrest integrity analyst
+https://www.pinterestcareers.com/en/jobs/5451138/integrity-analyst/?gh_jid=5451138
 
 1Password:
 1Password android developer
 https://jobs.lever.co/1password/f13fa52d-208d-4506-a34a-61a9e4f66946
 1Password backend developer
 https://jobs.lever.co/1password/cd818e35-5ff0-4534-a905-5c8b34de8c07
-1Password developer, frontend
-https://jobs.lever.co/1password/b90d1a77-ba71-4dad-8cb6-f428f260e2c4
 1Password rust developer
 https://jobs.lever.co/1password/ba4e4cf1-8d8a-4fc8-8878-4bf055a43f53
 
 CapitalOne:
-CapitalOne distinguished engineer- (remote eligible)
-https://www.capitalonecareers.com/job/richmond/distinguished-engineer-remote-eligible/1732/56328258048
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/plano/software-engineer-full-stack/1732/56274133824
 
 Salesforce:
+Salesforce full stack software engineer - back end focus
+https://careers.salesforce.com/en/jobs/jr221100/full-stack-software-engineer-back-end-focus/
+Salesforce full-stack software engineer - backend
+https://careers.salesforce.com/en/jobs/jr210031/full-stack-software-engineer-backend/
 Salesforce software engineer, backend - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207025/software-engineer-backend-slack-multiple-levels/
 Salesforce software engineer, marketing decision science
@@ -66,8 +72,6 @@ Salesforce software engineer, machine learning
 https://careers.salesforce.com/en/jobs/jr223421/software-engineer-machine-learning/
 Salesforce data engineer
 https://careers.salesforce.com/en/jobs/jr220763/data-engineer/
-Salesforce full-stack software engineer - backend
-https://careers.salesforce.com/en/jobs/jr210031/full-stack-software-engineer-backend/
 Salesforce full-stack software engineer
 https://careers.salesforce.com/en/jobs/jr213253/full-stack-software-engineer/
 Salesforce software engineer, frontend - slack (multiple levels)
