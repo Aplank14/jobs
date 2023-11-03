@@ -10,8 +10,6 @@ Remitly:
 Paylocity:
 
 Reddit:
-Reddit customer success engineer, ads
-https://boards.greenhouse.io/reddit/jobs/5317443
 Reddit software engineer, ads infra
 https://boards.greenhouse.io/reddit/jobs/5349804
 Reddit software engineer, ads infra
@@ -26,12 +24,12 @@ Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/4813946/software-engineer-backend/?gh_jid=4813946
+Pintrest software engineer, android
+https://www.pinterestcareers.com/en/jobs/4807475/software-engineer-android/?gh_jid=4807475
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest site reliability engineer
 https://www.pinterestcareers.com/en/jobs/4987965/site-reliability-engineer/?gh_jid=4987965
-Pintrest software engineer, android
-https://www.pinterestcareers.com/en/jobs/4807475/software-engineer-android/?gh_jid=4807475
 Pintrest software engineer ii, release
 https://www.pinterestcareers.com/en/jobs/5396224/software-engineer-ii-release/?gh_jid=5396224
 Pintrest data scientist, data platform sciences
@@ -44,37 +42,47 @@ https://www.pinterestcareers.com/en/jobs/5451138/integrity-analyst/?gh_jid=54511
 https://jobs.lever.co/1password/f13fa52d-208d-4506-a34a-61a9e4f66946
 1Password backend developer
 https://jobs.lever.co/1password/cd818e35-5ff0-4534-a905-5c8b34de8c07
+1Password developer, product foundations
+https://jobs.lever.co/1password/7cf37e4c-3ba3-43e9-a651-7d9c23d91be7
+1Password ios developer
+https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
 1Password rust developer
 https://jobs.lever.co/1password/ba4e4cf1-8d8a-4fc8-8878-4bf055a43f53
 
 CapitalOne:
+CapitalOne software engineer, ios
+https://www.capitalonecareers.com/job/new-york/software-engineer-ios/1732/56648646656
 
 Salesforce:
+Salesforce full-stack software engineer - frontend
+https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
+Salesforce platform engineer
+https://careers.salesforce.com/en/jobs/jr221100/platform-engineer/
 Salesforce full-stack software engineer - backend
 https://careers.salesforce.com/en/jobs/jr210031/full-stack-software-engineer-backend/
-Salesforce heroku salesforce admin
-https://careers.salesforce.com/en/jobs/jr215243/heroku-salesforce-admin/
-Salesforce full stack software engineer - back end focus
-https://careers.salesforce.com/en/jobs/jr221100/full-stack-software-engineer-back-end-focus/
-Salesforce software engineer, backend - slack (multiple levels)
-https://careers.salesforce.com/en/jobs/jr207025/software-engineer-backend-slack-multiple-levels/
-Salesforce software engineer, marketing decision science
-https://careers.salesforce.com/en/jobs/jr225887/software-engineer-marketing-decision-science/
-Salesforce frontend software engineer - heroku
-https://careers.salesforce.com/en/jobs/jr225318/frontend-software-engineer-heroku/
-Salesforce software engineer, android - slack (multiple levels)
-https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
-Salesforce backend software engineer - heroku
-https://careers.salesforce.com/en/jobs/jr225183/backend-software-engineer-heroku/
-Salesforce software engineer, machine learning
-https://careers.salesforce.com/en/jobs/jr223421/software-engineer-machine-learning/
-Salesforce data engineer
-https://careers.salesforce.com/en/jobs/jr220763/data-engineer/
+Salesforce full-stack software engineer, front end focus
+https://careers.salesforce.com/en/jobs/jr224943/full-stack-software-engineer-front-end-focus/
+Salesforce microservices-service mesh
+https://careers.salesforce.com/en/jobs/jr224253/microservices-service-mesh/
 Salesforce full-stack software engineer
 https://careers.salesforce.com/en/jobs/jr213253/full-stack-software-engineer/
+Salesforce backend software engineer - heroku
+https://careers.salesforce.com/en/jobs/jr225183/backend-software-engineer-heroku/
 Salesforce software engineer, frontend - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207003/software-engineer-frontend-slack-multiple-levels/
-Salesforce customer centric engineer, heroku data
-https://careers.salesforce.com/en/jobs/jr215286/customer-centric-engineer-heroku-data/
+Salesforce data engineer
+https://careers.salesforce.com/en/jobs/jr220763/data-engineer/
+Salesforce heroku salesforce admin
+https://careers.salesforce.com/en/jobs/jr215243/heroku-salesforce-admin/
+Salesforce software engineer, backend - slack (multiple levels)
+https://careers.salesforce.com/en/jobs/jr207025/software-engineer-backend-slack-multiple-levels/
+Salesforce software engineer, android - slack (multiple levels)
+https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
+Salesforce salesforce developer
+https://careers.salesforce.com/en/jobs/jr225887/salesforce-developer/
+Salesforce frontend software engineer - heroku
+https://careers.salesforce.com/en/jobs/jr225318/frontend-software-engineer-heroku/
 Salesforce developer support engineer (ts/sci) govcloud
 https://careers.salesforce.com/en/jobs/jr177750/developer-support-engineer-tssci-govcloud/
+Salesforce software engineer, machine learning
+https://careers.salesforce.com/en/jobs/jr223421/software-engineer-machine-learning/
