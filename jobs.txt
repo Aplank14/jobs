@@ -12,8 +12,6 @@ Paylocity:
 Reddit:
 Reddit software engineer, ads infra
 https://boards.greenhouse.io/reddit/jobs/5349804
-Reddit software engineer, ads infra
-https://boards.greenhouse.io/reddit/jobs/5347443
 
 TurnItIn:
 
@@ -50,8 +48,12 @@ https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
 https://jobs.lever.co/1password/ba4e4cf1-8d8a-4fc8-8878-4bf055a43f53
 
 CapitalOne:
-CapitalOne software engineer, ios
-https://www.capitalonecareers.com/job/new-york/software-engineer-ios/1732/56648646656
+CapitalOne ingeniero(a) en jefe de software - full stack (gerente, colaborador individual)
+https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/56605658896
+CapitalOne senor full stack engineer
+https://www.capitalonecareers.com/job/mclean/senor-full-stack-engineer/1732/56700159056
+CapitalOne gerente sénior, ingeniería de software - full stack (gerente sénior, líder de equipo)
+https://www.capitalonecareers.com/job/mexico-city/gerente-senior-ingenieria-de-software-full-stack-gerente-senior-lider-de-equipo/1732/56605658688
 
 Salesforce:
 Salesforce full-stack software engineer - frontend
@@ -62,8 +64,6 @@ Salesforce full-stack software engineer - backend
 https://careers.salesforce.com/en/jobs/jr210031/full-stack-software-engineer-backend/
 Salesforce full-stack software engineer, front end focus
 https://careers.salesforce.com/en/jobs/jr224943/full-stack-software-engineer-front-end-focus/
-Salesforce microservices-service mesh
-https://careers.salesforce.com/en/jobs/jr224253/microservices-service-mesh/
 Salesforce full-stack software engineer
 https://careers.salesforce.com/en/jobs/jr213253/full-stack-software-engineer/
 Salesforce backend software engineer - heroku
