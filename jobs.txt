@@ -44,18 +44,20 @@ https://jobs.lever.co/1password/cd818e35-5ff0-4534-a905-5c8b34de8c07
 https://jobs.lever.co/1password/7cf37e4c-3ba3-43e9-a651-7d9c23d91be7
 1Password ios developer
 https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
-1Password rust developer
-https://jobs.lever.co/1password/ba4e4cf1-8d8a-4fc8-8878-4bf055a43f53
 
 CapitalOne:
 CapitalOne ingeniero(a) en jefe de software - full stack (gerente, colaborador individual)
-https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/56605658896
-CapitalOne senor full stack engineer
-https://www.capitalonecareers.com/job/mclean/senor-full-stack-engineer/1732/56700159056
-CapitalOne gerente sénior, ingeniería de software - full stack (gerente sénior, líder de equipo)
-https://www.capitalonecareers.com/job/mexico-city/gerente-senior-ingenieria-de-software-full-stack-gerente-senior-lider-de-equipo/1732/56605658688
+https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/56853302176
+CapitalOne mainframe engineer
+https://www.capitalonecareers.com/job/richmond/mainframe-engineer/1732/56836921792
 
 Salesforce:
+Salesforce software engineering pmts
+https://careers.salesforce.com/en/jobs/jr226729/software-engineering-pmts/
+Salesforce data engineer
+https://careers.salesforce.com/en/jobs/jr220763/data-engineer/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr221123/software-engineering-smts/
 Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce platform engineer
@@ -66,12 +68,8 @@ Salesforce full-stack software engineer, front end focus
 https://careers.salesforce.com/en/jobs/jr224943/full-stack-software-engineer-front-end-focus/
 Salesforce full-stack software engineer
 https://careers.salesforce.com/en/jobs/jr213253/full-stack-software-engineer/
-Salesforce backend software engineer - heroku
-https://careers.salesforce.com/en/jobs/jr225183/backend-software-engineer-heroku/
 Salesforce software engineer, frontend - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207003/software-engineer-frontend-slack-multiple-levels/
-Salesforce data engineer
-https://careers.salesforce.com/en/jobs/jr220763/data-engineer/
 Salesforce heroku salesforce admin
 https://careers.salesforce.com/en/jobs/jr215243/heroku-salesforce-admin/
 Salesforce software engineer, backend - slack (multiple levels)
@@ -80,8 +78,6 @@ Salesforce software engineer, android - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
 Salesforce salesforce developer
 https://careers.salesforce.com/en/jobs/jr225887/salesforce-developer/
-Salesforce frontend software engineer - heroku
-https://careers.salesforce.com/en/jobs/jr225318/frontend-software-engineer-heroku/
 Salesforce developer support engineer (ts/sci) govcloud
 https://careers.salesforce.com/en/jobs/jr177750/developer-support-engineer-tssci-govcloud/
 Salesforce software engineer, machine learning
