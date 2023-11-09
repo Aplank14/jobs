@@ -2,16 +2,12 @@
 Spotify:
 
 Discord:
-Discord data engineer
-https://discord.com/jobs/6966192002
 
 Remitly:
 
 Paylocity:
 
 Reddit:
-Reddit software engineer, ads infra
-https://boards.greenhouse.io/reddit/jobs/5349804
 
 TurnItIn:
 
@@ -22,8 +18,6 @@ Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/4813946/software-engineer-backend/?gh_jid=4813946
-Pintrest software engineer, android
-https://www.pinterestcareers.com/en/jobs/4807475/software-engineer-android/?gh_jid=4807475
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest site reliability engineer
@@ -36,8 +30,6 @@ Pintrest integrity analyst
 https://www.pinterestcareers.com/en/jobs/5451138/integrity-analyst/?gh_jid=5451138
 
 1Password:
-1Password android developer
-https://jobs.lever.co/1password/f13fa52d-208d-4506-a34a-61a9e4f66946
 1Password backend developer
 https://jobs.lever.co/1password/cd818e35-5ff0-4534-a905-5c8b34de8c07
 1Password developer, product foundations
@@ -46,12 +38,16 @@ https://jobs.lever.co/1password/7cf37e4c-3ba3-43e9-a651-7d9c23d91be7
 https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
 
 CapitalOne:
-CapitalOne ingeniero(a) en jefe de software - full stack (gerente, colaborador individual)
-https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/56853302176
-CapitalOne mainframe engineer
-https://www.capitalonecareers.com/job/richmond/mainframe-engineer/1732/56836921792
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/56934083408
 
 Salesforce:
+Salesforce salesforce platform developer
+https://careers.salesforce.com/en/jobs/jr224469/salesforce-platform-developer/
+Salesforce data engineer smts - pricing
+https://careers.salesforce.com/en/jobs/jr221521/data-engineer-smts-pricing/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr224481/software-engineering-smts/
 Salesforce software engineering pmts
 https://careers.salesforce.com/en/jobs/jr226729/software-engineering-pmts/
 Salesforce data engineer
@@ -70,8 +66,6 @@ Salesforce full-stack software engineer
 https://careers.salesforce.com/en/jobs/jr213253/full-stack-software-engineer/
 Salesforce software engineer, frontend - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207003/software-engineer-frontend-slack-multiple-levels/
-Salesforce heroku salesforce admin
-https://careers.salesforce.com/en/jobs/jr215243/heroku-salesforce-admin/
 Salesforce software engineer, backend - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207025/software-engineer-backend-slack-multiple-levels/
 Salesforce software engineer, android - slack (multiple levels)
@@ -80,5 +74,3 @@ Salesforce salesforce developer
 https://careers.salesforce.com/en/jobs/jr225887/salesforce-developer/
 Salesforce developer support engineer (ts/sci) govcloud
 https://careers.salesforce.com/en/jobs/jr177750/developer-support-engineer-tssci-govcloud/
-Salesforce software engineer, machine learning
-https://careers.salesforce.com/en/jobs/jr223421/software-engineer-machine-learning/
