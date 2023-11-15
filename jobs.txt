@@ -4,18 +4,30 @@ Spotify:
 Discord:
 Discord core tech - native framework & tools intern
 https://discord.com/jobs/7005313002
+Discord data engineer intern
+https://discord.com/jobs/7003700002
+Discord data science intern, analytics
+https://discord.com/jobs/7003713002
+Discord data science intern, causal inference
+https://discord.com/jobs/7003727002
+Discord software engineer intern - design systems
+https://discord.com/jobs/7003736002
 Discord software engineer intern - nitro growth
 https://discord.com/jobs/7003743002
 Discord software engineer intern - perks (core product)
 https://discord.com/jobs/7003740002
 Discord software engineer intern - platform ecosystems
 https://discord.com/jobs/7003744002
+Discord software engineer intern, data products
+https://discord.com/jobs/7005241002
 Discord software engineer- client platforms intern
 https://discord.com/jobs/7003739002
 
 Remitly:
 
 Paylocity:
+Paylocity associate security engineer - remote, us
+https://www.paylocity.com/careers/product-technology/?jobid=24107
 
 Reddit:
 
@@ -27,13 +39,11 @@ Pintrest:
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest software engineer, backend
-https://www.pinterestcareers.com/en/jobs/4813946/software-engineer-backend/?gh_jid=4813946
-Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest software engineer, backend
+https://www.pinterestcareers.com/en/jobs/4813946/software-engineer-backend/?gh_jid=4813946
 Pintrest site reliability engineer
 https://www.pinterestcareers.com/en/jobs/4987965/site-reliability-engineer/?gh_jid=4987965
-Pintrest software engineer ii, release
-https://www.pinterestcareers.com/en/jobs/5396224/software-engineer-ii-release/?gh_jid=5396224
 Pintrest data scientist, data platform sciences
 https://www.pinterestcareers.com/en/jobs/5337884/data-scientist-data-platform-sciences/?gh_jid=5337884
 Pintrest integrity analyst
@@ -44,8 +54,12 @@ https://www.pinterestcareers.com/en/jobs/5451138/integrity-analyst/?gh_jid=54511
 https://jobs.lever.co/1password/7cf37e4c-3ba3-43e9-a651-7d9c23d91be7
 
 CapitalOne:
+CapitalOne job posting title ingeniero(a) en jefe de software - full stack (gerente, colaborador individual)
+https://www.capitalonecareers.com/job/mexico-city/job-posting-title-ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/57237601232
 
 Salesforce:
+Salesforce full-stack software engineer - backend
+https://careers.salesforce.com/en/jobs/jr210031/full-stack-software-engineer-backend/
 Salesforce software engineer ii, test infrastructure (devxp) - slack
 https://careers.salesforce.com/en/jobs/jr226627/software-engineer-ii-test-infrastructure-devxp-slack/
 Salesforce software engineering pmts
@@ -62,8 +76,6 @@ Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce platform engineer
 https://careers.salesforce.com/en/jobs/jr221100/platform-engineer/
-Salesforce full-stack software engineer - backend
-https://careers.salesforce.com/en/jobs/jr210031/full-stack-software-engineer-backend/
 Salesforce full-stack software engineer, front end focus
 https://careers.salesforce.com/en/jobs/jr224943/full-stack-software-engineer-front-end-focus/
 Salesforce full-stack software engineer
@@ -74,5 +86,3 @@ Salesforce software engineer, android - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
 Salesforce salesforce developer
 https://careers.salesforce.com/en/jobs/jr225887/salesforce-developer/
-Salesforce developer support engineer (ts/sci) govcloud
-https://careers.salesforce.com/en/jobs/jr177750/developer-support-engineer-tssci-govcloud/
