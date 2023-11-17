@@ -18,6 +18,8 @@ Discord software engineer intern - perks (core product)
 https://discord.com/jobs/7003740002
 Discord software engineer intern - platform ecosystems
 https://discord.com/jobs/7003744002
+Discord software engineer intern - security
+https://discord.com/jobs/7005231002
 Discord software engineer intern, data products
 https://discord.com/jobs/7005241002
 Discord software engineer- client platforms intern
@@ -26,7 +28,7 @@ https://discord.com/jobs/7003739002
 Remitly:
 
 Paylocity:
-Paylocity associate security engineer - remote, us
+Paylocity associate iam engineer - remote, us
 https://www.paylocity.com/careers/product-technology/?jobid=24107
 
 Reddit:
@@ -54,12 +56,26 @@ https://www.pinterestcareers.com/en/jobs/5451138/integrity-analyst/?gh_jid=54511
 https://jobs.lever.co/1password/7cf37e4c-3ba3-43e9-a651-7d9c23d91be7
 
 CapitalOne:
-CapitalOne job posting title ingeniero(a) en jefe de software - full stack (gerente, colaborador individual)
-https://www.capitalonecareers.com/job/mexico-city/job-posting-title-ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/57237601232
+CapitalOne ingeniero(a) en jefe de software - full stack (gerente, colaborador individual)
+https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/57237601232
 
 Salesforce:
+Salesforce full-stack software engineer - platform services
+https://careers.salesforce.com/en/jobs/jr225981/full-stack-software-engineer-platform-services/
 Salesforce full-stack software engineer - backend
 https://careers.salesforce.com/en/jobs/jr210031/full-stack-software-engineer-backend/
+Salesforce software engineer, backend - slack (multiple levels)
+https://careers.salesforce.com/en/jobs/jr207025/software-engineer-backend-slack-multiple-levels/
+Salesforce machine learning engineer
+https://careers.salesforce.com/en/jobs/jr211304/machine-learning-engineer/
+Salesforce software engineer, android - slack (multiple levels)
+https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
+Salesforce front-end software engineer
+https://careers.salesforce.com/en/jobs/jr225354/front-end-software-engineer/
+Salesforce data analytics platform - engineer
+https://careers.salesforce.com/en/jobs/jr225035/data-analytics-platform-engineer/
+Salesforce software engineer ii, full stack
+https://careers.salesforce.com/en/jobs/jr228554/software-engineer-ii-full-stack/
 Salesforce software engineer ii, test infrastructure (devxp) - slack
 https://careers.salesforce.com/en/jobs/jr226627/software-engineer-ii-test-infrastructure-devxp-slack/
 Salesforce software engineering pmts
@@ -82,7 +98,3 @@ Salesforce full-stack software engineer
 https://careers.salesforce.com/en/jobs/jr213253/full-stack-software-engineer/
 Salesforce software engineer, frontend - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207003/software-engineer-frontend-slack-multiple-levels/
-Salesforce software engineer, android - slack (multiple levels)
-https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
-Salesforce salesforce developer
-https://careers.salesforce.com/en/jobs/jr225887/salesforce-developer/
