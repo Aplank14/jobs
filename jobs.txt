@@ -60,14 +60,14 @@ https://jobs.lever.co/1password/7cf37e4c-3ba3-43e9-a651-7d9c23d91be7
 CapitalOne:
 
 Salesforce:
-Salesforce data engineer lmts - pricing
-https://careers.salesforce.com/en/jobs/jr221521/data-engineer-lmts-pricing/
 Salesforce full-stack software engineer - platform services
 https://careers.salesforce.com/en/jobs/jr225981/full-stack-software-engineer-platform-services/
-Salesforce front-end software engineer
-https://careers.salesforce.com/en/jobs/jr225354/front-end-software-engineer/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr228826/software-engineering-lmts/
+Salesforce data engineer lmts - pricing
+https://careers.salesforce.com/en/jobs/jr221521/data-engineer-lmts-pricing/
+Salesforce front-end software engineer
+https://careers.salesforce.com/en/jobs/jr225354/front-end-software-engineer/
 Salesforce data analytics platform - engineer
 https://careers.salesforce.com/en/jobs/jr225035/data-analytics-platform-engineer/
 Salesforce software engineer ii, full stack
