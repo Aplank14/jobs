@@ -56,8 +56,12 @@ https://www.pinterestcareers.com/en/jobs/5451138/integrity-analyst/?gh_jid=54511
 1Password:
 1Password developer, product foundations
 https://jobs.lever.co/1password/7cf37e4c-3ba3-43e9-a651-7d9c23d91be7
+1Password rust developer
+https://jobs.lever.co/1password/9ce0439d-d071-48ec-901b-38b23abfe411
 
 CapitalOne:
+CapitalOne data engineer
+https://www.capitalonecareers.com/job/mclean/data-engineer/1732/57858266384
 
 Salesforce:
 Salesforce full-stack software engineer - platform services
