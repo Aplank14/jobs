@@ -54,28 +54,34 @@ Pintrest integrity analyst
 https://www.pinterestcareers.com/en/jobs/5451138/integrity-analyst/?gh_jid=5451138
 
 1Password:
+1Password technical writer
+https://jobs.lever.co/1password/3ecfacb5-cb58-43b3-8bc3-f77826e872a7
 1Password developer, product foundations
 https://jobs.lever.co/1password/7cf37e4c-3ba3-43e9-a651-7d9c23d91be7
 1Password rust developer
 https://jobs.lever.co/1password/9ce0439d-d071-48ec-901b-38b23abfe411
 
 CapitalOne:
-CapitalOne data engineer
-https://www.capitalonecareers.com/job/mclean/data-engineer/1732/57858266384
+CapitalOne technology internship program - summer 2024
+https://www.capitalonecareers.com/job/richmond/technology-internship-program-summer-2024/31238/57932226048
+CapitalOne software engineer, front end
+https://www.capitalonecareers.com/job/mclean/software-engineer-front-end/1732/57910754704
 
 Salesforce:
+Salesforce fullstack software engineer ii, slack
+https://careers.salesforce.com/en/jobs/jr230535/fullstack-software-engineer-ii-slack/
+Salesforce software engineering pmts
+https://careers.salesforce.com/en/jobs/jr230080/software-engineering-pmts/
+Salesforce data analytics platform - engineer
+https://careers.salesforce.com/en/jobs/jr225035/data-analytics-platform-engineer/
+Salesforce svp, engineering, integration and automation
+https://careers.salesforce.com/en/jobs/jr229583/svp-engineering-integration-and-automation/
 Salesforce full-stack software engineer - platform services
 https://careers.salesforce.com/en/jobs/jr225981/full-stack-software-engineer-platform-services/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr228826/software-engineering-lmts/
-Salesforce data engineer lmts - pricing
-https://careers.salesforce.com/en/jobs/jr221521/data-engineer-lmts-pricing/
 Salesforce front-end software engineer
 https://careers.salesforce.com/en/jobs/jr225354/front-end-software-engineer/
-Salesforce data analytics platform - engineer
-https://careers.salesforce.com/en/jobs/jr225035/data-analytics-platform-engineer/
-Salesforce software engineer ii, full stack
-https://careers.salesforce.com/en/jobs/jr228554/software-engineer-ii-full-stack/
 Salesforce risk and compliance engineer
 https://careers.salesforce.com/en/jobs/jr229482/risk-and-compliance-engineer/
 Salesforce full-stack software engineer - backend
@@ -84,8 +90,6 @@ Salesforce machine learning engineer
 https://careers.salesforce.com/en/jobs/jr211304/machine-learning-engineer/
 Salesforce software engineer, android - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
-Salesforce software engineer ii, test infrastructure (devxp) - slack
-https://careers.salesforce.com/en/jobs/jr226627/software-engineer-ii-test-infrastructure-devxp-slack/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr224481/software-engineering-smts/
 Salesforce data engineer
