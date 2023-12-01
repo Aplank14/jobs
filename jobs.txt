@@ -30,12 +30,12 @@ https://discord.com/jobs/7007251002
 Remitly:
 
 Paylocity:
-Paylocity associate iam security engineer - remote, us
-https://www.paylocity.com/careers/product-technology/?jobid=24107
-Paylocity security software engineer - remote, us
-https://www.paylocity.com/careers/product-technology/?jobid=22709
 
 Reddit:
+Reddit backend engineer, growth
+https://boards.greenhouse.io/reddit/jobs/5447599
+Reddit backend engineer, seo 
+https://boards.greenhouse.io/reddit/jobs/5397161
 
 TurnItIn:
 
@@ -62,20 +62,22 @@ https://jobs.lever.co/1password/7cf37e4c-3ba3-43e9-a651-7d9c23d91be7
 https://jobs.lever.co/1password/9ce0439d-d071-48ec-901b-38b23abfe411
 
 CapitalOne:
-CapitalOne technology internship program - summer 2024
-https://www.capitalonecareers.com/job/richmond/technology-internship-program-summer-2024/31238/57932226048
-CapitalOne software engineer, front end
-https://www.capitalonecareers.com/job/mclean/software-engineer-front-end/1732/57910754704
+CapitalOne data engineer
+https://www.capitalonecareers.com/job/mclean/data-engineer/1732/56216930640
 
 Salesforce:
-Salesforce fullstack software engineer ii, slack
-https://careers.salesforce.com/en/jobs/jr230535/fullstack-software-engineer-ii-slack/
-Salesforce software engineering pmts
-https://careers.salesforce.com/en/jobs/jr230080/software-engineering-pmts/
-Salesforce data analytics platform - engineer
-https://careers.salesforce.com/en/jobs/jr225035/data-analytics-platform-engineer/
 Salesforce svp, engineering, integration and automation
 https://careers.salesforce.com/en/jobs/jr229583/svp-engineering-integration-and-automation/
+Salesforce data analytics platform - implementation analyst
+https://careers.salesforce.com/en/jobs/jr225035/data-analytics-platform-implementation-analyst/
+Salesforce fullstack software engineer ii, slack
+https://careers.salesforce.com/en/jobs/jr230535/fullstack-software-engineer-ii-slack/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr229386/software-engineering-mts/
+Salesforce software engineering pmts - performance
+https://careers.salesforce.com/en/jobs/jr230104/software-engineering-pmts-performance/
+Salesforce software engineering pmts
+https://careers.salesforce.com/en/jobs/jr230080/software-engineering-pmts/
 Salesforce full-stack software engineer - platform services
 https://careers.salesforce.com/en/jobs/jr225981/full-stack-software-engineer-platform-services/
 Salesforce software engineering lmts
@@ -98,7 +100,3 @@ Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce full-stack software engineer, front end focus
 https://careers.salesforce.com/en/jobs/jr224943/full-stack-software-engineer-front-end-focus/
-Salesforce full-stack software engineer
-https://careers.salesforce.com/en/jobs/jr213253/full-stack-software-engineer/
-Salesforce software engineer, frontend - slack (multiple levels)
-https://careers.salesforce.com/en/jobs/jr207003/software-engineer-frontend-slack-multiple-levels/
