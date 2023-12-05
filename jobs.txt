@@ -56,16 +56,14 @@ Pintrest integrity analyst
 https://www.pinterestcareers.com/en/jobs/5451138/integrity-analyst/?gh_jid=5451138
 
 1Password:
-1Password technical writer
-https://jobs.lever.co/1password/3ecfacb5-cb58-43b3-8bc3-f77826e872a7
 1Password developer, product foundations
 https://jobs.lever.co/1password/7cf37e4c-3ba3-43e9-a651-7d9c23d91be7
-1Password frontend developer, passage
-https://jobs.lever.co/1password/8d41411b-80c3-4304-af3d-c0ee5ae7bfb1
 1Password ios developer
 https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
 1Password rust developer
 https://jobs.lever.co/1password/9ce0439d-d071-48ec-901b-38b23abfe411
+1Password junior golang developer
+https://jobs.lever.co/1password/f283bec1-b2f4-433b-9f92-185e288976b9
 
 CapitalOne:
 CapitalOne data engineer
@@ -74,6 +72,8 @@ https://www.capitalonecareers.com/job/mclean/data-engineer/1732/56216930640
 Salesforce:
 Salesforce svp, engineering, integration and automation
 https://careers.salesforce.com/en/jobs/jr229583/svp-engineering-integration-and-automation/
+Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
+https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce software engineer- lmts
 https://careers.salesforce.com/en/jobs/jr230153/software-engineer-lmts/
 Salesforce software engineering pmts - performance
@@ -86,8 +86,6 @@ Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr229386/software-engineering-mts/
 Salesforce software engineering pmts
 https://careers.salesforce.com/en/jobs/jr230080/software-engineering-pmts/
-Salesforce full-stack software engineer - platform services
-https://careers.salesforce.com/en/jobs/jr225981/full-stack-software-engineer-platform-services/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr228826/software-engineering-lmts/
 Salesforce front-end software engineer
@@ -106,5 +104,3 @@ Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce full-stack software engineer, front end focus
 https://careers.salesforce.com/en/jobs/jr224943/full-stack-software-engineer-front-end-focus/
-Salesforce software engineer, frontend - slack (multiple levels)
-https://careers.salesforce.com/en/jobs/jr207003/software-engineer-frontend-slack-multiple-levels/
