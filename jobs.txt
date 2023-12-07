@@ -50,8 +50,6 @@ Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/4813946/software-engineer-backend/?gh_jid=4813946
-Pintrest data scientist, data platform sciences
-https://www.pinterestcareers.com/en/jobs/5337884/data-scientist-data-platform-sciences/?gh_jid=5337884
 Pintrest integrity analyst
 https://www.pinterestcareers.com/en/jobs/5451138/integrity-analyst/?gh_jid=5451138
 
@@ -62,22 +60,16 @@ https://jobs.lever.co/1password/7cf37e4c-3ba3-43e9-a651-7d9c23d91be7
 https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
 1Password rust developer
 https://jobs.lever.co/1password/9ce0439d-d071-48ec-901b-38b23abfe411
-1Password junior golang developer
-https://jobs.lever.co/1password/f283bec1-b2f4-433b-9f92-185e288976b9
 
 CapitalOne:
-CapitalOne data engineer
-https://www.capitalonecareers.com/job/mclean/data-engineer/1732/56216930640
 
 Salesforce:
-Salesforce svp, engineering, integration and automation
-https://careers.salesforce.com/en/jobs/jr229583/svp-engineering-integration-and-automation/
+Salesforce full-stack software engineer - backend
+https://careers.salesforce.com/en/jobs/jr210031/full-stack-software-engineer-backend/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce software engineer- lmts
 https://careers.salesforce.com/en/jobs/jr230153/software-engineer-lmts/
-Salesforce software engineering pmts - performance
-https://careers.salesforce.com/en/jobs/jr230104/software-engineering-pmts-performance/
 Salesforce data analytics platform - implementation analyst
 https://careers.salesforce.com/en/jobs/jr225035/data-analytics-platform-implementation-analyst/
 Salesforce fullstack software engineer ii, slack
@@ -92,8 +84,6 @@ Salesforce front-end software engineer
 https://careers.salesforce.com/en/jobs/jr225354/front-end-software-engineer/
 Salesforce risk and compliance engineer
 https://careers.salesforce.com/en/jobs/jr229482/risk-and-compliance-engineer/
-Salesforce full-stack software engineer - backend
-https://careers.salesforce.com/en/jobs/jr210031/full-stack-software-engineer-backend/
 Salesforce software engineer, android - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
 Salesforce software engineering smts
@@ -102,5 +92,7 @@ Salesforce data engineer
 https://careers.salesforce.com/en/jobs/jr220763/data-engineer/
 Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
-Salesforce full-stack software engineer, front end focus
-https://careers.salesforce.com/en/jobs/jr224943/full-stack-software-engineer-front-end-focus/
+Salesforce salesforce developer
+https://careers.salesforce.com/en/jobs/jr225887/salesforce-developer/
+Salesforce developer support engineer (ts/sci) govcloud
+https://careers.salesforce.com/en/jobs/jr177750/developer-support-engineer-tssci-govcloud/
