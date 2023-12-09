@@ -62,37 +62,41 @@ https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
 https://jobs.lever.co/1password/9ce0439d-d071-48ec-901b-38b23abfe411
 
 CapitalOne:
+CapitalOne site reliability engineer
+https://www.capitalonecareers.com/job/plano/site-reliability-engineer/1732/58376274112
+CapitalOne devops engineer - firewall
+https://www.capitalonecareers.com/job/plano/devops-engineer-firewall/1732/57388512640
 
 Salesforce:
-Salesforce full-stack software engineer - backend
-https://careers.salesforce.com/en/jobs/jr210031/full-stack-software-engineer-backend/
-Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
-https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
-Salesforce software engineer- lmts
-https://careers.salesforce.com/en/jobs/jr230153/software-engineer-lmts/
-Salesforce data analytics platform - implementation analyst
-https://careers.salesforce.com/en/jobs/jr225035/data-analytics-platform-implementation-analyst/
-Salesforce fullstack software engineer ii, slack
-https://careers.salesforce.com/en/jobs/jr230535/fullstack-software-engineer-ii-slack/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr229386/software-engineering-mts/
-Salesforce software engineering pmts
-https://careers.salesforce.com/en/jobs/jr230080/software-engineering-pmts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr228826/software-engineering-lmts/
-Salesforce front-end software engineer
-https://careers.salesforce.com/en/jobs/jr225354/front-end-software-engineer/
-Salesforce risk and compliance engineer
-https://careers.salesforce.com/en/jobs/jr229482/risk-and-compliance-engineer/
-Salesforce software engineer, android - slack (multiple levels)
-https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr224481/software-engineering-smts/
-Salesforce data engineer
-https://careers.salesforce.com/en/jobs/jr220763/data-engineer/
 Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
+Salesforce software engineer- lmts
+https://careers.salesforce.com/en/jobs/jr230153/software-engineer-lmts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr224481/software-engineering-smts/
+Salesforce full-stack software engineer - backend
+https://careers.salesforce.com/en/jobs/jr210031/full-stack-software-engineer-backend/
+Salesforce fullstack software engineer ii, slack
+https://careers.salesforce.com/en/jobs/jr230535/fullstack-software-engineer-ii-slack/
+Salesforce data engineer
+https://careers.salesforce.com/en/jobs/jr220763/data-engineer/
+Salesforce risk and compliance engineer
+https://careers.salesforce.com/en/jobs/jr229482/risk-and-compliance-engineer/
+Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
+https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce salesforce developer
 https://careers.salesforce.com/en/jobs/jr225887/salesforce-developer/
+Salesforce software engineer, android - slack (multiple levels)
+https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
+Salesforce front-end software engineer
+https://careers.salesforce.com/en/jobs/jr225354/front-end-software-engineer/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr228826/software-engineering-lmts/
+Salesforce software engineering pmts
+https://careers.salesforce.com/en/jobs/jr230080/software-engineering-pmts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr229386/software-engineering-mts/
+Salesforce security engineer - slack
+https://careers.salesforce.com/en/jobs/jr231535/security-engineer-slack/
 Salesforce developer support engineer (ts/sci) govcloud
 https://careers.salesforce.com/en/jobs/jr177750/developer-support-engineer-tssci-govcloud/
