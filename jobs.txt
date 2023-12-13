@@ -24,8 +24,6 @@ Discord software engineer intern - security
 https://discord.com/jobs/7005231002
 Discord software engineer intern, data products
 https://discord.com/jobs/7005241002
-Discord software engineer- client platforms intern
-https://discord.com/jobs/7003739002
 Discord ux researcher intern
 https://discord.com/jobs/7007251002
 
@@ -38,6 +36,8 @@ Reddit backend engineer, growth
 https://boards.greenhouse.io/reddit/jobs/5447599
 Reddit backend engineer, seo 
 https://boards.greenhouse.io/reddit/jobs/5397161
+Reddit vp of product, ads
+https://boards.greenhouse.io/reddit/jobs/5563288
 
 TurnItIn:
 
@@ -54,20 +54,24 @@ Pintrest integrity analyst
 https://www.pinterestcareers.com/en/jobs/5451138/integrity-analyst/?gh_jid=5451138
 
 1Password:
-1Password developer, product foundations
-https://jobs.lever.co/1password/7cf37e4c-3ba3-43e9-a651-7d9c23d91be7
 1Password ios developer
 https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
 1Password rust developer
 https://jobs.lever.co/1password/9ce0439d-d071-48ec-901b-38b23abfe411
 
 CapitalOne:
-CapitalOne site reliability engineer
-https://www.capitalonecareers.com/job/plano/site-reliability-engineer/1732/58376274112
-CapitalOne devops engineer - firewall
-https://www.capitalonecareers.com/job/plano/devops-engineer-firewall/1732/57388512640
+CapitalOne ingeniero(a) sénior de software - full stack
+https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-senior-de-software-full-stack/1732/58555636480
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/56218472112
 
 Salesforce:
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr228826/software-engineering-lmts/
+Salesforce data security engineer - slack
+https://careers.salesforce.com/en/jobs/jr231535/data-security-engineer-slack/
+Salesforce software/data engineering lmts
+https://careers.salesforce.com/en/jobs/jr231562/softwaredata-engineering-lmts/
 Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce software engineer- lmts
@@ -80,23 +84,17 @@ Salesforce fullstack software engineer ii, slack
 https://careers.salesforce.com/en/jobs/jr230535/fullstack-software-engineer-ii-slack/
 Salesforce data engineer
 https://careers.salesforce.com/en/jobs/jr220763/data-engineer/
-Salesforce risk and compliance engineer
-https://careers.salesforce.com/en/jobs/jr229482/risk-and-compliance-engineer/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce salesforce developer
 https://careers.salesforce.com/en/jobs/jr225887/salesforce-developer/
 Salesforce software engineer, android - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
-Salesforce front-end software engineer
-https://careers.salesforce.com/en/jobs/jr225354/front-end-software-engineer/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr228826/software-engineering-lmts/
 Salesforce software engineering pmts
 https://careers.salesforce.com/en/jobs/jr230080/software-engineering-pmts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr229386/software-engineering-mts/
-Salesforce security engineer - slack
-https://careers.salesforce.com/en/jobs/jr231535/security-engineer-slack/
 Salesforce developer support engineer (ts/sci) govcloud
 https://careers.salesforce.com/en/jobs/jr177750/developer-support-engineer-tssci-govcloud/
+Salesforce data analytics platform - implementation analyst
+https://careers.salesforce.com/en/jobs/jr225035/data-analytics-platform-implementation-analyst/
