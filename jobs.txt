@@ -47,9 +47,11 @@ Pintrest:
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest software engineer, backend
-https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
-Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/4813946/software-engineer-backend/?gh_jid=4813946
+Pintrest software engineer, backend
+https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest android software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest integrity analyst
 https://www.pinterestcareers.com/en/jobs/5451138/integrity-analyst/?gh_jid=5451138
 
@@ -60,18 +62,20 @@ https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
 https://jobs.lever.co/1password/9ce0439d-d071-48ec-901b-38b23abfe411
 
 CapitalOne:
-CapitalOne ingeniero(a) sénior de software - full stack
-https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-senior-de-software-full-stack/1732/58555636480
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/56218472112
+CapitalOne vice president, machine learning engineering
+https://www.capitalonecareers.com/job/bengaluru/vice-president-machine-learning-engineering/1732/58643762704
 
 Salesforce:
+Salesforce software/data engineering lmts
+https://careers.salesforce.com/en/jobs/jr231562/softwaredata-engineering-lmts/
+Salesforce front-end software engineer
+https://careers.salesforce.com/en/jobs/jr225354/front-end-software-engineer/
+Salesforce quality engineering mts
+https://careers.salesforce.com/en/jobs/jr229241/quality-engineering-mts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr228826/software-engineering-lmts/
 Salesforce data security engineer - slack
 https://careers.salesforce.com/en/jobs/jr231535/data-security-engineer-slack/
-Salesforce software/data engineering lmts
-https://careers.salesforce.com/en/jobs/jr231562/softwaredata-engineering-lmts/
 Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce software engineer- lmts
@@ -92,8 +96,6 @@ Salesforce software engineer, android - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
 Salesforce software engineering pmts
 https://careers.salesforce.com/en/jobs/jr230080/software-engineering-pmts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr229386/software-engineering-mts/
 Salesforce developer support engineer (ts/sci) govcloud
 https://careers.salesforce.com/en/jobs/jr177750/developer-support-engineer-tssci-govcloud/
 Salesforce data analytics platform - implementation analyst
