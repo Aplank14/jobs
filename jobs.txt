@@ -49,9 +49,9 @@ Pintrest:
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest software engineer, backend
-https://www.pinterestcareers.com/en/jobs/4813946/software-engineer-backend/?gh_jid=4813946
-Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest software engineer, backend
+https://www.pinterestcareers.com/en/jobs/4813946/software-engineer-backend/?gh_jid=4813946
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest integrity analyst
@@ -66,6 +66,10 @@ https://jobs.lever.co/1password/9ce0439d-d071-48ec-901b-38b23abfe411
 CapitalOne:
 
 Salesforce:
+Salesforce data engineer
+https://careers.salesforce.com/en/jobs/jr220621/data-engineer/
+Salesforce security engineer, data analytics - slack
+https://careers.salesforce.com/en/jobs/jr231535/security-engineer-data-analytics-slack/
 Salesforce software engineer, frontend - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207003/software-engineer-frontend-slack-multiple-levels/
 Salesforce front-end software engineer
@@ -74,8 +78,6 @@ Salesforce quality engineering mts
 https://careers.salesforce.com/en/jobs/jr229241/quality-engineering-mts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr228826/software-engineering-lmts/
-Salesforce data security engineer - slack
-https://careers.salesforce.com/en/jobs/jr231535/data-security-engineer-slack/
 Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce full-stack software engineer - backend
