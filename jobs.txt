@@ -82,8 +82,6 @@ Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern 
 https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce software engineer, android - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
-Salesforce quality engineering mts
-https://careers.salesforce.com/en/jobs/jr229241/quality-engineering-mts/
 Salesforce software engineering pmts
 https://careers.salesforce.com/en/jobs/jr230080/software-engineering-pmts/
 Salesforce software engineering lmts
