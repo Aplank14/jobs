@@ -32,10 +32,6 @@ Remitly:
 Paylocity:
 
 Reddit:
-Reddit backend engineer, growth
-https://boards.greenhouse.io/reddit/jobs/5447599
-Reddit backend engineer, seo 
-https://boards.greenhouse.io/reddit/jobs/5397161
 Reddit vp of product, ads
 https://boards.greenhouse.io/reddit/jobs/5563288
 
@@ -47,9 +43,9 @@ Pintrest:
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest software engineer, backend
-https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
-Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/4813946/software-engineer-backend/?gh_jid=4813946
+Pintrest software engineer, backend
+https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest integrity analyst
@@ -68,6 +64,8 @@ CapitalOne site reliability engineer
 https://www.capitalonecareers.com/job/plano/site-reliability-engineer/1732/59060323024
 
 Salesforce:
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr234077/software-engineering-smts/
 Salesforce security engineer, heroku defense & safety
 https://careers.salesforce.com/en/jobs/jr231864/security-engineer-heroku-defense-safety/
 Salesforce full-stack software engineer - frontend
