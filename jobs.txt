@@ -65,7 +65,11 @@ https://www.capitalonecareers.com/job/plano/site-reliability-engineer/1732/59060
 
 Salesforce:
 Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr234091/software-engineering-smts/
+Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr234077/software-engineering-smts/
+Salesforce full-stack software engineer
+https://careers.salesforce.com/en/jobs/jr213253/full-stack-software-engineer/
 Salesforce security engineer, heroku defense & safety
 https://careers.salesforce.com/en/jobs/jr231864/security-engineer-heroku-defense-safety/
 Salesforce full-stack software engineer - frontend
