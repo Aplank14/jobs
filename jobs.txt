@@ -34,6 +34,8 @@ Paylocity:
 Reddit:
 Reddit vp of product, ads
 https://boards.greenhouse.io/reddit/jobs/5563288
+Reddit security engineer - infrasec
+https://boards.greenhouse.io/reddit/jobs/5584167
 
 TurnItIn:
 
@@ -44,6 +46,8 @@ Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/4813946/software-engineer-backend/?gh_jid=4813946
+Pintrest ios software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest site reliability engineer
@@ -64,12 +68,20 @@ https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
 https://jobs.lever.co/1password/9ce0439d-d071-48ec-901b-38b23abfe411
 
 CapitalOne:
+CapitalOne devops engineer - firewall
+https://www.capitalonecareers.com/job/plano/devops-engineer-firewall/1732/57388512640
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/56934083408
 CapitalOne software engineer, front end
 https://www.capitalonecareers.com/job/mclean/software-engineer-front-end/1732/57910754704
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/57186823088
 
 Salesforce:
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr234694/software-engineering-mts/
+Salesforce production support engineer - multiple levels
+https://careers.salesforce.com/en/jobs/jr234670/production-support-engineer-multiple-levels/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr234685/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr234522/software-engineering-mts/
 Salesforce salesforce developer/admin
@@ -100,13 +112,7 @@ Salesforce security engineer, heroku defense & safety
 https://careers.salesforce.com/en/jobs/jr231864/security-engineer-heroku-defense-safety/
 Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
-Salesforce full-stack software engineer - backend
-https://careers.salesforce.com/en/jobs/jr210031/full-stack-software-engineer-backend/
-Salesforce data engineer
-https://careers.salesforce.com/en/jobs/jr220621/data-engineer/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce software engineer, android - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
-Salesforce software engineering pmts
-https://careers.salesforce.com/en/jobs/jr230080/software-engineering-pmts/
