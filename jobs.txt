@@ -64,18 +64,14 @@ https://www.pinterestcareers.com/en/jobs/5451138/integrity-analyst/?gh_jid=54511
 https://jobs.lever.co/1password/96a32563-83a7-41da-9154-0c653e38ff1e
 1Password ios developer
 https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
-1Password rust developer
-https://jobs.lever.co/1password/9ce0439d-d071-48ec-901b-38b23abfe411
 
 CapitalOne:
-CapitalOne devops engineer - firewall
-https://www.capitalonecareers.com/job/plano/devops-engineer-firewall/1732/57388512640
 CapitalOne software engineer, full stack
 https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/56934083408
-CapitalOne software engineer, front end
-https://www.capitalonecareers.com/job/mclean/software-engineer-front-end/1732/57910754704
 
 Salesforce:
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr234532/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr234694/software-engineering-mts/
 Salesforce production support engineer - multiple levels
@@ -88,12 +84,6 @@ Salesforce salesforce developer/admin
 https://careers.salesforce.com/en/jobs/jr229822/salesforce-developeradmin/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr234517/software-engineering-mts/
-Salesforce full-stack software engineer
-https://careers.salesforce.com/en/jobs/jr213253/full-stack-software-engineer/
-Salesforce front-end software engineer
-https://careers.salesforce.com/en/jobs/jr225354/front-end-software-engineer/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr234532/software-engineering-smts/
 Salesforce software engineer - salesforce and mulesoft
 https://careers.salesforce.com/en/jobs/jr233240/software-engineer-salesforce-and-mulesoft/
 Salesforce software engineering mts
