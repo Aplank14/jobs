@@ -42,14 +42,18 @@ TurnItIn:
 Zillow:
 
 Pintrest:
+Pintrest full stack software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
-Pintrest software engineer, backend
-https://www.pinterestcareers.com/en/jobs/4813946/software-engineer-backend/?gh_jid=4813946
+Pintrest backend software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/4813946/backend-software-engineer-core-and-monetization/?gh_jid=4813946
 Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest web software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
 Pintrest site reliability engineer
 https://www.pinterestcareers.com/en/jobs/4987965/site-reliability-engineer/?gh_jid=4987965
 Pintrest android software engineer, core and monetization
@@ -66,14 +70,34 @@ https://jobs.lever.co/1password/96a32563-83a7-41da-9154-0c653e38ff1e
 https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
 
 CapitalOne:
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/56934083408
+CapitalOne technology early internship program - summer 2024
+https://www.capitalonecareers.com/job/mclean/technology-early-internship-program-summer-2024/31238/59847576224
+CapitalOne site reliability engineer
+https://www.capitalonecareers.com/job/plano/site-reliability-engineer/1732/59060323024
 
 Salesforce:
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr234532/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr234694/software-engineering-mts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr235238/software-engineering-lmts/
+Salesforce mts software engineering network security hyperforce
+https://careers.salesforce.com/en/jobs/jr235234/mts-software-engineering-network-security-hyperforce/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr235258/software-engineering-smts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr235244/software-engineering-mts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr235236/software-engineering-mts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr235243/software-engineering-lmts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr235027/software-engineering-mts/
+Salesforce front end software engineer
+https://careers.salesforce.com/en/jobs/jr235020/front-end-software-engineer/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr235034/software-engineering-mts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr234532/software-engineering-smts/
 Salesforce production support engineer - multiple levels
 https://careers.salesforce.com/en/jobs/jr234670/production-support-engineer-multiple-levels/
 Salesforce software engineering smts
@@ -102,7 +126,3 @@ Salesforce security engineer, heroku defense & safety
 https://careers.salesforce.com/en/jobs/jr231864/security-engineer-heroku-defense-safety/
 Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
-Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
-https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
-Salesforce software engineer, android - slack (multiple levels)
-https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
