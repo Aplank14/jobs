@@ -2,36 +2,20 @@
 Spotify:
 
 Discord:
-Discord core tech - native framework & tools intern
-https://discord.com/jobs/7005313002
-Discord creative intern
-https://discord.com/jobs/7007246002
-Discord data engineer intern
-https://discord.com/jobs/7003700002
-Discord data science intern, analytics
-https://discord.com/jobs/7003713002
-Discord data science intern, causal inference
-https://discord.com/jobs/7003727002
-Discord software engineer intern - design systems
-https://discord.com/jobs/7003736002
-Discord software engineer intern - nitro growth
-https://discord.com/jobs/7003743002
-Discord software engineer intern - perks (core product)
-https://discord.com/jobs/7003740002
-Discord software engineer intern - platform ecosystems
-https://discord.com/jobs/7003744002
-Discord software engineer intern - security
-https://discord.com/jobs/7005231002
-Discord software engineer intern, data products
-https://discord.com/jobs/7005241002
-Discord ux researcher intern
-https://discord.com/jobs/7007251002
 
 Remitly:
 
 Paylocity:
 
 Reddit:
+Reddit machine learning engineer, ads conversion modeling 
+https://boards.greenhouse.io/reddit/jobs/5613758
+Reddit machine learning engineer, ads conversion modeling 
+https://boards.greenhouse.io/reddit/jobs/5616789
+Reddit machine learning systems engineer, ads ml platform
+https://boards.greenhouse.io/reddit/jobs/5613752
+Reddit machine learning systems engineer, ads ml platform
+https://boards.greenhouse.io/reddit/jobs/5619678
 Reddit vp of product, ads
 https://boards.greenhouse.io/reddit/jobs/5563288
 Reddit security engineer - infrasec
@@ -48,40 +32,40 @@ Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest backend software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4813946/backend-software-engineer-core-and-monetization/?gh_jid=4813946
-Pintrest ios software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest ios software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest web software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
-Pintrest site reliability engineer
-https://www.pinterestcareers.com/en/jobs/4987965/site-reliability-engineer/?gh_jid=4987965
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
+Pintrest site reliability engineer
+https://www.pinterestcareers.com/en/jobs/4987965/site-reliability-engineer/?gh_jid=4987965
 Pintrest security engineer ii, corporate
 https://www.pinterestcareers.com/en/jobs/5526470/security-engineer-ii-corporate/?gh_jid=5526470
-Pintrest integrity analyst
-https://www.pinterestcareers.com/en/jobs/5451138/integrity-analyst/?gh_jid=5451138
 
 1Password:
-1Password data engineer
-https://jobs.lever.co/1password/96a32563-83a7-41da-9154-0c653e38ff1e
 1Password ios developer
 https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
 
 CapitalOne:
-CapitalOne technology early internship program - summer 2024
-https://www.capitalonecareers.com/job/mclean/technology-early-internship-program-summer-2024/31238/59847576224
-CapitalOne site reliability engineer
-https://www.capitalonecareers.com/job/plano/site-reliability-engineer/1732/59060323024
 
 Salesforce:
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr234694/software-engineering-mts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr235238/software-engineering-lmts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr234694/software-engineering-mts/
 Salesforce mts software engineering network security hyperforce
 https://careers.salesforce.com/en/jobs/jr235234/mts-software-engineering-network-security-hyperforce/
+Salesforce software engineer
+https://careers.salesforce.com/en/jobs/jr233799/software-engineer/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr235621/software-engineering-mts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr235461/software-engineering-mts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr235459/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr235258/software-engineering-smts/
 Salesforce software engineering mts
