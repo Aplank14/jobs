@@ -8,8 +8,6 @@ Remitly:
 Paylocity:
 
 Reddit:
-Reddit  machine learning platfrom engineer
-https://boards.greenhouse.io/reddit/jobs/5619678
 Reddit machine learning engineer, ads measurement
 https://boards.greenhouse.io/reddit/jobs/5593037
 Reddit machine learning engineer, ads measurement
@@ -42,10 +40,10 @@ Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest apprentice engineer
 https://www.pinterestcareers.com/en/jobs/5614115/apprentice-engineer/?gh_jid=5614115
-Pintrest web software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest web software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
 Pintrest site reliability engineer
 https://www.pinterestcareers.com/en/jobs/4987965/site-reliability-engineer/?gh_jid=4987965
 Pintrest android software engineer, core and monetization
@@ -54,14 +52,16 @@ Pintrest security engineer ii, corporate
 https://www.pinterestcareers.com/en/jobs/5526470/security-engineer-ii-corporate/?gh_jid=5526470
 
 1Password:
-1Password ios developer
-https://jobs.lever.co/1password/1f56c273-a9e2-4be1-bc7e-62f9c54d6d2e
 
 CapitalOne:
-CapitalOne site reliability engineer
-https://www.capitalonecareers.com/job/plano/site-reliability-engineer/1732/59060323024
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/56218472112
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/plano/software-engineer-full-stack/1732/60201846336
 
 Salesforce:
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr236556/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr234694/software-engineering-mts/
 Salesforce mts software engineering network security hyperforce
@@ -102,8 +102,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr234685/software-engineering-smts/
 Salesforce software engineer - salesforce and mulesoft
 https://careers.salesforce.com/en/jobs/jr233240/software-engineer-salesforce-and-mulesoft/
-Salesforce software engineer, frontend - slack (multiple levels)
-https://careers.salesforce.com/en/jobs/jr207003/software-engineer-frontend-slack-multiple-levels/
 Salesforce security engineer, heroku defense & safety
 https://careers.salesforce.com/en/jobs/jr231864/security-engineer-heroku-defense-safety/
 Salesforce full-stack software engineer - frontend
