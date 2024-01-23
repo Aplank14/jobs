@@ -32,16 +32,16 @@ Zillow:
 Pintrest:
 Pintrest full stack software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
-Pintrest backend software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/4813946/backend-software-engineer-core-and-monetization/?gh_jid=4813946
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
-Pintrest ios software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
-Pintrest apprentice engineer
-https://www.pinterestcareers.com/en/jobs/5614115/apprentice-engineer/?gh_jid=5614115
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest ios software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
+Pintrest backend software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/4813946/backend-software-engineer-core-and-monetization/?gh_jid=4813946
+Pintrest apprentice engineer
+https://www.pinterestcareers.com/en/jobs/5614115/apprentice-engineer/?gh_jid=5614115
 Pintrest web software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
 Pintrest site reliability engineer
@@ -54,16 +54,16 @@ https://www.pinterestcareers.com/en/jobs/5526470/security-engineer-ii-corporate/
 1Password:
 
 CapitalOne:
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/56218472112
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/plano/software-engineer-full-stack/1732/60201846336
+CapitalOne software engineer, front end
+https://www.capitalonecareers.com/job/mclean/software-engineer-front-end/1732/57910754704
+CapitalOne data engineer
+https://www.capitalonecareers.com/job/new-york/data-engineer/1732/60340383584
 
 Salesforce:
+Salesforce production support engineer - multiple levels
+https://careers.salesforce.com/en/jobs/jr234670/production-support-engineer-multiple-levels/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr236556/software-engineering-smts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr234694/software-engineering-mts/
 Salesforce mts software engineering network security hyperforce
 https://careers.salesforce.com/en/jobs/jr235234/mts-software-engineering-network-security-hyperforce/
 Salesforce software engineering smts
@@ -96,10 +96,6 @@ Salesforce front end software engineer
 https://careers.salesforce.com/en/jobs/jr235020/front-end-software-engineer/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr235034/software-engineering-mts/
-Salesforce production support engineer - multiple levels
-https://careers.salesforce.com/en/jobs/jr234670/production-support-engineer-multiple-levels/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr234685/software-engineering-smts/
 Salesforce software engineer - salesforce and mulesoft
 https://careers.salesforce.com/en/jobs/jr233240/software-engineer-salesforce-and-mulesoft/
 Salesforce security engineer, heroku defense & safety
@@ -110,3 +106,5 @@ Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern 
 https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce software engineer, android - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
+Salesforce developer support engineer (ts/sci) govcloud
+https://careers.salesforce.com/en/jobs/jr177750/developer-support-engineer-tssci-govcloud/
