@@ -20,6 +20,8 @@ Reddit software engineer, ads safety and verification
 https://boards.greenhouse.io/reddit/jobs/5605784
 Reddit software engineer, ads safety and verification
 https://boards.greenhouse.io/reddit/jobs/5591190
+Reddit trust & safety policy contractor, legal removals policy, arabic
+https://boards.greenhouse.io/reddit/jobs/5647615
 Reddit vp of product, ads
 https://boards.greenhouse.io/reddit/jobs/5563288
 Reddit security engineer - infrasec
@@ -34,8 +36,6 @@ Pintrest full stack software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
-Pintrest software engineer, backend
-https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest backend software engineer, core and monetization
@@ -54,18 +54,12 @@ https://www.pinterestcareers.com/en/jobs/5526470/security-engineer-ii-corporate/
 1Password:
 
 CapitalOne:
-CapitalOne software engineer, front end
-https://www.capitalonecareers.com/job/mclean/software-engineer-front-end/1732/57910754704
-CapitalOne data engineer
-https://www.capitalonecareers.com/job/new-york/data-engineer/1732/60340383584
 
 Salesforce:
 Salesforce production support engineer - multiple levels
 https://careers.salesforce.com/en/jobs/jr234670/production-support-engineer-multiple-levels/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr236556/software-engineering-smts/
-Salesforce mts software engineering network security hyperforce
-https://careers.salesforce.com/en/jobs/jr235234/mts-software-engineering-network-security-hyperforce/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr236390/software-engineering-smts/
 Salesforce software engineering smts
@@ -74,28 +68,12 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr235997/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr235973/software-engineering-mts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr235238/software-engineering-lmts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr235621/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr235461/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr235459/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr235258/software-engineering-smts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr235244/software-engineering-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr235236/software-engineering-mts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr235243/software-engineering-lmts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr235027/software-engineering-mts/
-Salesforce front end software engineer
-https://careers.salesforce.com/en/jobs/jr235020/front-end-software-engineer/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr235034/software-engineering-mts/
 Salesforce software engineer - salesforce and mulesoft
 https://careers.salesforce.com/en/jobs/jr233240/software-engineer-salesforce-and-mulesoft/
 Salesforce security engineer, heroku defense & safety
