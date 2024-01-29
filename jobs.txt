@@ -38,10 +38,10 @@ Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest backend software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4813946/backend-software-engineer-core-and-monetization/?gh_jid=4813946
-Pintrest ios software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest apprentice engineer
 https://www.pinterestcareers.com/en/jobs/5614115/apprentice-engineer/?gh_jid=5614115
+Pintrest ios software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest web software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
 Pintrest site reliability engineer
@@ -56,12 +56,10 @@ https://www.pinterestcareers.com/en/jobs/5526470/security-engineer-ii-corporate/
 https://jobs.lever.co/1password/9d2eae5e-9862-47ea-8ea4-e8aabc9b507e
 
 CapitalOne:
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/57186823088
 CapitalOne software engineer- people tech
 https://www.capitalonecareers.com/job/mclean/software-engineer-people-tech/1732/60517402912
-CapitalOne software engineer
-https://www.capitalonecareers.com/job/plano/software-engineer/1732/60517402784
-CapitalOne ingeniero(a) sénior de software - full stack
-https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-senior-de-software-full-stack/1732/58555636480
 
 Salesforce:
 Salesforce software engineer ii backend
@@ -84,8 +82,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr235997/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr235973/software-engineering-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr235621/software-engineering-mts/
 Salesforce software engineer - salesforce and mulesoft
 https://careers.salesforce.com/en/jobs/jr233240/software-engineer-salesforce-and-mulesoft/
 Salesforce security engineer, heroku defense & safety
