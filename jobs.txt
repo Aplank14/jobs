@@ -26,6 +26,10 @@ Reddit vp of product, ads
 https://boards.greenhouse.io/reddit/jobs/5563288
 Reddit security engineer - infrasec
 https://boards.greenhouse.io/reddit/jobs/5584167
+Reddit software engineer, privacy and security
+https://boards.greenhouse.io/reddit/jobs/5657053
+Reddit software engineer, privacy and security
+https://boards.greenhouse.io/reddit/jobs/5642428
 
 TurnItIn:
 
@@ -38,14 +42,14 @@ Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest backend software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4813946/backend-software-engineer-core-and-monetization/?gh_jid=4813946
-Pintrest apprentice engineer
-https://www.pinterestcareers.com/en/jobs/5614115/apprentice-engineer/?gh_jid=5614115
 Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest web software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
 Pintrest site reliability engineer
 https://www.pinterestcareers.com/en/jobs/4987965/site-reliability-engineer/?gh_jid=4987965
+Pintrest software engineer, web
+https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest security engineer ii, corporate
@@ -54,14 +58,16 @@ https://www.pinterestcareers.com/en/jobs/5526470/security-engineer-ii-corporate/
 1Password:
 1Password solutions engineer, channel
 https://jobs.lever.co/1password/9d2eae5e-9862-47ea-8ea4-e8aabc9b507e
+1Password cms associate
+https://jobs.lever.co/1password/d8a1d41f-ff87-412e-8ac1-54bb377bd030
 
 CapitalOne:
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/57186823088
-CapitalOne software engineer- people tech
-https://www.capitalonecareers.com/job/mclean/software-engineer-people-tech/1732/60517402912
+CapitalOne data engineer
+https://www.capitalonecareers.com/job/mclean/data-engineer/1732/57960232032
 
 Salesforce:
+Salesforce production support engineer (sre)
+https://careers.salesforce.com/en/jobs/jr237369/production-support-engineer-sre/
 Salesforce software engineer ii backend
 https://careers.salesforce.com/en/jobs/jr237234/software-engineer-ii-backend/
 Salesforce software engineering smts
@@ -76,12 +82,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr236556/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr236390/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr235994/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr235997/software-engineering-smts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr235973/software-engineering-mts/
 Salesforce software engineer - salesforce and mulesoft
 https://careers.salesforce.com/en/jobs/jr233240/software-engineer-salesforce-and-mulesoft/
 Salesforce security engineer, heroku defense & safety
