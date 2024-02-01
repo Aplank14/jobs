@@ -16,10 +16,6 @@ Reddit machine learning engineer, ads prediction
 https://boards.greenhouse.io/reddit/jobs/5621908
 Reddit machine learning platfrom engineer
 https://boards.greenhouse.io/reddit/jobs/5613752
-Reddit software engineer, ads safety and verification
-https://boards.greenhouse.io/reddit/jobs/5605784
-Reddit software engineer, ads safety and verification
-https://boards.greenhouse.io/reddit/jobs/5591190
 Reddit trust & safety policy contractor, legal removals policy, arabic
 https://boards.greenhouse.io/reddit/jobs/5647615
 Reddit vp of product, ads
@@ -46,10 +42,10 @@ Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest web software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
-Pintrest site reliability engineer
-https://www.pinterestcareers.com/en/jobs/4987965/site-reliability-engineer/?gh_jid=4987965
 Pintrest software engineer, web
 https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
+Pintrest site reliability engineer
+https://www.pinterestcareers.com/en/jobs/4987965/site-reliability-engineer/?gh_jid=4987965
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest security engineer ii, corporate
@@ -62,10 +58,10 @@ https://jobs.lever.co/1password/9d2eae5e-9862-47ea-8ea4-e8aabc9b507e
 https://jobs.lever.co/1password/d8a1d41f-ff87-412e-8ac1-54bb377bd030
 
 CapitalOne:
-CapitalOne data engineer
-https://www.capitalonecareers.com/job/mclean/data-engineer/1732/57960232032
 
 Salesforce:
+Salesforce systems engineering associate
+https://careers.salesforce.com/en/jobs/jr237598/systems-engineering-associate/
 Salesforce production support engineer (sre)
 https://careers.salesforce.com/en/jobs/jr237369/production-support-engineer-sre/
 Salesforce software engineer ii backend
@@ -84,8 +80,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr236390/software-engineering-smts/
 Salesforce software engineer - salesforce and mulesoft
 https://careers.salesforce.com/en/jobs/jr233240/software-engineer-salesforce-and-mulesoft/
-Salesforce security engineer, heroku defense & safety
-https://careers.salesforce.com/en/jobs/jr231864/security-engineer-heroku-defense-safety/
 Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
