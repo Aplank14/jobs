@@ -80,10 +80,6 @@ Salesforce production support engineer - multiple levels
 https://careers.salesforce.com/en/jobs/jr234670/production-support-engineer-multiple-levels/
 Salesforce software engineer
 https://careers.salesforce.com/en/jobs/jr237231/software-engineer/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr236556/software-engineering-smts/
-Salesforce software engineer - salesforce and mulesoft
-https://careers.salesforce.com/en/jobs/jr233240/software-engineer-salesforce-and-mulesoft/
 Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
