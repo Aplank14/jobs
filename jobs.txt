@@ -12,8 +12,10 @@ Reddit machine learning engineer, ads optimization
 https://boards.greenhouse.io/reddit/jobs/5661400
 Reddit machine learning engineer, ads optimization
 https://boards.greenhouse.io/reddit/jobs/5629533
-Reddit machine learning platfrom engineer
-https://boards.greenhouse.io/reddit/jobs/5613752
+Reddit software engineer - dataapi
+https://boards.greenhouse.io/reddit/jobs/5643136
+Reddit software engineer - developer platform
+https://boards.greenhouse.io/reddit/jobs/5643134
 Reddit trust & safety policy contractor, legal removals policy, arabic
 https://boards.greenhouse.io/reddit/jobs/5647615
 Reddit vp of product, ads
@@ -62,6 +64,10 @@ https://jobs.lever.co/1password/9d2eae5e-9862-47ea-8ea4-e8aabc9b507e
 https://jobs.lever.co/1password/d8a1d41f-ff87-412e-8ac1-54bb377bd030
 
 CapitalOne:
+CapitalOne site reliability engineer
+https://www.capitalonecareers.com/job/plano/site-reliability-engineer/1732/59060323024
+CapitalOne full stack engineer - capital one software (remote)
+https://www.capitalonecareers.com/job/remote/full-stack-engineer-capital-one-software-remote/1732/60991568848
 
 Salesforce:
 Salesforce frontend software engineer, keynote demos
