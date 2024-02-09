@@ -8,10 +8,6 @@ Remitly:
 Paylocity:
 
 Reddit:
-Reddit machine learning engineer, ads optimization
-https://boards.greenhouse.io/reddit/jobs/5661400
-Reddit machine learning engineer, ads optimization
-https://boards.greenhouse.io/reddit/jobs/5629533
 Reddit software engineer - dataapi
 https://boards.greenhouse.io/reddit/jobs/5643136
 Reddit software engineer - developer platform
@@ -21,7 +17,11 @@ https://boards.greenhouse.io/reddit/jobs/5647615
 Reddit vp of product, ads
 https://boards.greenhouse.io/reddit/jobs/5563288
 Reddit security engineer - infrasec
+https://boards.greenhouse.io/reddit/jobs/5692658
+Reddit security engineer - infrasec
 https://boards.greenhouse.io/reddit/jobs/5584167
+Reddit security engineer - infrasec
+https://boards.greenhouse.io/reddit/jobs/5692660
 Reddit security engineer, corpsec
 https://boards.greenhouse.io/reddit/jobs/5663692
 Reddit security engineer, corpsec
@@ -48,10 +48,10 @@ Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest web software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
-Pintrest software engineer, web
-https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
 Pintrest site reliability engineer
 https://www.pinterestcareers.com/en/jobs/4987965/site-reliability-engineer/?gh_jid=4987965
+Pintrest software engineer, web
+https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest security engineer ii, corporate
@@ -64,28 +64,32 @@ https://jobs.lever.co/1password/9d2eae5e-9862-47ea-8ea4-e8aabc9b507e
 https://jobs.lever.co/1password/d8a1d41f-ff87-412e-8ac1-54bb377bd030
 
 CapitalOne:
-CapitalOne site reliability engineer
-https://www.capitalonecareers.com/job/plano/site-reliability-engineer/1732/59060323024
-CapitalOne full stack engineer - capital one software (remote)
-https://www.capitalonecareers.com/job/remote/full-stack-engineer-capital-one-software-remote/1732/60991568848
+CapitalOne ingeniero(a) de software - full stack
+https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-de-software-full-stack/1732/61037063472
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/plano/software-engineer-full-stack/1732/60201846336
+CapitalOne gerente sénior, ingeniería de software - full stack
+https://www.capitalonecareers.com/job/mexico-city/gerente-senior-ingenieria-de-software-full-stack/1732/61071420992
 
 Salesforce:
+Salesforce backend software engineer slack
+https://careers.salesforce.com/en/jobs/jr238977/backend-software-engineer-slack/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr238982/software-engineering-mts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr238967/software-engineering-smts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr238958/software-engineering-smts/
+Salesforce software engineering pmts
+https://careers.salesforce.com/en/jobs/jr238725/software-engineering-pmts/
+Salesforce site reliability engineer
+https://careers.salesforce.com/en/jobs/jr237369/site-reliability-engineer/
 Salesforce frontend software engineer, keynote demos
 https://careers.salesforce.com/en/jobs/jr237249/frontend-software-engineer-keynote-demos/
 Salesforce systems engineering associate
 https://careers.salesforce.com/en/jobs/jr237598/systems-engineering-associate/
-Salesforce production support engineer (sre)
-https://careers.salesforce.com/en/jobs/jr237369/production-support-engineer-sre/
-Salesforce software engineer ii backend
-https://careers.salesforce.com/en/jobs/jr237234/software-engineer-ii-backend/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr237240/software-engineering-smts/
-Salesforce software engineering mts iam authentication
-https://careers.salesforce.com/en/jobs/jr237238/software-engineering-mts-iam-authentication/
 Salesforce production support engineer - multiple levels
 https://careers.salesforce.com/en/jobs/jr234670/production-support-engineer-multiple-levels/
-Salesforce software engineer
-https://careers.salesforce.com/en/jobs/jr237231/software-engineer/
 Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
