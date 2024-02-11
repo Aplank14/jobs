@@ -64,14 +64,12 @@ https://jobs.lever.co/1password/9d2eae5e-9862-47ea-8ea4-e8aabc9b507e
 https://jobs.lever.co/1password/d8a1d41f-ff87-412e-8ac1-54bb377bd030
 
 CapitalOne:
-CapitalOne ingeniero(a) de software - full stack
-https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-de-software-full-stack/1732/61037063472
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/plano/software-engineer-full-stack/1732/60201846336
-CapitalOne gerente sénior, ingeniería de software - full stack
-https://www.capitalonecareers.com/job/mexico-city/gerente-senior-ingenieria-de-software-full-stack/1732/61071420992
+CapitalOne software engineer
+https://www.capitalonecareers.com/job/plano/software-engineer/1732/60517402784
 
 Salesforce:
+Salesforce mts, software engineering operations
+https://careers.salesforce.com/en/jobs/jr233240/mts-software-engineering-operations/
 Salesforce backend software engineer slack
 https://careers.salesforce.com/en/jobs/jr238977/backend-software-engineer-slack/
 Salesforce software engineering mts
@@ -84,8 +82,6 @@ Salesforce software engineering pmts
 https://careers.salesforce.com/en/jobs/jr238725/software-engineering-pmts/
 Salesforce site reliability engineer
 https://careers.salesforce.com/en/jobs/jr237369/site-reliability-engineer/
-Salesforce frontend software engineer, keynote demos
-https://careers.salesforce.com/en/jobs/jr237249/frontend-software-engineer-keynote-demos/
 Salesforce systems engineering associate
 https://careers.salesforce.com/en/jobs/jr237598/systems-engineering-associate/
 Salesforce production support engineer - multiple levels
