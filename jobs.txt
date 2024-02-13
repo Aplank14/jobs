@@ -64,10 +64,12 @@ https://jobs.lever.co/1password/9d2eae5e-9862-47ea-8ea4-e8aabc9b507e
 https://jobs.lever.co/1password/d8a1d41f-ff87-412e-8ac1-54bb377bd030
 
 CapitalOne:
-CapitalOne software engineer
-https://www.capitalonecareers.com/job/plano/software-engineer/1732/60517402784
+CapitalOne ingeniero(a) en jefe de software - full stack (gerente, colaborador individual)
+https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/57237601232
 
 Salesforce:
+Salesforce mts software engineer
+https://careers.salesforce.com/en/jobs/jr239416/mts-software-engineer/
 Salesforce mts, software engineering operations
 https://careers.salesforce.com/en/jobs/jr233240/mts-software-engineering-operations/
 Salesforce backend software engineer slack
