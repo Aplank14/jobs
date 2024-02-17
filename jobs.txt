@@ -16,10 +16,6 @@ Reddit software engineer - dataapi
 https://boards.greenhouse.io/reddit/jobs/5643136
 Reddit software engineer - developer platform
 https://boards.greenhouse.io/reddit/jobs/5643134
-Reddit software engineer, ads safety and verification
-https://boards.greenhouse.io/reddit/jobs/5605784
-Reddit software engineer, ads safety and verification
-https://boards.greenhouse.io/reddit/jobs/5591190
 Reddit trust & safety policy contractor, legal removals policy, arabic
 https://boards.greenhouse.io/reddit/jobs/5647615
 Reddit vp of product, ads
@@ -50,18 +46,18 @@ Pintrest full stack software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
-Pintrest software engineer (infrastructure), online systems
-https://www.pinterestcareers.com/en/jobs/5705381/software-engineer-infrastructure-online-systems/?gh_jid=5705381
 Pintrest backend software engineer
 https://www.pinterestcareers.com/en/jobs/4813946/backend-software-engineer/?gh_jid=4813946
+Pintrest software engineer (infrastructure), online systems
+https://www.pinterestcareers.com/en/jobs/5705381/software-engineer-infrastructure-online-systems/?gh_jid=5705381
 Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest web software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
-Pintrest software engineer, web
-https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
 Pintrest site reliability engineer
 https://www.pinterestcareers.com/en/jobs/4987965/site-reliability-engineer/?gh_jid=4987965
+Pintrest software engineer, web
+https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest security engineer ii, corporate
@@ -74,22 +70,40 @@ https://jobs.lever.co/1password/292f7c0a-5664-4122-b27b-3472a4dec11a
 https://jobs.lever.co/1password/9d2eae5e-9862-47ea-8ea4-e8aabc9b507e
 1Password cms associate
 https://jobs.lever.co/1password/d8a1d41f-ff87-412e-8ac1-54bb377bd030
+1Password full stack developer
+https://jobs.lever.co/1password/35eb2504-d73a-494d-8510-fce6028a8c06
 1Password vp, security
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
+CapitalOne ingeniero(a) en jefe de software - full stack (gerente, colaborador individual)
+https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/61429749008
+CapitalOne ingeniero(a) en jefe de software - full stack (gerente, colaborador individual)
+https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/61420195888
+CapitalOne ingeniero(a) en de software - full stack
+https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-de-software-full-stack/1732/61429748608
+CapitalOne ingeniero(a) de software - full stack
+https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-de-software-full-stack/1732/61429748464
 
 Salesforce:
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr239675/software-engineering-smts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr239959/software-engineering-smts/
 Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr239797/software-engineering-lmts/
+https://careers.salesforce.com/en/jobs/jr239948/software-engineering-lmts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr239961/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr239795/software-engineering-smts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr239971/software-engineering-lmts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr239797/software-engineering-lmts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr239792/software-engineering-smts/
 Salesforce mts, software engineering operations
 https://careers.salesforce.com/en/jobs/jr233240/mts-software-engineering-operations/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr239675/software-engineering-smts/
 Salesforce mts software engineer
 https://careers.salesforce.com/en/jobs/jr239416/mts-software-engineer/
 Salesforce backend software engineer slack
@@ -102,17 +116,11 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr238958/software-engineering-smts/
 Salesforce software engineering pmts
 https://careers.salesforce.com/en/jobs/jr238725/software-engineering-pmts/
-Salesforce site reliability engineer
-https://careers.salesforce.com/en/jobs/jr237369/site-reliability-engineer/
 Salesforce systems engineering associate
 https://careers.salesforce.com/en/jobs/jr237598/systems-engineering-associate/
-Salesforce production support engineer - multiple levels
-https://careers.salesforce.com/en/jobs/jr234670/production-support-engineer-multiple-levels/
 Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
-Salesforce software engineer, android - slack (multiple levels)
-https://careers.salesforce.com/en/jobs/jr207027/software-engineer-android-slack-multiple-levels/
 Salesforce developer support engineer (ts/sci) govcloud
 https://careers.salesforce.com/en/jobs/jr177750/developer-support-engineer-tssci-govcloud/
