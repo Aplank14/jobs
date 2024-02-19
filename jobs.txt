@@ -42,8 +42,6 @@ TurnItIn:
 Zillow:
 
 Pintrest:
-Pintrest full stack software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest backend software engineer
@@ -76,14 +74,6 @@ https://jobs.lever.co/1password/35eb2504-d73a-494d-8510-fce6028a8c06
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
-CapitalOne ingeniero(a) en jefe de software - full stack (gerente, colaborador individual)
-https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/61429749008
-CapitalOne ingeniero(a) en jefe de software - full stack (gerente, colaborador individual)
-https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/61420195888
-CapitalOne ingeniero(a) en de software - full stack
-https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-de-software-full-stack/1732/61429748608
-CapitalOne ingeniero(a) de software - full stack
-https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-de-software-full-stack/1732/61429748464
 
 Salesforce:
 Salesforce software engineering smts
