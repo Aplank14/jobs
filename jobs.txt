@@ -2,6 +2,8 @@
 Spotify:
 
 Discord:
+Discord software engineer, design foundations
+https://discord.com/jobs/7183130002
 
 Remitly:
 
@@ -82,24 +84,28 @@ https://jobs.lever.co/1password/35eb2504-d73a-494d-8510-fce6028a8c06
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/58692223648
+CapitalOne software engineer, back end
+https://www.capitalonecareers.com/job/richmond/software-engineer-back-end/1732/61738488064
+CapitalOne ingeniero(a) en jefe de software - full stack (gerente, colaborador individual)
+https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/61738488016
+CapitalOne data engineer
+https://www.capitalonecareers.com/job/mclean/data-engineer/1732/60340383584
 
 Salesforce:
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr239797/software-engineering-lmts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr239961/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr240735/software-engineering-smts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr240741/software-engineering-lmts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr240605/software-engineering-mts/
-Salesforce production support engineer - multiple levels
-https://careers.salesforce.com/en/jobs/jr234670/production-support-engineer-multiple-levels/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr240602/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr240609/software-engineering-smts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr239961/software-engineering-mts/
 Salesforce mts software engineer
 https://careers.salesforce.com/en/jobs/jr240621/mts-software-engineer/
 Salesforce software engineering mts
@@ -114,8 +120,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr239795/software-engineering-smts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr239971/software-engineering-lmts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr239797/software-engineering-lmts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr239792/software-engineering-smts/
 Salesforce mts, software engineering operations
