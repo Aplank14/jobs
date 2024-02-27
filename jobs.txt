@@ -10,6 +10,10 @@ Remitly:
 Paylocity:
 
 Reddit:
+Reddit backend engineer, emerging markets
+https://boards.greenhouse.io/reddit/jobs/5748405
+Reddit backend engineer, emerging markets
+https://boards.greenhouse.io/reddit/jobs/5750262
 Reddit machine learning engineer, ads measurement
 https://boards.greenhouse.io/reddit/jobs/5593037
 Reddit machine learning engineer, ads measurement
@@ -42,10 +46,6 @@ Reddit security engineer, corpsec
 https://boards.greenhouse.io/reddit/jobs/5663695
 Reddit security engineer, corpsec
 https://boards.greenhouse.io/reddit/jobs/5584165
-Reddit software engineer, privacy and security
-https://boards.greenhouse.io/reddit/jobs/5657053
-Reddit software engineer, privacy and security
-https://boards.greenhouse.io/reddit/jobs/5642428
 
 TurnItIn:
 
@@ -84,14 +84,20 @@ https://jobs.lever.co/1password/35eb2504-d73a-494d-8510-fce6028a8c06
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
-CapitalOne software engineer, back end
-https://www.capitalonecareers.com/job/richmond/software-engineer-back-end/1732/61738488064
-CapitalOne ingeniero(a) en jefe de software - full stack (gerente, colaborador individual)
-https://www.capitalonecareers.com/job/mexico-city/ingeniero-a-en-jefe-de-software-full-stack-gerente-colaborador-individual/1732/61738488016
-CapitalOne data engineer
-https://www.capitalonecareers.com/job/mclean/data-engineer/1732/60340383584
+CapitalOne software engineer , backend
+https://www.capitalonecareers.com/job/richmond/software-engineer-backend/1732/61857896048
+CapitalOne software engineer, front end
+https://www.capitalonecareers.com/job/mclean/software-engineer-front-end/1732/57910754704
 
 Salesforce:
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr241111/software-engineering-lmts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr241112/software-engineering-lmts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr241117/software-engineering-lmts/
+Salesforce devops engineer mts
+https://careers.salesforce.com/en/jobs/jr241121/devops-engineer-mts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr239797/software-engineering-lmts/
 Salesforce software engineering mts
@@ -124,8 +130,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr239792/software-engineering-smts/
 Salesforce mts, software engineering operations
 https://careers.salesforce.com/en/jobs/jr233240/mts-software-engineering-operations/
-Salesforce mts software engineer
-https://careers.salesforce.com/en/jobs/jr239416/mts-software-engineer/
 Salesforce full-stack software engineer - frontend
 https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
