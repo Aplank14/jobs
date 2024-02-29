@@ -64,8 +64,8 @@ Pintrest software engineer, web
 https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
-Pintrest security engineer ii, corporate
-https://www.pinterestcareers.com/en/jobs/5526470/security-engineer-ii-corporate/?gh_jid=5526470
+Pintrest it product owner, employee experience
+https://www.pinterestcareers.com/en/jobs/5526909/it-product-owner-employee-experience/?gh_jid=5526909
 
 1Password:
 1Password vp, controller
@@ -84,12 +84,12 @@ https://jobs.lever.co/1password/35eb2504-d73a-494d-8510-fce6028a8c06
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
-CapitalOne software engineer , backend
-https://www.capitalonecareers.com/job/richmond/software-engineer-backend/1732/61857896048
-CapitalOne software engineer, front end
-https://www.capitalonecareers.com/job/mclean/software-engineer-front-end/1732/57910754704
 
 Salesforce:
+Salesforce mts software engineer
+https://careers.salesforce.com/en/jobs/jr241500/mts-software-engineer/
+Salesforce software engineer mts
+https://careers.salesforce.com/en/jobs/jr238012/software-engineer-mts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr241111/software-engineering-lmts/
 Salesforce software engineering lmts
@@ -98,8 +98,6 @@ Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr241117/software-engineering-lmts/
 Salesforce devops engineer mts
 https://careers.salesforce.com/en/jobs/jr241121/devops-engineer-mts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr239797/software-engineering-lmts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr239961/software-engineering-mts/
 Salesforce software engineering smts
@@ -117,17 +115,11 @@ https://careers.salesforce.com/en/jobs/jr240621/mts-software-engineer/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr240618/software-engineering-mts/
 Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr239675/software-engineering-smts/
-Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr239959/software-engineering-smts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr239948/software-engineering-lmts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr239795/software-engineering-smts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr239971/software-engineering-lmts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr239792/software-engineering-smts/
 Salesforce mts, software engineering operations
 https://careers.salesforce.com/en/jobs/jr233240/mts-software-engineering-operations/
 Salesforce full-stack software engineer - frontend
