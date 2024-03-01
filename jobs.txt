@@ -18,10 +18,6 @@ Reddit machine learning engineer, ads measurement
 https://boards.greenhouse.io/reddit/jobs/5593037
 Reddit machine learning engineer, ads measurement
 https://boards.greenhouse.io/reddit/jobs/5589232
-Reddit software engineer - dataapi
-https://boards.greenhouse.io/reddit/jobs/5643136
-Reddit software engineer - developer platform
-https://boards.greenhouse.io/reddit/jobs/5643134
 Reddit software engineer, safety signals
 https://boards.greenhouse.io/reddit/jobs/5742358
 Reddit software engineer, safety signals
@@ -52,10 +48,10 @@ TurnItIn:
 Zillow:
 
 Pintrest:
-Pintrest software engineer, fullstack
-https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest backend software engineer
 https://www.pinterestcareers.com/en/jobs/4813946/backend-software-engineer/?gh_jid=4813946
+Pintrest software engineer, fullstack
+https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
 Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest web software engineer, core and monetization
@@ -64,8 +60,8 @@ Pintrest software engineer, web
 https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
-Pintrest it product owner, employee experience
-https://www.pinterestcareers.com/en/jobs/5526909/it-product-owner-employee-experience/?gh_jid=5526909
+Pintrest it product owner, collaboration technology 
+https://www.pinterestcareers.com/en/jobs/5526909/it-product-owner-collaboration-technology/?gh_jid=5526909
 
 1Password:
 1Password vp, controller
@@ -84,8 +80,16 @@ https://jobs.lever.co/1password/35eb2504-d73a-494d-8510-fce6028a8c06
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
+CapitalOne software engineer, back end - finance tech
+https://www.capitalonecareers.com/job/richmond/software-engineer-back-end-finance-tech/1732/61997917568
+CapitalOne software engineer, full stack (javascript)
+https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack-javascript/1732/61989579040
 
 Salesforce:
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr241771/software-engineering-smts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr241768/software-engineering-mts/
 Salesforce mts software engineer
 https://careers.salesforce.com/en/jobs/jr241500/mts-software-engineer/
 Salesforce software engineer mts
@@ -98,8 +102,6 @@ Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr241117/software-engineering-lmts/
 Salesforce devops engineer mts
 https://careers.salesforce.com/en/jobs/jr241121/devops-engineer-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr239961/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr240735/software-engineering-smts/
 Salesforce software engineering lmts
@@ -114,12 +116,6 @@ Salesforce mts software engineer
 https://careers.salesforce.com/en/jobs/jr240621/mts-software-engineer/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr240618/software-engineering-mts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr239959/software-engineering-smts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr239948/software-engineering-lmts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr239971/software-engineering-lmts/
 Salesforce mts, software engineering operations
 https://careers.salesforce.com/en/jobs/jr233240/mts-software-engineering-operations/
 Salesforce full-stack software engineer - frontend
