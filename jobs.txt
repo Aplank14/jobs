@@ -28,8 +28,6 @@ Reddit software engineer, safety signals
 https://boards.greenhouse.io/reddit/jobs/5742359
 Reddit software engineer, safety signals
 https://boards.greenhouse.io/reddit/jobs/5741530
-Reddit trust & safety policy - user data policy contractor
-https://boards.greenhouse.io/reddit/jobs/5662650
 Reddit vp of product, ads
 https://boards.greenhouse.io/reddit/jobs/5563288
 Reddit security engineer - infrasec
@@ -84,8 +82,10 @@ https://jobs.lever.co/1password/35eb2504-d73a-494d-8510-fce6028a8c06
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
-CapitalOne software engineer, full stack (javascript)
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack-javascript/1732/62030708752
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/62168539072
+CapitalOne software engineer , backend
+https://www.capitalonecareers.com/job/richmond/software-engineer-backend/1732/61857896048
 
 Salesforce:
 Salesforce mts software engineer
