@@ -82,8 +82,6 @@ https://jobs.lever.co/1password/e127e957-c140-4063-afda-63a5d79b4a6a
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
-CapitalOne software engineer, full stack (javascript)
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack-javascript/1732/61989579040
 
 Salesforce:
 Salesforce software engineering smts
