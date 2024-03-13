@@ -16,10 +16,10 @@ Reddit backend engineer, emerging markets
 https://boards.greenhouse.io/reddit/jobs/5748405
 Reddit backend engineer, emerging markets
 https://boards.greenhouse.io/reddit/jobs/5750262
-Reddit machine learning engineer, ads measurement
-https://boards.greenhouse.io/reddit/jobs/5593037
-Reddit machine learning engineer, ads measurement
-https://boards.greenhouse.io/reddit/jobs/5589232
+Reddit machine learning engineer, app ads
+https://boards.greenhouse.io/reddit/jobs/5805339
+Reddit machine learning engineer, app ads
+https://boards.greenhouse.io/reddit/jobs/5745398
 Reddit software engineer, safety signals
 https://boards.greenhouse.io/reddit/jobs/5742358
 Reddit software engineer, safety signals
@@ -38,12 +38,6 @@ Reddit corporate paralegal
 https://boards.greenhouse.io/reddit/jobs/5783296
 Reddit vp of product, ads
 https://boards.greenhouse.io/reddit/jobs/5563288
-Reddit security engineer - infrasec
-https://boards.greenhouse.io/reddit/jobs/5692658
-Reddit security engineer - infrasec
-https://boards.greenhouse.io/reddit/jobs/5584167
-Reddit security engineer - infrasec
-https://boards.greenhouse.io/reddit/jobs/5692660
 Reddit security engineer, corpsec
 https://boards.greenhouse.io/reddit/jobs/5663692
 Reddit security engineer, corpsec
@@ -58,12 +52,12 @@ Zillow:
 Pintrest:
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
-Pintrest web software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
-Pintrest ios software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest software engineer, web
 https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
+Pintrest ios software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
+Pintrest web software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 
@@ -76,18 +70,20 @@ https://jobs.lever.co/1password/9d2eae5e-9862-47ea-8ea4-e8aabc9b507e
 https://jobs.lever.co/1password/03e9368f-5213-4e04-978a-f771cb77f886
 1Password cms associate
 https://jobs.lever.co/1password/d8a1d41f-ff87-412e-8ac1-54bb377bd030
-1Password backend go developer, admin experience
-https://jobs.lever.co/1password/e127e957-c140-4063-afda-63a5d79b4a6a
 1Password vp, security
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
+CapitalOne software engineer, full stack (javascript, react, aws)
+https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack-javascript-react-aws/1732/62542589648
 
 Salesforce:
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr242914/software-engineering-smts/
+Salesforce systems engineering engineer iam compliance operations & engineering
+https://careers.salesforce.com/en/jobs/jr243550/systems-engineering-engineer-iam-compliance-operations-engineering/
 Salesforce software engineering mts pki
 https://careers.salesforce.com/en/jobs/jr242026/software-engineering-mts-pki/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr242914/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr242926/software-engineering-smts/
 Salesforce software engineering smts
@@ -106,14 +102,6 @@ Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr241768/software-engineering-mts/
 Salesforce mts software engineer
 https://careers.salesforce.com/en/jobs/jr241500/mts-software-engineer/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr241111/software-engineering-lmts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr241112/software-engineering-lmts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr241117/software-engineering-lmts/
-Salesforce devops engineer mts
-https://careers.salesforce.com/en/jobs/jr241121/devops-engineer-mts/
 Salesforce mts, software engineering operations
 https://careers.salesforce.com/en/jobs/jr233240/mts-software-engineering-operations/
 Salesforce full-stack software engineer - frontend
