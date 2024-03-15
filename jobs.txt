@@ -38,11 +38,11 @@ Reddit corporate paralegal
 https://boards.greenhouse.io/reddit/jobs/5783296
 Reddit vp of product, ads
 https://boards.greenhouse.io/reddit/jobs/5563288
-Reddit security engineer, corpsec
+Reddit security engineer, threat detection
 https://boards.greenhouse.io/reddit/jobs/5663692
-Reddit security engineer, corpsec
+Reddit security engineer, threat detection
 https://boards.greenhouse.io/reddit/jobs/5663695
-Reddit security engineer, corpsec
+Reddit security engineer, threat detection
 https://boards.greenhouse.io/reddit/jobs/5584165
 
 TurnItIn:
@@ -52,20 +52,18 @@ Zillow:
 Pintrest:
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
-Pintrest software engineer, web
-https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
-Pintrest ios software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest web software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
+Pintrest ios software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
+Pintrest software engineer, web
+https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 
 1Password:
 1Password vp, controller
 https://jobs.lever.co/1password/292f7c0a-5664-4122-b27b-3472a4dec11a
-1Password solutions engineer, channel
-https://jobs.lever.co/1password/9d2eae5e-9862-47ea-8ea4-e8aabc9b507e
 1Password vp, sales enablement
 https://jobs.lever.co/1password/03e9368f-5213-4e04-978a-f771cb77f886
 1Password cms associate
@@ -74,16 +72,26 @@ https://jobs.lever.co/1password/d8a1d41f-ff87-412e-8ac1-54bb377bd030
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
-CapitalOne software engineer, full stack (javascript, react, aws)
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack-javascript-react-aws/1732/62542589648
 
 Salesforce:
-Salesforce systems engineering engineer iam compliance operations & engineering
-https://careers.salesforce.com/en/jobs/jr243550/systems-engineering-engineer-iam-compliance-operations-engineering/
-Salesforce software engineering mts pki
-https://careers.salesforce.com/en/jobs/jr242026/software-engineering-mts-pki/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr242914/software-engineering-smts/
+Salesforce software engineering lmts iam data plane jit
+https://careers.salesforce.com/en/jobs/jr243972/software-engineering-lmts-iam-data-plane-jit/
+Salesforce software engineer ii
+https://careers.salesforce.com/en/jobs/jr243961/software-engineer-ii/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr243956/software-engineering-smts/
+Salesforce systems engineering engineer iam compliance operations & engineering
+https://careers.salesforce.com/en/jobs/jr243550/systems-engineering-engineer-iam-compliance-operations-engineering/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr243953/software-engineering-smts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr243952/software-engineering-smts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr243959/software-engineering-smts/
+Salesforce software engineering mts pki
+https://careers.salesforce.com/en/jobs/jr242026/software-engineering-mts-pki/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr242926/software-engineering-smts/
 Salesforce software engineering smts
@@ -100,8 +108,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr241771/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr241768/software-engineering-mts/
-Salesforce mts software engineer
-https://careers.salesforce.com/en/jobs/jr241500/mts-software-engineer/
 Salesforce mts, software engineering operations
 https://careers.salesforce.com/en/jobs/jr233240/mts-software-engineering-operations/
 Salesforce full-stack software engineer - frontend
