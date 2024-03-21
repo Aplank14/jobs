@@ -2,8 +2,8 @@
 Spotify:
 
 Discord:
-Discord software engineer, sms infrastructure
-https://discord.com/jobs/7260171002
+Discord software engineer - safety processing
+https://discord.com/jobs/7285839002
 Discord software engineer, design foundations
 https://discord.com/jobs/7183130002
 
@@ -38,12 +38,6 @@ Reddit corporate paralegal
 https://boards.greenhouse.io/reddit/jobs/5783296
 Reddit vp of product, ads
 https://boards.greenhouse.io/reddit/jobs/5563288
-Reddit security engineer, threat detection
-https://boards.greenhouse.io/reddit/jobs/5663692
-Reddit security engineer, threat detection
-https://boards.greenhouse.io/reddit/jobs/5663695
-Reddit security engineer, threat detection
-https://boards.greenhouse.io/reddit/jobs/5584165
 
 TurnItIn:
 
@@ -52,32 +46,44 @@ Zillow:
 Pintrest:
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
-Pintrest web software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/5610055/web-software-engineer-core-and-monetization/?gh_jid=5610055
-Pintrest ios software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest software engineer, web
 https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
+Pintrest ios software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 
 1Password:
 1Password vp, controller
 https://jobs.lever.co/1password/292f7c0a-5664-4122-b27b-3472a4dec11a
+1Password solutions engineer
+https://jobs.lever.co/1password/9711dcb8-e933-4e0d-bdd6-fb886bbbf8d1
 1Password vp, sales enablement
 https://jobs.lever.co/1password/03e9368f-5213-4e04-978a-f771cb77f886
-1Password cms associate
-https://jobs.lever.co/1password/d8a1d41f-ff87-412e-8ac1-54bb377bd030
+1Password data engineer
+https://jobs.lever.co/1password/96a32563-83a7-41da-9154-0c653e38ff1e
 1Password vp, security
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
+CapitalOne data engineer
+https://www.capitalonecareers.com/job/mclean/data-engineer/1732/57960232032
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/62863343856
 
 Salesforce:
-Salesforce software engineering mts (new grad)
-https://careers.salesforce.com/en/jobs/jr244479/software-engineering-mts-new-grad/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr244893/software-engineering-mts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr244884/software-engineering-mts/
+Salesforce systems engineering engineer
+https://careers.salesforce.com/en/jobs/jr244692/systems-engineering-engineer/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr244697/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr244421/software-engineering-mts/
+Salesforce software engineering mts (new grad)
+https://careers.salesforce.com/en/jobs/jr244479/software-engineering-mts-new-grad/
 Salesforce smts, enterprise operations engineer
 https://careers.salesforce.com/en/jobs/jr233240/smts-enterprise-operations-engineer/
 Salesforce software engineering smts
@@ -104,8 +110,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr242927/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr242923/software-engineering-smts/
-Salesforce full-stack software engineer - frontend
-https://careers.salesforce.com/en/jobs/jr212121/full-stack-software-engineer-frontend/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce developer support engineer (ts/sci) govcloud
