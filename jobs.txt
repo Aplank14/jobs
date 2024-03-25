@@ -20,14 +20,6 @@ Reddit fullstack engineer, channels foundation
 https://boards.greenhouse.io/reddit/jobs/5825855
 Reddit fullstack engineer, channels foundation
 https://boards.greenhouse.io/reddit/jobs/5812945
-Reddit software engineer, safety signals
-https://boards.greenhouse.io/reddit/jobs/5742358
-Reddit software engineer, safety signals
-https://boards.greenhouse.io/reddit/jobs/5742356
-Reddit software engineer, safety signals
-https://boards.greenhouse.io/reddit/jobs/5742359
-Reddit software engineer, safety signals
-https://boards.greenhouse.io/reddit/jobs/5741530
 Reddit corporate paralegal
 https://boards.greenhouse.io/reddit/jobs/5795817
 Reddit corporate paralegal
@@ -42,16 +34,6 @@ TurnItIn:
 Zillow:
 
 Pintrest:
-Pintrest software engineer, fullstack
-https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
-Pintrest software engineer, web
-https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
-Pintrest ios software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
-Pintrest android software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
-Pintrest software quality engineer in test
-https://www.pinterestcareers.com/en/jobs/4805331/software-quality-engineer-in-test/?gh_jid=4805331
 
 1Password:
 1Password vp, controller
@@ -72,35 +54,3 @@ CapitalOne software engineer - full stack
 https://www.capitalonecareers.com/job/mexico-city/software-engineer-full-stack/1732/61641800752
 
 Salesforce:
-Salesforce software engineering lmts iam data plane jit
-https://careers.salesforce.com/en/jobs/jr243972/software-engineering-lmts-iam-data-plane-jit/
-Salesforce smts, enterprise operations engineer
-https://careers.salesforce.com/en/jobs/jr233240/smts-enterprise-operations-engineer/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr244893/software-engineering-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr244884/software-engineering-mts/
-Salesforce systems engineering engineer
-https://careers.salesforce.com/en/jobs/jr244692/systems-engineering-engineer/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr244697/software-engineering-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr244421/software-engineering-mts/
-Salesforce software engineering mts (new grad)
-https://careers.salesforce.com/en/jobs/jr244479/software-engineering-mts-new-grad/
-Salesforce software engineer ii
-https://careers.salesforce.com/en/jobs/jr243961/software-engineer-ii/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr243956/software-engineering-smts/
-Salesforce systems engineering engineer iam compliance operations & engineering
-https://careers.salesforce.com/en/jobs/jr243550/systems-engineering-engineer-iam-compliance-operations-engineering/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr243953/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr243952/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr243959/software-engineering-smts/
-Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
-https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
-Salesforce developer support engineer (ts/sci) govcloud
-https://careers.salesforce.com/en/jobs/jr177750/developer-support-engineer-tssci-govcloud/
