@@ -55,10 +55,6 @@ https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
 CapitalOne data engineer
-https://www.capitalonecareers.com/job/plano/data-engineer/1732/63206015264
-CapitalOne data engineer
-https://www.capitalonecareers.com/job/mclean/data-engineer/1732/63204809888
-CapitalOne data engineer
 https://www.capitalonecareers.com/job/mclean/data-engineer/1732/57960232032
 
 Salesforce:
@@ -76,8 +72,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr245802/software-engineering-smts/
 Salesforce smts, enterprise operations engineer
 https://careers.salesforce.com/en/jobs/jr233240/smts-enterprise-operations-engineer/
-Salesforce software engineering lmts iam data plane jit
-https://careers.salesforce.com/en/jobs/jr243972/software-engineering-lmts-iam-data-plane-jit/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr244893/software-engineering-mts/
 Salesforce software engineering mts
@@ -88,16 +82,6 @@ Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr244697/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr244421/software-engineering-mts/
-Salesforce software engineer ii
-https://careers.salesforce.com/en/jobs/jr243961/software-engineer-ii/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr243956/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr243953/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr243952/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr243959/software-engineering-smts/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce developer support engineer (ts/sci) govcloud
