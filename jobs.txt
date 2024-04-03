@@ -18,6 +18,10 @@ Reddit fullstack engineer, channels foundation
 https://boards.greenhouse.io/reddit/jobs/5825855
 Reddit fullstack engineer, channels foundation
 https://boards.greenhouse.io/reddit/jobs/5812945
+Reddit machine learning engineer - ranking foundation
+https://boards.greenhouse.io/reddit/jobs/5707442
+Reddit software engineer, ads experimentation platform
+https://boards.greenhouse.io/reddit/jobs/5854377
 Reddit corporate paralegal
 https://boards.greenhouse.io/reddit/jobs/5795817
 Reddit corporate paralegal
@@ -34,10 +38,10 @@ Zillow:
 Pintrest:
 Pintrest software engineer, fullstack
 https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
-Pintrest software engineer, web
-https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
 Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
+Pintrest software engineer, web
+https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest software quality engineer in test
@@ -48,22 +52,18 @@ https://www.pinterestcareers.com/en/jobs/4805331/software-quality-engineer-in-te
 https://jobs.lever.co/1password/03e9368f-5213-4e04-978a-f771cb77f886
 1Password data engineer
 https://jobs.lever.co/1password/96a32563-83a7-41da-9154-0c653e38ff1e
-1Password full stack developer, admin experience
-https://jobs.lever.co/1password/e127e957-c140-4063-afda-63a5d79b4a6a
 1Password vp, security
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
-CapitalOne data engineer
-https://www.capitalonecareers.com/job/mclean/data-engineer/1732/57960232032
 
 Salesforce:
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr245934/software-engineering-lmts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr245801/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr245918/software-engineering-smts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr245934/software-engineering-lmts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr245922/software-engineering-lmts/
 Salesforce software engineering mts
@@ -80,8 +80,6 @@ Salesforce systems engineering engineer
 https://careers.salesforce.com/en/jobs/jr244692/systems-engineering-engineer/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr244697/software-engineering-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr244421/software-engineering-mts/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce developer support engineer (ts/sci) govcloud
