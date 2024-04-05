@@ -14,6 +14,12 @@ Remitly:
 Paylocity:
 
 Reddit:
+Reddit backend software engineer, channels foundation
+https://boards.greenhouse.io/reddit/jobs/5875478
+Reddit backend software engineer, channels foundation
+https://boards.greenhouse.io/reddit/jobs/5874904
+Reddit backend software engineer, channels foundation
+https://boards.greenhouse.io/reddit/jobs/5875479
 Reddit fullstack engineer, channels foundation
 https://boards.greenhouse.io/reddit/jobs/5825855
 Reddit fullstack engineer, channels foundation
@@ -36,8 +42,8 @@ TurnItIn:
 Zillow:
 
 Pintrest:
-Pintrest software engineer, fullstack
-https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387
+Pintrest software engineer, backend
+https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest software engineer, web
@@ -58,6 +64,10 @@ https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 CapitalOne:
 
 Salesforce:
+Salesforce software engineering mts (new grad)
+https://careers.salesforce.com/en/jobs/jr244479/software-engineering-mts-new-grad/
+Salesforce quality engineering smts
+https://careers.salesforce.com/en/jobs/jr246433/quality-engineering-smts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr245934/software-engineering-lmts/
 Salesforce software engineering mts
@@ -72,14 +82,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr245802/software-engineering-smts/
 Salesforce smts, enterprise operations engineer
 https://careers.salesforce.com/en/jobs/jr233240/smts-enterprise-operations-engineer/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr244893/software-engineering-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr244884/software-engineering-mts/
-Salesforce systems engineering engineer
-https://careers.salesforce.com/en/jobs/jr244692/systems-engineering-engineer/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr244697/software-engineering-mts/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce developer support engineer (ts/sci) govcloud
