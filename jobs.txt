@@ -26,6 +26,10 @@ Reddit fullstack engineer, channels foundation
 https://boards.greenhouse.io/reddit/jobs/5812945
 Reddit machine learning engineer - ranking foundation
 https://boards.greenhouse.io/reddit/jobs/5707442
+Reddit machine learning engineer, ads measurement
+https://boards.greenhouse.io/reddit/jobs/5593037
+Reddit machine learning engineer, ads measurement
+https://boards.greenhouse.io/reddit/jobs/5589232
 Reddit software engineer, ads experimentation platform
 https://boards.greenhouse.io/reddit/jobs/5854377
 Reddit corporate paralegal
@@ -64,14 +68,10 @@ https://jobs.lever.co/1password/96a32563-83a7-41da-9154-0c653e38ff1e
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/62497464128
 
 Salesforce:
 Salesforce quality engineering smts
 https://careers.salesforce.com/en/jobs/jr246433/quality-engineering-smts/
-Salesforce software engineering mts (new grad)
-https://careers.salesforce.com/en/jobs/jr244479/software-engineering-mts-new-grad/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr245934/software-engineering-lmts/
 Salesforce software engineering mts
