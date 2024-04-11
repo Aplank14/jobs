@@ -68,22 +68,20 @@ https://jobs.lever.co/1password/96a32563-83a7-41da-9154-0c653e38ff1e
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 
 CapitalOne:
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/mexico-city/software-engineer-full-stack/1732/63525277424
 
 Salesforce:
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr247955/software-engineering-smts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr247846/software-engineering-mts/
+Salesforce mts software engineer
+https://careers.salesforce.com/en/jobs/jr247849/mts-software-engineer/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr247854/software-engineering-lmts/
 Salesforce quality engineering smts
 https://careers.salesforce.com/en/jobs/jr246433/quality-engineering-smts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr245934/software-engineering-lmts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr245801/software-engineering-mts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr245918/software-engineering-smts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr245922/software-engineering-lmts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr245937/software-engineering-mts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr245802/software-engineering-smts/
 Salesforce smts, enterprise operations engineer
 https://careers.salesforce.com/en/jobs/jr233240/smts-enterprise-operations-engineer/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
