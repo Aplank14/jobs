@@ -24,8 +24,6 @@ Reddit fullstack engineer, channels foundation
 https://boards.greenhouse.io/reddit/jobs/5825855
 Reddit fullstack engineer, channels foundation
 https://boards.greenhouse.io/reddit/jobs/5812945
-Reddit machine learning engineer - ranking foundation
-https://boards.greenhouse.io/reddit/jobs/5707442
 Reddit machine learning engineer, ads measurement
 https://boards.greenhouse.io/reddit/jobs/5593037
 Reddit machine learning engineer, ads measurement
@@ -66,22 +64,52 @@ https://jobs.lever.co/1password/f9f985e7-5667-41db-9c61-c5baa33ed810
 https://jobs.lever.co/1password/96a32563-83a7-41da-9154-0c653e38ff1e
 1Password vp, security
 https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
+1Password build engineer
+https://jobs.lever.co/1password/226b053a-70d0-48b7-98b0-ebb9c6b9029a
 
 CapitalOne:
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/mexico-city/software-engineer-full-stack/1732/63525277424
+CapitalOne data engineer
+https://www.capitalonecareers.com/job/mclean/data-engineer/1732/57960232032
+CapitalOne software engineer, back end (python, aws, site reliability)
+https://www.capitalonecareers.com/job/mclean/software-engineer-back-end-python-aws-site-reliability/1732/63869750064
 
 Salesforce:
 Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr248136/software-engineering-smts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr248130/software-engineering-lmts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr248011/software-engineering-smts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr247980/software-engineering-smts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr248013/software-engineering-mts/
+Salesforce software engineer mts
+https://careers.salesforce.com/en/jobs/jr247974/software-engineer-mts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr247973/software-engineering-mts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr247970/software-engineering-mts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr248001/software-engineering-smts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr248009/software-engineering-lmts/
+Salesforce software engineering pmts
+https://careers.salesforce.com/en/jobs/jr247994/software-engineering-pmts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr247988/software-engineering-mts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr247981/software-engineering-lmts/
+Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr247955/software-engineering-smts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr247978/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr247846/software-engineering-mts/
 Salesforce mts software engineer
 https://careers.salesforce.com/en/jobs/jr247849/mts-software-engineer/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr247854/software-engineering-lmts/
-Salesforce quality engineering smts
-https://careers.salesforce.com/en/jobs/jr246433/quality-engineering-smts/
 Salesforce smts, enterprise operations engineer
 https://careers.salesforce.com/en/jobs/jr233240/smts-enterprise-operations-engineer/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
