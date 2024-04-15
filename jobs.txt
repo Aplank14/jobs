@@ -30,14 +30,6 @@ Reddit machine learning engineer, ads measurement
 https://boards.greenhouse.io/reddit/jobs/5589232
 Reddit software engineer, ads experimentation platform
 https://boards.greenhouse.io/reddit/jobs/5854377
-Reddit corporate paralegal
-https://boards.greenhouse.io/reddit/jobs/5795817
-Reddit corporate paralegal
-https://boards.greenhouse.io/reddit/jobs/5795816
-Reddit corporate paralegal
-https://boards.greenhouse.io/reddit/jobs/5795820
-Reddit corporate paralegal
-https://boards.greenhouse.io/reddit/jobs/5783296
 
 TurnItIn:
 
@@ -68,8 +60,6 @@ https://jobs.lever.co/1password/de59ec27-c665-4e63-bb0a-5b46652e00d4
 https://jobs.lever.co/1password/226b053a-70d0-48b7-98b0-ebb9c6b9029a
 
 CapitalOne:
-CapitalOne data engineer
-https://www.capitalonecareers.com/job/mclean/data-engineer/1732/57960232032
 CapitalOne software engineer, back end (python, aws, site reliability)
 https://www.capitalonecareers.com/job/mclean/software-engineer-back-end-python-aws-site-reliability/1732/63869750064
 
@@ -100,10 +90,10 @@ Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr247988/software-engineering-mts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr247981/software-engineering-lmts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr247955/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr247978/software-engineering-mts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr247955/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr247846/software-engineering-mts/
 Salesforce mts software engineer
