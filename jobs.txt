@@ -58,14 +58,18 @@ https://www.pinterestcareers.com/en/jobs/5850428/software-engineer-ii-product-se
 https://jobs.lever.co/1password/03e9368f-5213-4e04-978a-f771cb77f886
 1Password vp, corporate marketing and communications
 https://jobs.lever.co/1password/f9f985e7-5667-41db-9c61-c5baa33ed810
-1Password data engineer
-https://jobs.lever.co/1password/96a32563-83a7-41da-9154-0c653e38ff1e
+1Password full stack developer, xam
+https://jobs.lever.co/1password/0aa6f2a1-5dc8-4cbb-89c4-043fce5a38f1
 
 CapitalOne:
 
 Salesforce:
 Salesforce software engineer mts
 https://careers.salesforce.com/en/jobs/jr247974/software-engineer-mts/
+Salesforce mts software engineer
+https://careers.salesforce.com/en/jobs/jr249139/mts-software-engineer/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr249127/software-engineering-smts/
 Salesforce mts software engineer
 https://careers.salesforce.com/en/jobs/jr246777/mts-software-engineer/
 Salesforce software engineering smts
