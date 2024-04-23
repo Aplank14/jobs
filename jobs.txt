@@ -18,16 +18,6 @@ Reddit backend engineer, emerging markets
 https://boards.greenhouse.io/reddit/jobs/5912520
 Reddit backend engineer, emerging markets
 https://boards.greenhouse.io/reddit/jobs/5912521
-Reddit backend software engineer, channels foundation
-https://boards.greenhouse.io/reddit/jobs/5875478
-Reddit backend software engineer, channels foundation
-https://boards.greenhouse.io/reddit/jobs/5874904
-Reddit backend software engineer, channels foundation
-https://boards.greenhouse.io/reddit/jobs/5875479
-Reddit fullstack engineer, channels foundation
-https://boards.greenhouse.io/reddit/jobs/5825855
-Reddit fullstack engineer, channels foundation
-https://boards.greenhouse.io/reddit/jobs/5812945
 Reddit machine learning engineer - ranking foundation
 https://boards.greenhouse.io/reddit/jobs/5707442
 Reddit machine learning engineer, ads measurement
@@ -42,10 +32,10 @@ TurnItIn:
 Zillow:
 
 Pintrest:
-Pintrest ios software engineer, core and monetization
-https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/en/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest ios software engineer, core and monetization
+https://www.pinterestcareers.com/en/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest software engineer, web
 https://www.pinterestcareers.com/en/jobs/5404145/software-engineer-web/?gh_jid=5404145
 Pintrest android software engineer, core and monetization
@@ -58,14 +48,24 @@ https://www.pinterestcareers.com/en/jobs/5850428/software-engineer-ii-product-se
 https://jobs.lever.co/1password/03e9368f-5213-4e04-978a-f771cb77f886
 1Password vp, corporate marketing and communications
 https://jobs.lever.co/1password/f9f985e7-5667-41db-9c61-c5baa33ed810
-1Password full stack developer, xam
-https://jobs.lever.co/1password/0aa6f2a1-5dc8-4cbb-89c4-043fce5a38f1
+1Password android developer, authentication experience
+https://jobs.lever.co/1password/fad940d2-c03c-49de-bed7-bbc3d2ef7aab
 
 CapitalOne:
+CapitalOne software engineer, back end (python, aws, site reliability)
+https://www.capitalonecareers.com/job/mclean/software-engineer-back-end-python-aws-site-reliability/1732/63869750064
+CapitalOne data engineer
+https://www.capitalonecareers.com/job/mclean/data-engineer/1732/63204809888
 
 Salesforce:
+Salesforce analytics engineer
+https://careers.salesforce.com/en/jobs/jr242516/analytics-engineer/
 Salesforce software engineer mts
 https://careers.salesforce.com/en/jobs/jr247974/software-engineer-mts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr249295/software-engineering-smts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr249296/software-engineering-smts/
 Salesforce mts software engineer
 https://careers.salesforce.com/en/jobs/jr249139/mts-software-engineer/
 Salesforce software engineering smts
