@@ -18,10 +18,6 @@ Reddit backend engineer, emerging markets
 https://boards.greenhouse.io/reddit/jobs/5912520
 Reddit backend engineer, emerging markets
 https://boards.greenhouse.io/reddit/jobs/5912521
-Reddit fullstack engineer, channels foundation
-https://boards.greenhouse.io/reddit/jobs/5825855
-Reddit fullstack engineer, channels foundation
-https://boards.greenhouse.io/reddit/jobs/5812945
 Reddit machine learning engineer, ads measurement
 https://boards.greenhouse.io/reddit/jobs/5593037
 Reddit machine learning engineer, ads measurement
@@ -96,7 +92,5 @@ Salesforce mts software engineer
 https://careers.salesforce.com/en/jobs/jr246777/mts-software-engineer/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr247216/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr248136/software-engineering-smts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr248130/software-engineering-lmts/
+Salesforce smts, enterprise operations engineer
+https://careers.salesforce.com/en/jobs/jr233240/smts-enterprise-operations-engineer/
