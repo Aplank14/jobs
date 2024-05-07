@@ -4,10 +4,10 @@ Spotify:
 Discord:
 Discord software engineer - safety processing
 https://discord.com/jobs/7285839002
-Discord software engineer, real time infrastructure
-https://discord.com/jobs/7307141002
 Discord software engineer, design foundations
 https://discord.com/jobs/7183130002
+Discord software engineer, revenue growth
+https://discord.com/jobs/6963299002
 
 Remitly:
 
@@ -28,10 +28,6 @@ Reddit machine learning engineer, ads measurement
 https://boards.greenhouse.io/reddit/jobs/5589232
 Reddit software engineer, android ads formats
 https://boards.greenhouse.io/reddit/jobs/5875130
-Reddit solutions engineer
-https://boards.greenhouse.io/reddit/jobs/5901883
-Reddit solutions engineer
-https://boards.greenhouse.io/reddit/jobs/5929631
 
 TurnItIn:
 
@@ -44,18 +40,18 @@ Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest software engineer, web
 https://www.pinterestcareers.com/jobs/5404145/software-engineer-web/?gh_jid=5404145
-Pintrest software engineer ii, android
-https://www.pinterestcareers.com/jobs/5893489/software-engineer-ii-android/?gh_jid=5893489
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
-Pintrest software engineer ii, ios
-https://www.pinterestcareers.com/jobs/5893495/software-engineer-ii-ios/?gh_jid=5893495
 Pintrest software engineer ii, product security
 https://www.pinterestcareers.com/jobs/5850428/software-engineer-ii-product-security/?gh_jid=5850428
+Pintrest data scientist ii, discovery
+https://www.pinterestcareers.com/jobs/5526458/data-scientist-ii-discovery/?gh_jid=5526458
 
 1Password:
 
 CapitalOne:
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/plano/software-engineer-full-stack/1732/64877080448
 
 Salesforce:
 Salesforce software engineering, mts / software engineer (multiple positions available)
@@ -70,10 +66,6 @@ Salesforce software engineering, mts / software engineer (multiple positions ava
 https://careers.salesforce.com/en/jobs/jr250862/software-engineering-mts-software-engineer-multiple-positions-available/
 Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr250861/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce salesforce developer
-https://careers.salesforce.com/en/jobs/jr250096/salesforce-developer/
-Salesforce mts software engineer
-https://careers.salesforce.com/en/jobs/jr249139/mts-software-engineer/
 Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr249642/software-engineering-mts-software-engineer-multiple-positions-available/
 Salesforce software engineering lmts
@@ -99,10 +91,8 @@ https://careers.salesforce.com/en/jobs/jr249092/software-engineering-smts-bt-app
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr249458/software-engineering-smts/
 Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr249295/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr249296/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr249127/software-engineering-smts/
-Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr247216/software-engineering-smts/
+Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
+https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
+Salesforce developer support engineer (ts/sci) govcloud
+https://careers.salesforce.com/en/jobs/jr177750/developer-support-engineer-tssci-govcloud/
