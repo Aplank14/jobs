@@ -38,20 +38,20 @@ Zillow:
 Pintrest:
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
-Pintrest ios software engineer, core and monetization
-https://www.pinterestcareers.com/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest software engineer, web
 https://www.pinterestcareers.com/jobs/5404145/software-engineer-web/?gh_jid=5404145
+Pintrest ios software engineer, core and monetization
+https://www.pinterestcareers.com/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest software engineer ii, product security
 https://www.pinterestcareers.com/jobs/5850428/software-engineer-ii-product-security/?gh_jid=5850428
-Pintrest data scientist ii, discovery
-https://www.pinterestcareers.com/jobs/5526458/data-scientist-ii-discovery/?gh_jid=5526458
 
 1Password:
 
 CapitalOne:
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/64067613904
 
 Salesforce:
 Salesforce software engineer, frontend - slack (multiple levels)
@@ -68,20 +68,6 @@ Salesforce software engineering, mts / software engineer (multiple positions ava
 https://careers.salesforce.com/en/jobs/jr250862/software-engineering-mts-software-engineer-multiple-positions-available/
 Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr250861/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr249642/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr249640/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr249647/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering, lmts
-https://careers.salesforce.com/en/jobs/jr249630/software-engineering-lmts/
-Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr249644/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr249648/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr249649/software-engineering-mts-software-engineer-multiple-positions-available/
 Salesforce software engineering smts - bt application development
 https://careers.salesforce.com/en/jobs/jr249092/software-engineering-smts-bt-application-development/
 Salesforce software engineering smts
