@@ -50,10 +50,10 @@ https://www.pinterestcareers.com/jobs/5850428/software-engineer-ii-product-secur
 1Password:
 
 CapitalOne:
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/64067613904
 
 Salesforce:
+Salesforce developer support engineer with ts/sci (on site northern virginia)
+https://careers.salesforce.com/en/jobs/jr252235/developer-support-engineer-with-tssci-on-site-northern-virginia/
 Salesforce software engineer, frontend - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207003/software-engineer-frontend-slack-multiple-levels/
 Salesforce software engineering, mts / software engineer (multiple positions available)
@@ -74,5 +74,3 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr247216/software-engineering-smts/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
-Salesforce developer support engineer (ts/sci) govcloud
-https://careers.salesforce.com/en/jobs/jr177750/developer-support-engineer-tssci-govcloud/
