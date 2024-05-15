@@ -22,14 +22,24 @@ Reddit backend engineer, seo
 https://boards.greenhouse.io/reddit/jobs/5943278
 Reddit backend engineer, seo
 https://boards.greenhouse.io/reddit/jobs/5644911
+Reddit fullstack engineer, channels foundation
+https://boards.greenhouse.io/reddit/jobs/5965258
+Reddit fullstack engineer, channels foundation
+https://boards.greenhouse.io/reddit/jobs/5873048
+Reddit fullstack engineer, channels foundation
+https://boards.greenhouse.io/reddit/jobs/5965255
 Reddit machine learning engineer, ads measurement
 https://boards.greenhouse.io/reddit/jobs/5593037
 Reddit machine learning engineer, ads measurement
 https://boards.greenhouse.io/reddit/jobs/5589232
 Reddit machine learning engineer, ads measurement
 https://boards.greenhouse.io/reddit/jobs/5776390
-Reddit software engineer, ads experimentation platform
-https://boards.greenhouse.io/reddit/jobs/5854377
+Reddit security engineer, threat detection
+https://boards.greenhouse.io/reddit/jobs/5663692
+Reddit security engineer, threat detection
+https://boards.greenhouse.io/reddit/jobs/5663695
+Reddit security engineer, threat detection
+https://boards.greenhouse.io/reddit/jobs/5584165
 
 TurnItIn:
 
@@ -38,10 +48,10 @@ Zillow:
 Pintrest:
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
-Pintrest software engineer, web
-https://www.pinterestcareers.com/jobs/5404145/software-engineer-web/?gh_jid=5404145
 Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
+Pintrest software engineer, web
+https://www.pinterestcareers.com/jobs/5404145/software-engineer-web/?gh_jid=5404145
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest software engineer ii, product security
@@ -52,6 +62,18 @@ https://www.pinterestcareers.com/jobs/5850428/software-engineer-ii-product-secur
 CapitalOne:
 
 Salesforce:
+Salesforce software engineering, mts / software engineer (multiple positions available)
+https://careers.salesforce.com/en/jobs/jr252736/software-engineering-mts-software-engineer-multiple-positions-available/
+Salesforce site reliability engineer
+https://careers.salesforce.com/en/jobs/jr252345/site-reliability-engineer/
+Salesforce software engineering, mts / software engineer (multiple positions available)
+https://careers.salesforce.com/en/jobs/jr252745/software-engineering-mts-software-engineer-multiple-positions-available/
+Salesforce software engineering, mts / software engineer (multiple positions available)
+https://careers.salesforce.com/en/jobs/jr252635/software-engineering-mts-software-engineer-multiple-positions-available/
+Salesforce software engineering, mts / software engineer (multiple positions available)
+https://careers.salesforce.com/en/jobs/jr252582/software-engineering-mts-software-engineer-multiple-positions-available/
+Salesforce software engineering, mts / software engineer (multiple positions available)
+https://careers.salesforce.com/en/jobs/jr252556/software-engineering-mts-software-engineer-multiple-positions-available/
 Salesforce developer support engineer with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr252235/developer-support-engineer-with-tssci-on-site-northern-virginia/
 Salesforce software engineer, frontend - slack (multiple levels)
@@ -72,5 +94,3 @@ Salesforce software engineering smts - bt application development
 https://careers.salesforce.com/en/jobs/jr249092/software-engineering-smts-bt-application-development/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr247216/software-engineering-smts/
-Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
-https://careers.salesforce.com/en/jobs/jr208451/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
