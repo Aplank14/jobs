@@ -23,9 +23,13 @@ https://boards.greenhouse.io/reddit/jobs/5644911
 Reddit fullstack engineer, channels foundation
 https://boards.greenhouse.io/reddit/jobs/5965258
 Reddit fullstack engineer, channels foundation
+https://boards.greenhouse.io/reddit/jobs/5974794
+Reddit fullstack engineer, channels foundation
 https://boards.greenhouse.io/reddit/jobs/5873048
 Reddit fullstack engineer, channels foundation
 https://boards.greenhouse.io/reddit/jobs/5965255
+Reddit fullstack engineer, channels foundation
+https://boards.greenhouse.io/reddit/jobs/5974792
 Reddit machine learning engineer - ranking foundation
 https://boards.greenhouse.io/reddit/jobs/5707442
 Reddit security engineer, threat detection
@@ -56,6 +60,10 @@ https://jobs.lever.co/1password/214c748f-b120-4368-ac5e-32096746ae1f
 CapitalOne:
 
 Salesforce:
+Salesforce software engineering, mts / software engineer (multiple positions available)
+https://careers.salesforce.com/en/jobs/jr252745/software-engineering-mts-software-engineer-multiple-positions-available/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr253207/software-engineering-smts/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr253064/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce software engineering, mts / software engineer (multiple positions available)
@@ -69,17 +77,11 @@ https://careers.salesforce.com/en/jobs/jr252636/software-engineering-mts-softwar
 Salesforce site reliability engineer
 https://careers.salesforce.com/en/jobs/jr252345/site-reliability-engineer/
 Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr252745/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr252582/software-engineering-mts-software-engineer-multiple-positions-available/
 Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr252556/software-engineering-mts-software-engineer-multiple-positions-available/
 Salesforce software engineer, frontend - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr207003/software-engineer-frontend-slack-multiple-levels/
-Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr250866/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr250867/software-engineering-mts-software-engineer-multiple-positions-available/
 Salesforce software engineering smts - bt application development
 https://careers.salesforce.com/en/jobs/jr249092/software-engineering-smts-bt-application-development/
 Salesforce software engineering smts
