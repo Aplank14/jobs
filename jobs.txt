@@ -14,16 +14,6 @@ Reddit backend engineer, seo
 https://boards.greenhouse.io/reddit/jobs/5943278
 Reddit backend engineer, seo
 https://boards.greenhouse.io/reddit/jobs/5644911
-Reddit fullstack engineer, channels foundation
-https://boards.greenhouse.io/reddit/jobs/5965258
-Reddit fullstack engineer, channels foundation
-https://boards.greenhouse.io/reddit/jobs/5974794
-Reddit fullstack engineer, channels foundation
-https://boards.greenhouse.io/reddit/jobs/5873048
-Reddit fullstack engineer, channels foundation
-https://boards.greenhouse.io/reddit/jobs/5965255
-Reddit fullstack engineer, channels foundation
-https://boards.greenhouse.io/reddit/jobs/5974792
 Reddit machine learning engineer - ranking foundation
 https://boards.greenhouse.io/reddit/jobs/5707442
 Reddit security engineer, threat detection
@@ -50,24 +40,40 @@ https://www.pinterestcareers.com/jobs/5850428/software-engineer-ii-product-secur
 1Password:
 
 CapitalOne:
-CapitalOne data engineer
-https://www.capitalonecareers.com/job/wilmington/data-engineer/1732/65503348256
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/plano/software-engineer-full-stack/1732/65551420912
 
 Salesforce:
 Salesforce software engineering, mts / software engineer (multiple positions available)
+https://careers.salesforce.com/en/jobs/jr252635/software-engineering-mts-software-engineer-multiple-positions-available/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr253207/software-engineering-smts/
+Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr252736/software-engineering-mts-software-engineer-multiple-positions-available/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr254047/software-engineering-lmts/
+Salesforce software engineering pmts
+https://careers.salesforce.com/en/jobs/jr254034/software-engineering-pmts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr254054/software-engineering-smts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr254005/software-engineering-smts/
+Salesforce software engineering mts secure agility
+https://careers.salesforce.com/en/jobs/jr253971/software-engineering-mts-secure-agility/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr254035/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr253968/software-engineering-smts/
-Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr252635/software-engineering-mts-software-engineer-multiple-positions-available/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr254001/software-engineering-smts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr254049/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr249272/software-engineering-smts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr249267/software-engineering-lmts/
 Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr252745/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr253207/software-engineering-smts/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr253064/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce developer support engineer with ts/sci (on site northern virginia)
