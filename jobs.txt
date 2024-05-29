@@ -2,6 +2,8 @@
 Spotify:
 
 Discord:
+Discord product designer, platform ecosystem
+https://discord.com/jobs/7468718002
 Discord software engineer, revenue growth
 https://discord.com/jobs/6963299002
 
@@ -14,8 +16,6 @@ Reddit backend engineer, seo
 https://boards.greenhouse.io/reddit/jobs/5943278
 Reddit backend engineer, seo
 https://boards.greenhouse.io/reddit/jobs/5644911
-Reddit machine learning engineer - ranking foundation
-https://boards.greenhouse.io/reddit/jobs/5707442
 Reddit security engineer, threat detection
 https://boards.greenhouse.io/reddit/jobs/5663692
 Reddit security engineer, threat detection
@@ -28,10 +28,10 @@ TurnItIn:
 Zillow:
 
 Pintrest:
-Pintrest ios software engineer, core and monetization
-https://www.pinterestcareers.com/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest ios software engineer, core and monetization
+https://www.pinterestcareers.com/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest software engineer ii, product security
@@ -40,10 +40,14 @@ https://www.pinterestcareers.com/jobs/5850428/software-engineer-ii-product-secur
 1Password:
 
 CapitalOne:
-CapitalOne software engineer, full stack
-https://www.capitalonecareers.com/job/plano/software-engineer-full-stack/1732/65551420912
 
 Salesforce:
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr254054/software-engineering-smts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr254047/software-engineering-lmts/
+Salesforce software engineering pmts
+https://careers.salesforce.com/en/jobs/jr254034/software-engineering-pmts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr254001/software-engineering-smts/
 Salesforce software engineering, mts / software engineer (multiple positions available)
@@ -52,12 +56,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr253207/software-engineering-smts/
 Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr252736/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr254047/software-engineering-lmts/
-Salesforce software engineering pmts
-https://careers.salesforce.com/en/jobs/jr254034/software-engineering-pmts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr254054/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr254005/software-engineering-smts/
 Salesforce software engineering mts secure agility
@@ -84,7 +82,5 @@ Salesforce software engineering, mts / software engineer (multiple positions ava
 https://careers.salesforce.com/en/jobs/jr252582/software-engineering-mts-software-engineer-multiple-positions-available/
 Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr252556/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineer, frontend - slack (multiple levels)
-https://careers.salesforce.com/en/jobs/jr207003/software-engineer-frontend-slack-multiple-levels/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr247216/software-engineering-smts/
