@@ -38,8 +38,12 @@ https://www.pinterestcareers.com/jobs/5850428/software-engineer-ii-product-secur
 1Password:
 
 CapitalOne:
+CapitalOne data engineer - capital one software (remote)
+https://www.capitalonecareers.com/job/remote/data-engineer-capital-one-software-remote/1732/65853042080
 
 Salesforce:
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr254684/software-engineering-smts/
 Salesforce software engineering pmts
 https://careers.salesforce.com/en/jobs/jr254909/software-engineering-pmts/
 Salesforce software engineering mts
@@ -58,8 +62,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr254680/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr254670/software-engineering-mts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr254684/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr254692/software-engineering-smts/
 Salesforce software engineering lmts
