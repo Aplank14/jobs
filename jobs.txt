@@ -14,6 +14,8 @@ Reddit backend engineer, seo
 https://boards.greenhouse.io/reddit/jobs/5943278
 Reddit backend engineer, seo
 https://boards.greenhouse.io/reddit/jobs/5644911
+Reddit software engineer, safety tools
+https://boards.greenhouse.io/reddit/jobs/6012112
 Reddit security engineer, threat detection
 https://boards.greenhouse.io/reddit/jobs/5663692
 Reddit security engineer, threat detection
@@ -34,16 +36,24 @@ Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest software engineer ii, product security
 https://www.pinterestcareers.com/jobs/5850428/software-engineer-ii-product-security/?gh_jid=5850428
+Pintrest product owner, finance
+https://www.pinterestcareers.com/jobs/5649265/product-owner-finance/?gh_jid=5649265
 
 1Password:
+1Password vp, product marketing
+https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 
 CapitalOne:
-CapitalOne data engineer - capital one software (remote)
-https://www.capitalonecareers.com/job/remote/data-engineer-capital-one-software-remote/1732/65853042080
+CapitalOne data engineer
+https://www.capitalonecareers.com/job/plano/data-engineer/1732/66014263744
 
 Salesforce:
 Salesforce software engineer, backend - slack (multiple levels)
 https://careers.salesforce.com/en/jobs/jr252064/software-engineer-backend-slack-multiple-levels/
+Salesforce full-stack software engineer – lmts / pmts
+https://careers.salesforce.com/en/jobs/jr253602/full-stack-software-engineer-lmts-pmts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr253207/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr254684/software-engineering-smts/
 Salesforce software engineering smts
