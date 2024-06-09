@@ -42,10 +42,12 @@ https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 https://jobs.lever.co/1password/fad940d2-c03c-49de-bed7-bbc3d2ef7aab
 
 CapitalOne:
-CapitalOne software engineer, full stack - capital one software (remote)
-https://www.capitalonecareers.com/job/remote/software-engineer-full-stack-capital-one-software-remote/1732/66084117104
+CapitalOne software engineer, back end
+https://www.capitalonecareers.com/job/plano/software-engineer-back-end/1732/66124725520
 
 Salesforce:
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr255908/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr255694/software-engineering-mts/
 Salesforce software engineering mts
@@ -72,8 +74,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr253207/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr254684/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr254054/software-engineering-smts/
 Salesforce software engineering pmts
 https://careers.salesforce.com/en/jobs/jr254909/software-engineering-pmts/
 Salesforce software engineering mts
@@ -90,17 +90,11 @@ Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr254670/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr254692/software-engineering-smts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr254047/software-engineering-lmts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr254001/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr254005/software-engineering-smts/
-Salesforce software engineering mts secure agility
-https://careers.salesforce.com/en/jobs/jr253971/software-engineering-mts-secure-agility/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr253968/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr254049/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr249272/software-engineering-smts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr249267/software-engineering-lmts/
+Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
+https://careers.salesforce.com/en/jobs/jr253064/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
+Salesforce developer support engineer with ts/sci (on site northern virginia)
+https://careers.salesforce.com/en/jobs/jr252235/developer-support-engineer-with-tssci-on-site-northern-virginia/
