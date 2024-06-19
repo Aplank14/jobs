@@ -10,12 +10,18 @@ Remitly:
 Paylocity:
 
 Reddit:
-Reddit backend engineer - moderation
-https://boards.greenhouse.io/reddit/jobs/5902378
 Reddit machine learning engineer, ads optimization
 https://boards.greenhouse.io/reddit/jobs/5639029
 Reddit machine learning engineer, ads optimization
 https://boards.greenhouse.io/reddit/jobs/5629529
+Reddit mid-level backend engineer, emerging markets 
+https://boards.greenhouse.io/reddit/jobs/5912520
+Reddit mid-level backend engineer, emerging markets 
+https://boards.greenhouse.io/reddit/jobs/6053708
+Reddit mid-level backend engineer - moderation
+https://boards.greenhouse.io/reddit/jobs/5902378
+Reddit business analyst
+https://boards.greenhouse.io/reddit/jobs/6022423
 Reddit security engineer, threat detection
 https://boards.greenhouse.io/reddit/jobs/5663695
 
@@ -24,18 +30,20 @@ TurnItIn:
 Zillow:
 
 Pintrest:
+Pintrest full stack software engineer, core and monetization
+https://www.pinterestcareers.com/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
-Pintrest full stack software engineer, core and monetization
-https://www.pinterestcareers.com/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest backend software engineer
 https://www.pinterestcareers.com/jobs/4813946/backend-software-engineer/?gh_jid=4813946
-Pintrest android software engineer, core and monetization
-https://www.pinterestcareers.com/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest software engineer ii, product security
 https://www.pinterestcareers.com/jobs/5850428/software-engineer-ii-product-security/?gh_jid=5850428
+Pintrest android software engineer, core and monetization
+https://www.pinterestcareers.com/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
+Pintrest systems engineer ii
+https://www.pinterestcareers.com/jobs/5526915/systems-engineer-ii/?gh_jid=5526915
 Pintrest product owner, finance
 https://www.pinterestcareers.com/jobs/5649265/product-owner-finance/?gh_jid=5649265
 
@@ -78,16 +86,6 @@ Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr255579/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr253207/software-engineering-smts/
-Salesforce software engineering pmts
-https://careers.salesforce.com/en/jobs/jr254909/software-engineering-pmts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr254921/software-engineering-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr254912/software-engineering-mts/
-Salesforce quality engineering mts in bellevue, wa
-https://careers.salesforce.com/en/jobs/jr254818/quality-engineering-mts-in-bellevue-wa/
-Salesforce software engineering mts in new york, ny
-https://careers.salesforce.com/en/jobs/jr254824/software-engineering-mts-in-new-york-ny/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr249267/software-engineering-lmts/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
