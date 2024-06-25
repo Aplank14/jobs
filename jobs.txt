@@ -10,8 +10,6 @@ Remitly:
 Paylocity:
 
 Reddit:
-Reddit backend engineer - moderation
-https://boards.greenhouse.io/reddit/jobs/5902378
 Reddit backend engineer, ads safety & verification
 https://boards.greenhouse.io/reddit/jobs/6019445
 Reddit backend engineer, ads safety & verification
@@ -22,8 +20,6 @@ Reddit mid-level backend engineer, emerging markets
 https://boards.greenhouse.io/reddit/jobs/5912520
 Reddit mid-level backend engineer, emerging markets 
 https://boards.greenhouse.io/reddit/jobs/6053708
-Reddit business analyst
-https://boards.greenhouse.io/reddit/jobs/6022423
 
 TurnItIn:
 
@@ -38,10 +34,10 @@ Pintrest backend software engineer
 https://www.pinterestcareers.com/jobs/4813946/backend-software-engineer/?gh_jid=4813946
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
-Pintrest ios software engineer, core and monetization
-https://www.pinterestcareers.com/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest software engineer, web
 https://www.pinterestcareers.com/jobs/5927003/software-engineer-web/?gh_jid=5927003
+Pintrest ios software engineer, core and monetization
+https://www.pinterestcareers.com/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
 Pintrest software engineer ii, product security
 https://www.pinterestcareers.com/jobs/5850428/software-engineer-ii-product-security/?gh_jid=5850428
 Pintrest systems engineer ii
@@ -56,14 +52,16 @@ https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 https://jobs.lever.co/1password/fad940d2-c03c-49de-bed7-bbc3d2ef7aab
 
 CapitalOne:
+CapitalOne associate software engineering
+https://www.capitalonecareers.com/job/bengaluru/associate-software-engineering/1732/66808783408
 
 Salesforce:
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr249272/software-engineering-smts/
 Salesforce data scientist - hyperforce solutions engineering
 https://careers.salesforce.com/en/jobs/jr256316/data-scientist-hyperforce-solutions-engineering/
 Salesforce front-end software engineer - event technology
 https://careers.salesforce.com/en/jobs/jr255017/front-end-software-engineer-event-technology/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr255908/software-engineering-smts/
 Salesforce devops/site reliability engineer (sre) with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr253064/devopssite-reliability-engineer-sre-with-tssci-on-site-northern-virginia/
 Salesforce software engineer mts
@@ -72,9 +70,5 @@ Salesforce full-stack software engineer – lmts / pmts
 https://careers.salesforce.com/en/jobs/jr253602/full-stack-software-engineer-lmts-pmts/
 Salesforce developer support engineer with ts/sci (on site northern virginia)
 https://careers.salesforce.com/en/jobs/jr252235/developer-support-engineer-with-tssci-on-site-northern-virginia/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr247216/software-engineering-smts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr249267/software-engineering-lmts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr256054/software-engineering-mts/
