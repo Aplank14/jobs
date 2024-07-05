@@ -12,6 +12,18 @@ Paylocity:
 Reddit:
 Reddit data scientist
 https://boards.greenhouse.io/reddit/jobs/6032532
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6088867
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6088865
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6088858
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6088862
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6060834
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6088860
 Reddit backend engineer, contribution experience
 https://boards.greenhouse.io/reddit/jobs/5464952
 Reddit frontend engineer, ads formats
@@ -36,6 +48,14 @@ Reddit software engineer, data infrastructure
 https://boards.greenhouse.io/reddit/jobs/5872251
 Reddit software engineer, data infrastructure
 https://boards.greenhouse.io/reddit/jobs/5872250
+Reddit ios engineer
+https://boards.greenhouse.io/reddit/jobs/6086443
+Reddit ios engineer
+https://boards.greenhouse.io/reddit/jobs/6086446
+Reddit ios engineer
+https://boards.greenhouse.io/reddit/jobs/6060830
+Reddit ios engineer
+https://boards.greenhouse.io/reddit/jobs/6086448
 
 TurnItIn:
 
@@ -44,12 +64,12 @@ Zillow:
 Pintrest:
 Pintrest web engineer
 https://www.pinterestcareers.com/jobs/6060266/web-engineer/?gh_jid=6060266
+Pintrest full stack software engineer, core and monetization
+https://www.pinterestcareers.com/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest backend software engineer
 https://www.pinterestcareers.com/jobs/4813946/backend-software-engineer/?gh_jid=4813946
-Pintrest full stack software engineer, core and monetization
-https://www.pinterestcareers.com/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest ios software engineer, core and monetization
@@ -70,12 +90,24 @@ https://www.pinterestcareers.com/jobs/5649265/product-owner-finance/?gh_jid=5649
 https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 
 CapitalOne:
+CapitalOne software engineer - full stack
+https://www.capitalonecareers.com/job/mexico-city/software-engineer-full-stack/1732/61037063472
 
 Salesforce:
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr259399/software-engineering-mts/
 Salesforce software engineer mts search experience
 https://careers.salesforce.com/en/jobs/jr259223/software-engineer-mts-search-experience/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr259571/software-engineering-mts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr259572/software-engineering-smts/
+Salesforce devops engineering, pmts
+https://careers.salesforce.com/en/jobs/jr256850/devops-engineering-pmts/
+Salesforce mts software engineer
+https://careers.salesforce.com/en/jobs/jr259569/mts-software-engineer/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr259592/software-engineering-smts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr259399/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr259397/software-engineering-mts/
 Salesforce software engineering mts
