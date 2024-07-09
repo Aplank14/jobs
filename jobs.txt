@@ -12,20 +12,6 @@ Paylocity:
 Reddit:
 Reddit data scientist
 https://boards.greenhouse.io/reddit/jobs/6032532
-Reddit backend engineer, business experience
-https://boards.greenhouse.io/reddit/jobs/6088867
-Reddit backend engineer, business experience
-https://boards.greenhouse.io/reddit/jobs/6088865
-Reddit backend engineer, business experience
-https://boards.greenhouse.io/reddit/jobs/6088858
-Reddit backend engineer, business experience
-https://boards.greenhouse.io/reddit/jobs/6088862
-Reddit backend engineer, business experience
-https://boards.greenhouse.io/reddit/jobs/6060834
-Reddit backend engineer, business experience
-https://boards.greenhouse.io/reddit/jobs/6088860
-Reddit backend engineer, contribution experience
-https://boards.greenhouse.io/reddit/jobs/5464952
 Reddit machine learning engineer, ads optimization
 https://boards.greenhouse.io/reddit/jobs/5639029
 Reddit machine learning engineer, ads optimization
@@ -58,12 +44,14 @@ Zillow:
 Pintrest:
 Pintrest web engineer
 https://www.pinterestcareers.com/jobs/6060266/web-engineer/?gh_jid=6060266
-Pintrest full stack software engineer, core and monetization
-https://www.pinterestcareers.com/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest backend software engineer
 https://www.pinterestcareers.com/jobs/4813946/backend-software-engineer/?gh_jid=4813946
+Pintrest full stack software engineer, core and monetization
+https://www.pinterestcareers.com/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest software engineer, web
+https://www.pinterestcareers.com/jobs/5927003/software-engineer-web/?gh_jid=5927003
 Pintrest android software engineer, core and monetization
 https://www.pinterestcareers.com/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest ios software engineer, core and monetization
@@ -88,6 +76,12 @@ CapitalOne:
 Salesforce:
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr259399/software-engineering-mts/
+Salesforce devops engineer - multiple levels - mts, smts, lmts
+https://careers.salesforce.com/en/jobs/jr254845/devops-engineer-multiple-levels-mts-smts-lmts/
+Salesforce software engineer mts
+https://careers.salesforce.com/en/jobs/jr259981/software-engineer-mts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr259978/software-engineering-mts/
 Salesforce software engineer mts search experience
 https://careers.salesforce.com/en/jobs/jr259223/software-engineer-mts-search-experience/
 Salesforce software engineering mts
