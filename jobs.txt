@@ -48,10 +48,10 @@ Zillow:
 Pintrest:
 Pintrest web engineer
 https://www.pinterestcareers.com/jobs/6060266/web-engineer/?gh_jid=6060266
-Pintrest full stack software engineer, core and monetization
-https://www.pinterestcareers.com/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest backend software engineer
 https://www.pinterestcareers.com/jobs/4813946/backend-software-engineer/?gh_jid=4813946
+Pintrest full stack software engineer, core and monetization
+https://www.pinterestcareers.com/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest android software engineer, core and monetization
@@ -64,6 +64,8 @@ Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
 Pintrest software engineer ll, android
 https://www.pinterestcareers.com/jobs/6041933/software-engineer-ll-android/?gh_jid=6041933
+Pintrest data scientist ii, trust and safety
+https://www.pinterestcareers.com/jobs/6042071/data-scientist-ii-trust-and-safety/?gh_jid=6042071
 Pintrest data scientist
 https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
 Pintrest product owner, finance
@@ -72,20 +74,22 @@ https://www.pinterestcareers.com/jobs/5649265/product-owner-finance/?gh_jid=5649
 1Password:
 1Password vp, product marketing
 https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
+1Password backend developer (rust)
+https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 
 CapitalOne:
 
 Salesforce:
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr260617/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr260181/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr260186/software-engineering-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr259399/software-engineering-mts/
 Salesforce software engineer mts search experience
 https://careers.salesforce.com/en/jobs/jr259223/software-engineer-mts-search-experience/
-Salesforce devops engineer - multiple levels - mts, smts, lmts
-https://careers.salesforce.com/en/jobs/jr254845/devops-engineer-multiple-levels-mts-smts-lmts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr259399/software-engineering-mts/
 Salesforce software engineer mts
 https://careers.salesforce.com/en/jobs/jr259981/software-engineer-mts/
 Salesforce software engineering mts
@@ -94,8 +98,6 @@ Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr259571/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr259572/software-engineering-smts/
-Salesforce devops engineering, pmts
-https://careers.salesforce.com/en/jobs/jr256850/devops-engineering-pmts/
 Salesforce mts software engineer
 https://careers.salesforce.com/en/jobs/jr259569/mts-software-engineer/
 Salesforce software engineering smts
@@ -106,18 +108,6 @@ Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr259404/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr259218/software-engineering-mts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr258926/software-engineering-lmts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr258917/software-engineering-smts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr258923/software-engineering-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr258922/software-engineering-mts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr258915/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr249272/software-engineering-smts/
 Salesforce front-end software engineer - event technology
 https://careers.salesforce.com/en/jobs/jr255017/front-end-software-engineer-event-technology/
 Salesforce software engineer mts
