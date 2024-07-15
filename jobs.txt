@@ -22,21 +22,13 @@ Reddit mid-level backend engineer, emerging markets
 https://boards.greenhouse.io/reddit/jobs/5912520
 Reddit mid-level backend engineer, emerging markets 
 https://boards.greenhouse.io/reddit/jobs/6053708
-Reddit software engineer, data infrastructure
-https://boards.greenhouse.io/reddit/jobs/5872252
-Reddit software engineer, data infrastructure
-https://boards.greenhouse.io/reddit/jobs/5747772
-Reddit software engineer, data infrastructure
-https://boards.greenhouse.io/reddit/jobs/5872251
-Reddit software engineer, data infrastructure
-https://boards.greenhouse.io/reddit/jobs/5872250
-Reddit ios engineer
+Reddit ios engineer, feeds/business experience
 https://boards.greenhouse.io/reddit/jobs/6086443
-Reddit ios engineer
+Reddit ios engineer, feeds/business experience
 https://boards.greenhouse.io/reddit/jobs/6086446
-Reddit ios engineer
+Reddit ios engineer, feeds/business experience
 https://boards.greenhouse.io/reddit/jobs/6060830
-Reddit ios engineer
+Reddit ios engineer, feeds/business experience
 https://boards.greenhouse.io/reddit/jobs/6086448
 Reddit security engineer, threat detection
 https://boards.greenhouse.io/reddit/jobs/5663695
@@ -80,14 +72,14 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 CapitalOne:
 
 Salesforce:
+Salesforce software engineer mts search experience
+https://careers.salesforce.com/en/jobs/jr259223/software-engineer-mts-search-experience/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr260617/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr260181/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr260186/software-engineering-mts/
-Salesforce software engineer mts search experience
-https://careers.salesforce.com/en/jobs/jr259223/software-engineer-mts-search-experience/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr259399/software-engineering-mts/
 Salesforce software engineer mts
