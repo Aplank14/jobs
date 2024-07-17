@@ -10,8 +10,18 @@ Remitly:
 Paylocity:
 
 Reddit:
-Reddit data scientist
-https://boards.greenhouse.io/reddit/jobs/6032532
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6088867
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6088865
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6088858
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6088862
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6060834
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6088860
 Reddit machine learning engineer, ads optimization
 https://boards.greenhouse.io/reddit/jobs/5639029
 Reddit machine learning engineer, ads optimization
@@ -42,24 +52,22 @@ Pintrest web engineer
 https://www.pinterestcareers.com/jobs/6060266/web-engineer/?gh_jid=6060266
 Pintrest backend software engineer
 https://www.pinterestcareers.com/jobs/4813946/backend-software-engineer/?gh_jid=4813946
-Pintrest full stack software engineer, core and monetization
-https://www.pinterestcareers.com/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
-Pintrest android software engineer, core and monetization
-https://www.pinterestcareers.com/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
+Pintrest full stack software engineer, core and monetization
+https://www.pinterestcareers.com/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
+Pintrest android software engineer, core and monetization
+https://www.pinterestcareers.com/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest software engineer ii, backend
 https://www.pinterestcareers.com/jobs/6041907/software-engineer-ii-backend/?gh_jid=6041907
 Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
-Pintrest software engineer ll, android
-https://www.pinterestcareers.com/jobs/6041933/software-engineer-ll-android/?gh_jid=6041933
-Pintrest data scientist ii, trust and safety
-https://www.pinterestcareers.com/jobs/6042071/data-scientist-ii-trust-and-safety/?gh_jid=6042071
 Pintrest data scientist
 https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
+Pintrest data scientist ii, trust and safety
+https://www.pinterestcareers.com/jobs/6042071/data-scientist-ii-trust-and-safety/?gh_jid=6042071
 Pintrest product owner, finance
 https://www.pinterestcareers.com/jobs/5649265/product-owner-finance/?gh_jid=5649265
 
@@ -72,8 +80,10 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 CapitalOne:
 
 Salesforce:
-Salesforce software engineer mts search experience
-https://careers.salesforce.com/en/jobs/jr259223/software-engineer-mts-search-experience/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr261292/software-engineering-lmts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr261295/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr260617/software-engineering-smts/
 Salesforce software engineering mts
@@ -95,16 +105,10 @@ https://careers.salesforce.com/en/jobs/jr259569/mts-software-engineer/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr259592/software-engineering-smts/
 Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr259397/software-engineering-mts/
-Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr259404/software-engineering-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr259218/software-engineering-mts/
 Salesforce front-end software engineer - event technology
 https://careers.salesforce.com/en/jobs/jr255017/front-end-software-engineer-event-technology/
 Salesforce software engineer mts
 https://careers.salesforce.com/en/jobs/jr255580/software-engineer-mts/
 Salesforce full-stack software engineer – lmts / pmts
 https://careers.salesforce.com/en/jobs/jr253602/full-stack-software-engineer-lmts-pmts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr249267/software-engineering-lmts/
