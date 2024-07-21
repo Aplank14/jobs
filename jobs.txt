@@ -56,16 +56,14 @@ Zillow:
 Pintrest:
 Pintrest web engineer
 https://www.pinterestcareers.com/jobs/6060266/web-engineer/?gh_jid=6060266
-Pintrest software engineer, backend
-https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest backend software engineer
 https://www.pinterestcareers.com/jobs/4813946/backend-software-engineer/?gh_jid=4813946
+Pintrest software engineer, backend
+https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest full stack software engineer, core and monetization
 https://www.pinterestcareers.com/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest ios software engineer, core and monetization
 https://www.pinterestcareers.com/jobs/5601228/ios-software-engineer-core-and-monetization/?gh_jid=5601228
-Pintrest android software engineer, core and monetization
-https://www.pinterestcareers.com/jobs/4916795/android-software-engineer-core-and-monetization/?gh_jid=4916795
 Pintrest software engineer ii, backend
 https://www.pinterestcareers.com/jobs/6041907/software-engineer-ii-backend/?gh_jid=6041907
 Pintrest software engineer ii, ios
@@ -86,6 +84,8 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 CapitalOne:
 
 Salesforce:
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr261340/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr261591/software-engineering-mts/
 Salesforce software engineering mts
@@ -96,8 +96,6 @@ Salesforce security engineer
 https://careers.salesforce.com/en/jobs/jr261344/security-engineer/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr261345/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr261340/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr261341/software-engineering-smts/
 Salesforce software engineering lmts
