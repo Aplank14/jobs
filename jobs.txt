@@ -22,22 +22,20 @@ Reddit backend engineer, business experience
 https://boards.greenhouse.io/reddit/jobs/6060834
 Reddit backend engineer, business experience
 https://boards.greenhouse.io/reddit/jobs/6088860
+Reddit backend engineer, core platform 
+https://boards.greenhouse.io/reddit/jobs/6127260
+Reddit backend engineer, core platform 
+https://boards.greenhouse.io/reddit/jobs/6118098
 Reddit frontend engineer, ads formats
 https://boards.greenhouse.io/reddit/jobs/5909762
 Reddit fullstack engineer - ads signals
 https://boards.greenhouse.io/reddit/jobs/6070550
 Reddit fullstack engineer - ads signals
 https://boards.greenhouse.io/reddit/jobs/6075005
-Reddit machine learning engineer, ads optimization
-https://boards.greenhouse.io/reddit/jobs/5639029
-Reddit machine learning engineer, ads optimization
-https://boards.greenhouse.io/reddit/jobs/5629529
 Reddit machine learning engineer, ads targeting
 https://boards.greenhouse.io/reddit/jobs/6073828
-Reddit mid-level backend engineer, emerging markets 
-https://boards.greenhouse.io/reddit/jobs/5912520
-Reddit mid-level backend engineer, emerging markets 
-https://boards.greenhouse.io/reddit/jobs/6053708
+Reddit software engineer, data infrastructure
+https://boards.greenhouse.io/reddit/jobs/5872252
 Reddit ios engineer, feeds/business experience
 https://boards.greenhouse.io/reddit/jobs/6086443
 Reddit ios engineer, feeds/business experience
@@ -80,8 +78,12 @@ https://www.pinterestcareers.com/jobs/5649265/product-owner-finance/?gh_jid=5649
 https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 1Password backend developer (rust)
 https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
+1Password security engineer (governance, risk, and compliance)
+https://jobs.lever.co/1password/03c1251b-2ba2-4824-a270-a9f3b184c161
 
 CapitalOne:
+CapitalOne software engineer, full stack (react, typescript)
+https://www.capitalonecareers.com/job/plano/software-engineer-full-stack-react-typescript/1732/67866319328
 
 Salesforce:
 Salesforce software engineering smts
