@@ -24,8 +24,6 @@ Reddit fullstack engineer - ads signals
 https://boards.greenhouse.io/reddit/jobs/6075005
 Reddit machine learning engineer, ads targeting
 https://boards.greenhouse.io/reddit/jobs/6073828
-Reddit software engineer, data infrastructure
-https://boards.greenhouse.io/reddit/jobs/5872252
 Reddit software engineer, ios - conversation experiences
 https://boards.greenhouse.io/reddit/jobs/6132011
 Reddit ios engineer, feeds/business experience
@@ -42,10 +40,10 @@ Zillow:
 Pintrest:
 Pintrest web engineer
 https://www.pinterestcareers.com/jobs/6060266/web-engineer/?gh_jid=6060266
-Pintrest full stack software engineer, core and monetization
-https://www.pinterestcareers.com/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest machine learning engineer, core engineering
 https://www.pinterestcareers.com/jobs/6121450/machine-learning-engineer-core-engineering/?gh_jid=6121450
+Pintrest full stack software engineer, core and monetization
+https://www.pinterestcareers.com/jobs/4843547/full-stack-software-engineer-core-and-monetization/?gh_jid=4843547
 Pintrest backend software engineer
 https://www.pinterestcareers.com/jobs/4813946/backend-software-engineer/?gh_jid=4813946
 Pintrest software engineer, backend
@@ -66,8 +64,6 @@ https://www.pinterestcareers.com/jobs/5649265/product-owner-finance/?gh_jid=5649
 1Password:
 1Password vp, product marketing
 https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
-1Password backend developer
-https://jobs.lever.co/1password/439e8fe7-8beb-4cc1-8e13-393686121746
 1Password backend developer (rust)
 https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 1Password developer, go device agent
@@ -80,22 +76,20 @@ CapitalOne software engineer, back end
 https://www.capitalonecareers.com/job/richmond/software-engineer-back-end/1732/67055561840
 CapitalOne site reliability engineer, shopping
 https://www.capitalonecareers.com/job/remote/site-reliability-engineer-shopping/1732/67980342240
-CapitalOne software engineer - full stack
-https://www.capitalonecareers.com/job/mexico-city/software-engineer-full-stack/1732/67972438656
 
 Salesforce:
-Salesforce force.com developer (smts)
-https://careers.salesforce.com/en/jobs/jr261093/forcecom-developer-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr261591/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr261592/software-engineering-mts/
+Salesforce devops engineering, pmts
+https://careers.salesforce.com/en/jobs/jr256850/devops-engineering-pmts/
+Salesforce force.com developer (smts)
+https://careers.salesforce.com/en/jobs/jr261093/forcecom-developer-smts/
 Salesforce full-stack software engineer – mts / smts
 https://careers.salesforce.com/en/jobs/jr253369/full-stack-software-engineer-mts-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr262248/software-engineering-mts/
-Salesforce devops engineering, pmts
-https://careers.salesforce.com/en/jobs/jr256850/devops-engineering-pmts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr262074/software-engineering-mts/
 Salesforce software engineering smts
