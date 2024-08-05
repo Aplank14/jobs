@@ -12,12 +12,22 @@ Remitly:
 Paylocity:
 
 Reddit:
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6088862
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6060834
+Reddit backend engineer, business experience
+https://boards.greenhouse.io/reddit/jobs/6088860
 Reddit backend engineer, core platform 
 https://boards.greenhouse.io/reddit/jobs/6118098
 Reddit fullstack engineer - ads signals
 https://boards.greenhouse.io/reddit/jobs/6070550
 Reddit fullstack engineer - ads signals
 https://boards.greenhouse.io/reddit/jobs/6075005
+Reddit machine learning engineer - ads conversion modeling
+https://boards.greenhouse.io/reddit/jobs/6157195
+Reddit machine learning engineer - ads conversion modeling
+https://boards.greenhouse.io/reddit/jobs/6157254
 Reddit machine learning engineer, ads prediction
 https://boards.greenhouse.io/reddit/jobs/6113542
 Reddit machine learning engineer, ads targeting
@@ -45,9 +55,9 @@ https://boards.greenhouse.io/reddit/jobs/6139332
 Reddit security engineer, threat detection
 https://boards.greenhouse.io/reddit/jobs/6150744
 Reddit security engineer, threat detection
-https://boards.greenhouse.io/reddit/jobs/5663695
-Reddit security engineer, threat detection
 https://boards.greenhouse.io/reddit/jobs/6150746
+Reddit security engineer, threat detection
+https://boards.greenhouse.io/reddit/jobs/5663695
 Reddit security engineer, threat detection
 https://boards.greenhouse.io/reddit/jobs/6150747
 
@@ -88,18 +98,24 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 https://jobs.lever.co/1password/d3207448-c3fe-40a8-849e-557978887b68
 
 CapitalOne:
+CapitalOne technology internship program - summer 2025
+https://www.capitalonecareers.com/job/mclean/technology-internship-program-summer-2025/31238/68394963056
+CapitalOne technology early internship program - summer 2025
+https://www.capitalonecareers.com/job/mclean/technology-early-internship-program-summer-2025/31238/68391445344
+CapitalOne capital one developer academy associate - 2025
+https://www.capitalonecareers.com/job/mclean/capital-one-developer-academy-associate-2025/31238/68391444896
 
 Salesforce:
-Salesforce software engineer, mts
-https://careers.salesforce.com/en/jobs/jr262822/software-engineer-mts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr262819/software-engineering-smts/
 Salesforce front-end software engineer - event technology
 https://careers.salesforce.com/en/jobs/jr255017/front-end-software-engineer-event-technology/
+Salesforce software engineer, mts
+https://careers.salesforce.com/en/jobs/jr262822/software-engineer-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr262074/software-engineering-mts/
 Salesforce software engineer mts
 https://careers.salesforce.com/en/jobs/jr255580/software-engineer-mts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr262819/software-engineering-smts/
 Salesforce full-stack software engineer – lmts / pmts
 https://careers.salesforce.com/en/jobs/jr253602/full-stack-software-engineer-lmts-pmts/
 Salesforce software engineering mts
