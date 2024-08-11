@@ -38,6 +38,14 @@ Reddit machine learning engineer, core ranking
 https://boards.greenhouse.io/reddit/jobs/6013013
 Reddit machine learning engineer, core ranking
 https://boards.greenhouse.io/reddit/jobs/6079521
+Reddit software engineer, data infrastructure
+https://boards.greenhouse.io/reddit/jobs/5872252
+Reddit software engineer, data infrastructure
+https://boards.greenhouse.io/reddit/jobs/5747772
+Reddit software engineer, data infrastructure
+https://boards.greenhouse.io/reddit/jobs/5872251
+Reddit software engineer, data infrastructure
+https://boards.greenhouse.io/reddit/jobs/5872250
 Reddit software engineer, ml platform
 https://boards.greenhouse.io/reddit/jobs/5924254
 Reddit software engineer, machine learning platform
@@ -76,10 +84,10 @@ Pintrest software engineer ii, backend
 https://www.pinterestcareers.com/jobs/6041907/software-engineer-ii-backend/?gh_jid=6041907
 Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
-Pintrest data scientist
-https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
 Pintrest data scientist ii, trust and safety
 https://www.pinterestcareers.com/jobs/6042071/data-scientist-ii-trust-and-safety/?gh_jid=6042071
+Pintrest data scientist
+https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
 Pintrest product owner, finance
 https://www.pinterestcareers.com/jobs/5649265/product-owner-finance/?gh_jid=5649265
 
