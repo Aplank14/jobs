@@ -2,8 +2,6 @@
 Spotify:
 
 Discord:
-Discord customer experience associate, account security
-https://discord.com/jobs/7574349002
 Discord software engineer, ads (quests)
 https://discord.com/jobs/7531685002
 
@@ -12,16 +10,28 @@ Remitly:
 Paylocity:
 
 Reddit:
+Reddit  backend engineer - ads signals
+https://boards.greenhouse.io/reddit/jobs/6157769
+Reddit backend engineer - ads measurement core
+https://boards.greenhouse.io/reddit/jobs/6150923
+Reddit backend engineer - ads signals
+https://boards.greenhouse.io/reddit/jobs/6145968
+Reddit backend engineer - ads signals
+https://boards.greenhouse.io/reddit/jobs/6145997
 Reddit backend engineer, business experience
 https://boards.greenhouse.io/reddit/jobs/6088862
 Reddit backend engineer, business experience
 https://boards.greenhouse.io/reddit/jobs/6088860
 Reddit backend engineer, core platform 
 https://boards.greenhouse.io/reddit/jobs/6118098
+Reddit data scientist
+https://boards.greenhouse.io/reddit/jobs/6032532
+Reddit full stack engineer, moderation
+https://boards.greenhouse.io/reddit/jobs/6124474
+Reddit fullstack engineer - ads measurement core
+https://boards.greenhouse.io/reddit/jobs/6145914
 Reddit fullstack engineer - ads signals
-https://boards.greenhouse.io/reddit/jobs/6070550
-Reddit fullstack engineer - ads signals
-https://boards.greenhouse.io/reddit/jobs/6075005
+https://boards.greenhouse.io/reddit/jobs/6145953
 Reddit machine learning engineer - ads conversion modeling
 https://boards.greenhouse.io/reddit/jobs/6157195
 Reddit machine learning engineer - ads conversion modeling
@@ -30,30 +40,24 @@ Reddit machine learning engineer - ads retrieval
 https://boards.greenhouse.io/reddit/jobs/6162054
 Reddit machine learning engineer - ads retrieval
 https://boards.greenhouse.io/reddit/jobs/6157806
+Reddit machine learning engineer, ads optimization and recommendation
+https://boards.greenhouse.io/reddit/jobs/6158073
 Reddit machine learning engineer, ads prediction
 https://boards.greenhouse.io/reddit/jobs/6113542
-Reddit machine learning engineer, ads targeting
-https://boards.greenhouse.io/reddit/jobs/6073828
 Reddit machine learning engineer, core ranking
 https://boards.greenhouse.io/reddit/jobs/6013013
 Reddit machine learning engineer, core ranking
 https://boards.greenhouse.io/reddit/jobs/6079521
-Reddit software engineer, data infrastructure
-https://boards.greenhouse.io/reddit/jobs/5872252
-Reddit software engineer, data infrastructure
-https://boards.greenhouse.io/reddit/jobs/5747772
-Reddit software engineer, data infrastructure
-https://boards.greenhouse.io/reddit/jobs/5872251
-Reddit software engineer, data infrastructure
-https://boards.greenhouse.io/reddit/jobs/5872250
-Reddit software engineer, ml platform
-https://boards.greenhouse.io/reddit/jobs/5924254
+Reddit software engineer, ads bidding and pacing
+https://boards.greenhouse.io/reddit/jobs/6158088
 Reddit software engineer, machine learning platform
 https://boards.greenhouse.io/reddit/jobs/6108163
 Reddit ios engineer, feeds/business experience
 https://boards.greenhouse.io/reddit/jobs/6086443
 Reddit ios engineer, feeds/business experience
 https://boards.greenhouse.io/reddit/jobs/6086448
+Reddit general ledger accountant
+https://boards.greenhouse.io/reddit/jobs/6172698
 Reddit software engineer, ios - conversation experiences
 https://boards.greenhouse.io/reddit/jobs/6132011
 Reddit software security engineer, threat detection
@@ -74,8 +78,6 @@ Zillow:
 Pintrest:
 Pintrest  software engineer ii, full stack
 https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
-Pintrest machine learning engineer, core engineering
-https://www.pinterestcareers.com/jobs/6121450/machine-learning-engineer-core-engineering/?gh_jid=6121450
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest data analytics engineer
@@ -92,6 +94,8 @@ Pintrest product owner, finance
 https://www.pinterestcareers.com/jobs/5649265/product-owner-finance/?gh_jid=5649265
 
 1Password:
+1Password solutions engineer
+https://jobs.lever.co/1password/6df41fad-474f-411c-b810-16f85bfe88bf
 1Password vp, product marketing
 https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 1Password backend developer (rust)
@@ -100,8 +104,20 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 https://jobs.lever.co/1password/d3207448-c3fe-40a8-849e-557978887b68
 
 CapitalOne:
+CapitalOne software engineer - full stack
+https://www.capitalonecareers.com/job/mexico-city/software-engineer-full-stack/1732/68128555408
 
 Salesforce:
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr263167/software-engineering-lmts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr263161/software-engineering-smts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr263140/software-engineering-smts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr263139/software-engineering-smts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr263142/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr262940/software-engineering-mts/
 Salesforce mts software engineer
@@ -114,8 +130,6 @@ Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr262908/software-engineering-mts/
 Salesforce mts software engineer
 https://careers.salesforce.com/en/jobs/jr262872/mts-software-engineer/
-Salesforce front-end software engineer - event technology
-https://careers.salesforce.com/en/jobs/jr255017/front-end-software-engineer-event-technology/
 Salesforce software engineer, mts
 https://careers.salesforce.com/en/jobs/jr262822/software-engineer-mts/
 Salesforce software engineer mts
