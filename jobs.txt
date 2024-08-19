@@ -10,18 +10,12 @@ Remitly:
 Paylocity:
 
 Reddit:
-Reddit  backend engineer - ads signals
-https://boards.greenhouse.io/reddit/jobs/6157769
 Reddit backend engineer - ads measurement core
 https://boards.greenhouse.io/reddit/jobs/6150923
 Reddit backend engineer - ads signals
 https://boards.greenhouse.io/reddit/jobs/6145968
 Reddit backend engineer - ads signals
 https://boards.greenhouse.io/reddit/jobs/6145997
-Reddit backend engineer, business experience
-https://boards.greenhouse.io/reddit/jobs/6088862
-Reddit backend engineer, business experience
-https://boards.greenhouse.io/reddit/jobs/6088860
 Reddit backend engineer, core platform 
 https://boards.greenhouse.io/reddit/jobs/6118098
 Reddit data scientist
@@ -86,10 +80,10 @@ Pintrest software engineer ii, backend
 https://www.pinterestcareers.com/jobs/6041907/software-engineer-ii-backend/?gh_jid=6041907
 Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
-Pintrest data scientist ii, trust and safety
-https://www.pinterestcareers.com/jobs/6042071/data-scientist-ii-trust-and-safety/?gh_jid=6042071
 Pintrest data scientist
 https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
+Pintrest data scientist ii, trust and safety
+https://www.pinterestcareers.com/jobs/6042071/data-scientist-ii-trust-and-safety/?gh_jid=6042071
 Pintrest product owner, finance
 https://www.pinterestcareers.com/jobs/5649265/product-owner-finance/?gh_jid=5649265
 
@@ -104,8 +98,8 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 https://jobs.lever.co/1password/d3207448-c3fe-40a8-849e-557978887b68
 
 CapitalOne:
-CapitalOne software engineer - full stack
-https://www.capitalonecareers.com/job/mexico-city/software-engineer-full-stack/1732/68128555408
+CapitalOne data engineer, bank tech
+https://www.capitalonecareers.com/job/wilmington/data-engineer-bank-tech/1732/68929340064
 
 Salesforce:
 Salesforce software engineering lmts
