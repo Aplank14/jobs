@@ -18,6 +18,8 @@ Reddit backend engineer - ads signals
 https://boards.greenhouse.io/reddit/jobs/6145997
 Reddit backend engineer, core platform 
 https://boards.greenhouse.io/reddit/jobs/6118098
+Reddit backend engineer, core platform 
+https://boards.greenhouse.io/reddit/jobs/6127260
 Reddit data scientist
 https://boards.greenhouse.io/reddit/jobs/6032532
 Reddit full stack engineer, moderation
@@ -38,12 +40,14 @@ Reddit machine learning engineer, ads optimization and recommendation
 https://boards.greenhouse.io/reddit/jobs/6158073
 Reddit machine learning engineer, ads prediction
 https://boards.greenhouse.io/reddit/jobs/6113542
+Reddit machine learning engineer, app ads
+https://boards.greenhouse.io/reddit/jobs/6157742
+Reddit machine learning engineer, app ads
+https://boards.greenhouse.io/reddit/jobs/6194458
 Reddit machine learning engineer, core ranking
 https://boards.greenhouse.io/reddit/jobs/6013013
 Reddit machine learning engineer, core ranking
 https://boards.greenhouse.io/reddit/jobs/6079521
-Reddit software engineer, ads bidding and pacing
-https://boards.greenhouse.io/reddit/jobs/6158088
 Reddit software engineer, machine learning platform
 https://boards.greenhouse.io/reddit/jobs/6108163
 Reddit ios engineer, feeds/business experience
@@ -82,8 +86,6 @@ Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
 Pintrest data scientist
 https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
-Pintrest data scientist ii, trust and safety
-https://www.pinterestcareers.com/jobs/6042071/data-scientist-ii-trust-and-safety/?gh_jid=6042071
 Pintrest product owner, finance
 https://www.pinterestcareers.com/jobs/5649265/product-owner-finance/?gh_jid=5649265
 
@@ -98,8 +100,8 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 https://jobs.lever.co/1password/d3207448-c3fe-40a8-849e-557978887b68
 
 CapitalOne:
-CapitalOne data engineer, bank tech
-https://www.capitalonecareers.com/job/wilmington/data-engineer-bank-tech/1732/68929340064
+CapitalOne site reliability engineer - backend, shopping (remote-eligible)
+https://www.capitalonecareers.com/job/mclean/site-reliability-engineer-backend-shopping-remote-eligible/1732/68215621040
 
 Salesforce:
 Salesforce software engineering lmts
@@ -124,12 +126,8 @@ Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr262908/software-engineering-mts/
 Salesforce mts software engineer
 https://careers.salesforce.com/en/jobs/jr262872/mts-software-engineer/
-Salesforce software engineer, mts
-https://careers.salesforce.com/en/jobs/jr262822/software-engineer-mts/
 Salesforce software engineer mts
 https://careers.salesforce.com/en/jobs/jr255580/software-engineer-mts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr262819/software-engineering-smts/
 Salesforce full-stack software engineer – lmts / pmts
 https://careers.salesforce.com/en/jobs/jr253602/full-stack-software-engineer-lmts-pmts/
 Salesforce devops engineering, pmts
