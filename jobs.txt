@@ -17,7 +17,11 @@ https://boards.greenhouse.io/reddit/jobs/6145968
 Reddit backend engineer - ads signals
 https://boards.greenhouse.io/reddit/jobs/6145997
 Reddit backend engineer - ads targeting platform
+https://boards.greenhouse.io/reddit/jobs/6171923
+Reddit backend engineer - ads targeting platform
 https://boards.greenhouse.io/reddit/jobs/6157740
+Reddit backend engineer - ranking foundation
+https://boards.greenhouse.io/reddit/jobs/6121376
 Reddit backend engineer, business experience
 https://boards.greenhouse.io/reddit/jobs/6088865
 Reddit backend engineer, business experience
@@ -28,8 +32,6 @@ Reddit backend engineer, business experience
 https://boards.greenhouse.io/reddit/jobs/6088860
 Reddit backend engineer, core platform 
 https://boards.greenhouse.io/reddit/jobs/6118098
-Reddit backend engineer, core platform 
-https://boards.greenhouse.io/reddit/jobs/6127260
 Reddit customer success engineer, ads
 https://boards.greenhouse.io/reddit/jobs/6194464
 Reddit full stack engineer, moderation
@@ -112,6 +114,8 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 https://jobs.lever.co/1password/d3207448-c3fe-40a8-849e-557978887b68
 
 CapitalOne:
+CapitalOne software engineer - full stack
+https://www.capitalonecareers.com/job/mexico-city/software-engineer-full-stack/1732/68128555408
 
 Salesforce:
 Salesforce software engineering lmts
@@ -124,10 +128,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr263139/software-engineering-smts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr263142/software-engineering-smts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr262940/software-engineering-mts/
-Salesforce mts software engineer
-https://careers.salesforce.com/en/jobs/jr262943/mts-software-engineer/
 Salesforce software engineer mts
 https://careers.salesforce.com/en/jobs/jr255580/software-engineer-mts/
 Salesforce devops engineering, pmts
