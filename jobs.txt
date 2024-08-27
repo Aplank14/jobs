@@ -10,6 +10,8 @@ Paylocity:
 Reddit:
 Reddit data scientist
 https://boards.greenhouse.io/reddit/jobs/6032532
+Reddit  backend engineer - ads signals
+https://boards.greenhouse.io/reddit/jobs/6157769
 Reddit backend engineer - ads measurement core
 https://boards.greenhouse.io/reddit/jobs/6150923
 Reddit backend engineer - ads signals
@@ -50,8 +52,6 @@ Reddit machine learning engineer - ads retrieval
 https://boards.greenhouse.io/reddit/jobs/6157806
 Reddit machine learning engineer, ads optimization and recommendation
 https://boards.greenhouse.io/reddit/jobs/6158073
-Reddit machine learning engineer, ads prediction
-https://boards.greenhouse.io/reddit/jobs/6113542
 Reddit machine learning engineer, app ads
 https://boards.greenhouse.io/reddit/jobs/6157742
 Reddit machine learning engineer, app ads
@@ -60,8 +60,6 @@ Reddit machine learning engineer, core ranking
 https://boards.greenhouse.io/reddit/jobs/6013013
 Reddit machine learning engineer, core ranking
 https://boards.greenhouse.io/reddit/jobs/6079521
-Reddit software engineer, ads signals
-https://boards.greenhouse.io/reddit/jobs/6197723
 Reddit software engineer, machine learning platform
 https://boards.greenhouse.io/reddit/jobs/6108163
 Reddit ios engineer, feeds/business experience
@@ -72,6 +70,8 @@ Reddit general ledger accountant
 https://boards.greenhouse.io/reddit/jobs/6172698
 Reddit software engineer, ios - conversation experiences
 https://boards.greenhouse.io/reddit/jobs/6132011
+Reddit security engineer, threat detection
+https://boards.greenhouse.io/reddit/jobs/6183552
 Reddit software security engineer, threat detection
 https://boards.greenhouse.io/reddit/jobs/6150744
 Reddit software security engineer, threat detection
@@ -90,10 +90,10 @@ Zillow:
 Pintrest:
 Pintrest  software engineer ii, full stack
 https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
-Pintrest software engineer, backend
-https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest backend software engineer
 https://www.pinterestcareers.com/jobs/4813946/backend-software-engineer/?gh_jid=4813946
+Pintrest software engineer, backend
+https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest data analytics engineer
 https://www.pinterestcareers.com/jobs/6016579/data-analytics-engineer/?gh_jid=6016579
 Pintrest software engineer ii, ios
@@ -114,10 +114,14 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 https://jobs.lever.co/1password/d3207448-c3fe-40a8-849e-557978887b68
 
 CapitalOne:
-CapitalOne software engineer - full stack
-https://www.capitalonecareers.com/job/mexico-city/software-engineer-full-stack/1732/68128555408
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/69241443440
 
 Salesforce:
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr263666/software-engineering-mts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr263668/software-engineering-mts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr263167/software-engineering-lmts/
 Salesforce software engineering smts
