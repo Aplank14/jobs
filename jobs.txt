@@ -38,18 +38,10 @@ Reddit fullstack engineer - ads measurement core
 https://job-boards.greenhouse.io/reddit/jobs/6145914
 Reddit fullstack engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145953
-Reddit machine learning engineer, ads optimization and recommendation
-https://job-boards.greenhouse.io/reddit/jobs/6158073
 Reddit machine learning engineer, app ads
 https://job-boards.greenhouse.io/reddit/jobs/6157742
 Reddit machine learning engineer, app ads
 https://job-boards.greenhouse.io/reddit/jobs/6194458
-Reddit machine learning engineer, core ranking
-https://job-boards.greenhouse.io/reddit/jobs/6013013
-Reddit machine learning engineer, core ranking
-https://job-boards.greenhouse.io/reddit/jobs/6079521
-Reddit software engineer, machine learning platform
-https://job-boards.greenhouse.io/reddit/jobs/6108163
 Reddit ios engineer, feeds/business experience
 https://job-boards.greenhouse.io/reddit/jobs/6086443
 Reddit ios engineer, feeds/business experience
@@ -80,8 +72,6 @@ Pintrest software engineer ii, backend
 https://www.pinterestcareers.com/jobs/6041907/software-engineer-ii-backend/?gh_jid=6041907
 Pintrest data scientist
 https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
-Pintrest product owner, finance
-https://www.pinterestcareers.com/jobs/5649265/product-owner-finance/?gh_jid=5649265
 
 1Password:
 1Password vp, product marketing
@@ -94,8 +84,6 @@ https://jobs.lever.co/1password/d3207448-c3fe-40a8-849e-557978887b68
 CapitalOne:
 
 Salesforce:
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr263161/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr263678/software-engineering-mts/
 Salesforce software engineering mts
@@ -108,12 +96,6 @@ Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr263677/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr263668/software-engineering-mts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr263167/software-engineering-lmts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr263140/software-engineering-smts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr263139/software-engineering-smts/
 Salesforce software engineer mts
 https://careers.salesforce.com/en/jobs/jr255580/software-engineer-mts/
 Salesforce devops engineering, pmts
