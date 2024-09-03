@@ -16,10 +16,6 @@ Reddit backend engineer - ads measurement core
 https://job-boards.greenhouse.io/reddit/jobs/6150923
 Reddit backend engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145968
-Reddit backend engineer - ads targeting platform
-https://job-boards.greenhouse.io/reddit/jobs/6171923
-Reddit backend engineer - ads targeting platform
-https://job-boards.greenhouse.io/reddit/jobs/6157740
 Reddit backend engineer - ranking foundation
 https://job-boards.greenhouse.io/reddit/jobs/6121376
 Reddit backend engineer, business experience
@@ -38,10 +34,6 @@ Reddit fullstack engineer - ads measurement core
 https://job-boards.greenhouse.io/reddit/jobs/6145914
 Reddit fullstack engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145953
-Reddit machine learning engineer, app ads
-https://job-boards.greenhouse.io/reddit/jobs/6157742
-Reddit machine learning engineer, app ads
-https://job-boards.greenhouse.io/reddit/jobs/6194458
 Reddit ios engineer, feeds/business experience
 https://job-boards.greenhouse.io/reddit/jobs/6086443
 Reddit ios engineer, feeds/business experience
@@ -60,10 +52,10 @@ Zillow:
 Pintrest:
 Pintrest  software engineer ii, full stack
 https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
-Pintrest software engineer, backend
-https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest backend software engineer
 https://www.pinterestcareers.com/jobs/4813946/backend-software-engineer/?gh_jid=4813946
+Pintrest software engineer, backend
+https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest data analytics engineer
 https://www.pinterestcareers.com/jobs/6016579/data-analytics-engineer/?gh_jid=6016579
 Pintrest software engineer ii, ios
@@ -78,10 +70,12 @@ https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
 https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 1Password backend developer (rust)
 https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
-1Password developer, go device agent
-https://jobs.lever.co/1password/d3207448-c3fe-40a8-849e-557978887b68
 
 CapitalOne:
+CapitalOne software engineer, full stack
+https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack/1732/69511021568
+CapitalOne software engineer, devops
+https://www.capitalonecareers.com/job/mexico-city/software-engineer-devops/1732/68938193200
 
 Salesforce:
 Salesforce software engineering mts
