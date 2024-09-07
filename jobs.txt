@@ -16,16 +16,24 @@ Reddit backend engineer - ads measurement core
 https://job-boards.greenhouse.io/reddit/jobs/6150923
 Reddit backend engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145968
-Reddit backend engineer - ranking foundation
+Reddit backend software engineer - ranking foundation
 https://job-boards.greenhouse.io/reddit/jobs/6121376
+Reddit backend software engineer - ranking foundation
+https://job-boards.greenhouse.io/reddit/jobs/6237054
+Reddit backend software engineer - ranking foundation
+https://job-boards.greenhouse.io/reddit/jobs/6237044
+Reddit backend software engineer - ranking foundation
+https://job-boards.greenhouse.io/reddit/jobs/6237047
+Reddit backend software engineer - ranking foundation
+https://job-boards.greenhouse.io/reddit/jobs/6237048
 Reddit customer success engineer, ads
 https://job-boards.greenhouse.io/reddit/jobs/6194464
-Reddit full stack engineer, moderation
-https://job-boards.greenhouse.io/reddit/jobs/6124474
 Reddit fullstack engineer - ads measurement core
 https://job-boards.greenhouse.io/reddit/jobs/6145914
 Reddit fullstack engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145953
+Reddit machine learning engineer 
+https://job-boards.greenhouse.io/reddit/jobs/6233721
 Reddit general ledger accountant
 https://job-boards.greenhouse.io/reddit/jobs/6172698
 Reddit software engineer, ios - conversation experiences
@@ -38,6 +46,8 @@ TurnItIn:
 Zillow:
 
 Pintrest:
+Pintrest fullstack engineer, front-end
+https://www.pinterestcareers.com/jobs/6236569/fullstack-engineer-front-end/?gh_jid=6236569
 Pintrest  software engineer ii, full stack
 https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest software engineer, backend
@@ -46,10 +56,10 @@ Pintrest backend software engineer
 https://www.pinterestcareers.com/jobs/4813946/backend-software-engineer/?gh_jid=4813946
 Pintrest data analytics engineer
 https://www.pinterestcareers.com/jobs/6016579/data-analytics-engineer/?gh_jid=6016579
-Pintrest software engineer ii, backend
-https://www.pinterestcareers.com/jobs/6041907/software-engineer-ii-backend/?gh_jid=6041907
 Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
+Pintrest software engineer ii, backend
+https://www.pinterestcareers.com/jobs/6041907/software-engineer-ii-backend/?gh_jid=6041907
 Pintrest data scientist
 https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
 
@@ -60,6 +70,8 @@ https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 
 CapitalOne:
+CapitalOne software engineer - full stack
+https://www.capitalonecareers.com/job/mexico-city/software-engineer-full-stack/1732/68128555408
 
 Salesforce:
 Salesforce software engineering mts
