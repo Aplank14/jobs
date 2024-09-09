@@ -38,8 +38,6 @@ Reddit general ledger accountant
 https://job-boards.greenhouse.io/reddit/jobs/6172698
 Reddit software engineer, ios - conversation experiences
 https://job-boards.greenhouse.io/reddit/jobs/6132011
-Reddit software engineer, swe services
-https://job-boards.greenhouse.io/reddit/jobs/6192795
 
 TurnItIn:
 
@@ -50,10 +48,10 @@ Pintrest fullstack engineer, front-end
 https://www.pinterestcareers.com/jobs/6236569/fullstack-engineer-front-end/?gh_jid=6236569
 Pintrest  software engineer ii, full stack
 https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
-Pintrest software engineer, backend
-https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest backend software engineer
 https://www.pinterestcareers.com/jobs/4813946/backend-software-engineer/?gh_jid=4813946
+Pintrest software engineer, backend
+https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest data analytics engineer
 https://www.pinterestcareers.com/jobs/6016579/data-analytics-engineer/?gh_jid=6016579
 Pintrest software engineer ii, ios
@@ -70,8 +68,8 @@ https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 
 CapitalOne:
-CapitalOne software engineer - full stack
-https://www.capitalonecareers.com/job/mexico-city/software-engineer-full-stack/1732/68128555408
+CapitalOne technology development program associate - february 2025
+https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-february-2025/31238/69740859456
 
 Salesforce:
 Salesforce software engineering mts
