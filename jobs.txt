@@ -16,16 +16,8 @@ Reddit backend engineer - ads measurement core
 https://job-boards.greenhouse.io/reddit/jobs/6150923
 Reddit backend engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145968
-Reddit backend software engineer - ranking foundation
-https://job-boards.greenhouse.io/reddit/jobs/6121376
-Reddit backend software engineer - ranking foundation
-https://job-boards.greenhouse.io/reddit/jobs/6237054
-Reddit backend software engineer - ranking foundation
-https://job-boards.greenhouse.io/reddit/jobs/6237044
-Reddit backend software engineer - ranking foundation
-https://job-boards.greenhouse.io/reddit/jobs/6237047
-Reddit backend software engineer - ranking foundation
-https://job-boards.greenhouse.io/reddit/jobs/6237048
+Reddit backend engineer, moderation
+https://job-boards.greenhouse.io/reddit/jobs/6241768
 Reddit customer success engineer, ads
 https://job-boards.greenhouse.io/reddit/jobs/6194464
 Reddit fullstack engineer - ads measurement core
@@ -46,16 +38,12 @@ Pintrest fullstack engineer, front-end
 https://www.pinterestcareers.com/jobs/6236569/fullstack-engineer-front-end/?gh_jid=6236569
 Pintrest  software engineer ii, full stack
 https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
-Pintrest backend software engineer
-https://www.pinterestcareers.com/jobs/4813946/backend-software-engineer/?gh_jid=4813946
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest data analytics engineer
 https://www.pinterestcareers.com/jobs/6016579/data-analytics-engineer/?gh_jid=6016579
 Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
-Pintrest software engineer ii, backend
-https://www.pinterestcareers.com/jobs/6041907/software-engineer-ii-backend/?gh_jid=6041907
 Pintrest data scientist
 https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
 
@@ -66,10 +54,34 @@ https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 
 CapitalOne:
-CapitalOne software engineer, front end
-https://www.capitalonecareers.com/job/richmond/software-engineer-front-end/1732/68704152288
 
 Salesforce:
+Salesforce software engineering, smts
+https://careers.salesforce.com/en/jobs/jr265311/software-engineering-smts/
+Salesforce software engineering, mts
+https://careers.salesforce.com/en/jobs/jr265318/software-engineering-mts/
+Salesforce software engineering, mts
+https://careers.salesforce.com/en/jobs/jr265317/software-engineering-mts/
+Salesforce software engineering, mts
+https://careers.salesforce.com/en/jobs/jr265319/software-engineering-mts/
+Salesforce software engineering, mts / software engineer (multiple positions available)
+https://careers.salesforce.com/en/jobs/jr265306/software-engineering-mts-software-engineer-multiple-positions-available/
+Salesforce software engineering, smts
+https://careers.salesforce.com/en/jobs/jr265316/software-engineering-smts/
+Salesforce software engineering, mts / software engineer (multiple positions available)
+https://careers.salesforce.com/en/jobs/jr265305/software-engineering-mts-software-engineer-multiple-positions-available/
+Salesforce software engineering, mts / software engineer (multiple positions available)
+https://careers.salesforce.com/en/jobs/jr265303/software-engineering-mts-software-engineer-multiple-positions-available/
+Salesforce software engineering, smts
+https://careers.salesforce.com/en/jobs/jr265312/software-engineering-smts/
+Salesforce software engineering, pmts
+https://careers.salesforce.com/en/jobs/jr265218/software-engineering-pmts/
+Salesforce software engineering, pmts
+https://careers.salesforce.com/en/jobs/jr265219/software-engineering-pmts/
+Salesforce software engineering, pmts
+https://careers.salesforce.com/en/jobs/jr265220/software-engineering-pmts/
+Salesforce software engineering, mts / software engineer (multiple positions available)
+https://careers.salesforce.com/en/jobs/jr265059/software-engineering-mts-software-engineer-multiple-positions-available/
 Salesforce frontend software engineer
 https://careers.salesforce.com/en/jobs/jr258216/frontend-software-engineer/
 Salesforce software engineer mts
