@@ -26,8 +26,12 @@ Reddit fullstack engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145953
 Reddit general ledger accountant
 https://job-boards.greenhouse.io/reddit/jobs/6172698
-Reddit software engineer, ios - conversation experiences
+Reddit software engineer, ios - commenting experience
 https://job-boards.greenhouse.io/reddit/jobs/6132011
+Reddit technical compliance software engineer - governance, risk, compliance
+https://job-boards.greenhouse.io/reddit/jobs/6139332
+Reddit ux researcher
+https://job-boards.greenhouse.io/reddit/jobs/6213253
 
 TurnItIn:
 
@@ -57,6 +61,8 @@ CapitalOne:
 
 Salesforce:
 Salesforce software engineering, mts / software engineer (multiple positions available)
+https://careers.salesforce.com/en/jobs/jr265305/software-engineering-mts-software-engineer-multiple-positions-available/
+Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr265306/software-engineering-mts-software-engineer-multiple-positions-available/
 Salesforce software engineering, smts
 https://careers.salesforce.com/en/jobs/jr265311/software-engineering-smts/
@@ -69,8 +75,6 @@ https://careers.salesforce.com/en/jobs/jr265319/software-engineering-mts/
 Salesforce software engineering, smts
 https://careers.salesforce.com/en/jobs/jr265316/software-engineering-smts/
 Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr265305/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr265303/software-engineering-mts-software-engineer-multiple-positions-available/
 Salesforce software engineering, smts
 https://careers.salesforce.com/en/jobs/jr265312/software-engineering-smts/
@@ -82,7 +86,5 @@ Salesforce software engineering, pmts
 https://careers.salesforce.com/en/jobs/jr265220/software-engineering-pmts/
 Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr265059/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce frontend software engineer
-https://careers.salesforce.com/en/jobs/jr258216/frontend-software-engineer/
 Salesforce software engineer mts
 https://careers.salesforce.com/en/jobs/jr255580/software-engineer-mts/
