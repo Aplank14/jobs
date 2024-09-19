@@ -10,25 +10,29 @@ Remitly:
 Paylocity:
 
 Reddit:
-Reddit data scientist
-https://job-boards.greenhouse.io/reddit/jobs/6032532
 Reddit backend engineer - ads measurement core
 https://job-boards.greenhouse.io/reddit/jobs/6145932
+Reddit backend engineer - ads measurement core
+https://job-boards.greenhouse.io/reddit/jobs/6262385
 Reddit backend engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145968
-Reddit backend engineer, moderation
-https://job-boards.greenhouse.io/reddit/jobs/6241768
 Reddit customer success engineer, ads
 https://job-boards.greenhouse.io/reddit/jobs/6194464
+Reddit data scientist
+https://job-boards.greenhouse.io/reddit/jobs/6032532
+Reddit frontend engineer, moderation
+https://job-boards.greenhouse.io/reddit/jobs/6124474
 Reddit fullstack engineer - ads measurement core
 https://job-boards.greenhouse.io/reddit/jobs/6145914
 Reddit fullstack engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145953
+Reddit software engineer, transport
+https://job-boards.greenhouse.io/reddit/jobs/6241597
 Reddit general ledger accountant
 https://job-boards.greenhouse.io/reddit/jobs/6172698
 Reddit software engineer, ios - commenting experience
 https://job-boards.greenhouse.io/reddit/jobs/6132011
-Reddit technical compliance software engineer - governance, risk, compliance
+Reddit technical compliance engineer - governance, risk, compliance
 https://job-boards.greenhouse.io/reddit/jobs/6139332
 Reddit ux researcher
 https://job-boards.greenhouse.io/reddit/jobs/6213253
@@ -44,10 +48,10 @@ Pintrest  software engineer ii, full stack
 https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
-Pintrest data analytics engineer
-https://www.pinterestcareers.com/jobs/6016579/data-analytics-engineer/?gh_jid=6016579
 Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
+Pintrest data analytics engineer
+https://www.pinterestcareers.com/jobs/6016579/data-analytics-engineer/?gh_jid=6016579
 Pintrest data scientist
 https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
 
