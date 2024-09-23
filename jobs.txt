@@ -26,8 +26,6 @@ Reddit fullstack engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145953
 Reddit software engineer, ml ranking platform
 https://job-boards.greenhouse.io/reddit/jobs/6108085
-Reddit general ledger accountant
-https://job-boards.greenhouse.io/reddit/jobs/6172698
 Reddit software engineer, ios - commenting experience
 https://job-boards.greenhouse.io/reddit/jobs/6132011
 Reddit technical compliance engineer - governance, risk, compliance
@@ -35,9 +33,9 @@ https://job-boards.greenhouse.io/reddit/jobs/6139332
 
 TurnItIn:
 TurnItIn java software engineer (aws, lambda) (usa remote)
-https://jobs.smartrecruiters.com/turnitinllc/744000015503355-java-software-engineer-aws-lambda-usa-remote-
+https://jobs.smartrecruiters.com/turnitinllc/744000015889429-java-software-engineer-aws-lambda-usa-remote-
 TurnItIn java software engineer (aws, lambda) (usa remote)
-https://jobs.smartrecruiters.com/turnitinllc/744000015501582-java-software-engineer-aws-lambda-usa-remote-
+https://jobs.smartrecruiters.com/turnitinllc/744000015890385-java-software-engineer-aws-lambda-usa-remote-
 
 Zillow:
 
@@ -62,8 +60,6 @@ https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 
 CapitalOne:
-CapitalOne software engineer, back end (bank tech)
-https://www.capitalonecareers.com/job/new-york/software-engineer-back-end-bank-tech/1732/69639614720
 
 Salesforce:
 Salesforce software engineering, mts / software engineer (multiple positions available)
