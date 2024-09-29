@@ -30,8 +30,6 @@ Reddit machine learning engineer, notifications relevance
 https://job-boards.greenhouse.io/reddit/jobs/6233721
 Reddit software engineer, ml ranking platform
 https://job-boards.greenhouse.io/reddit/jobs/6108085
-Reddit software engineer, ios - commenting experience
-https://job-boards.greenhouse.io/reddit/jobs/6132011
 Reddit technical compliance engineer - governance, risk, compliance
 https://job-boards.greenhouse.io/reddit/jobs/6139332
 
@@ -70,25 +68,13 @@ Salesforce software engineering, mts / software engineer (multiple positions ava
 https://careers.salesforce.com/en/jobs/jr265305/software-engineering-mts-software-engineer-multiple-positions-available/
 Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr265306/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering, smts
-https://careers.salesforce.com/en/jobs/jr265311/software-engineering-smts/
 Salesforce software engineering, mts
 https://careers.salesforce.com/en/jobs/jr265318/software-engineering-mts/
 Salesforce software engineering, mts
 https://careers.salesforce.com/en/jobs/jr265317/software-engineering-mts/
 Salesforce software engineering, mts
 https://careers.salesforce.com/en/jobs/jr265319/software-engineering-mts/
-Salesforce software engineering, smts
-https://careers.salesforce.com/en/jobs/jr265316/software-engineering-smts/
 Salesforce software engineering, mts / software engineer (multiple positions available)
 https://careers.salesforce.com/en/jobs/jr265303/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering, smts
-https://careers.salesforce.com/en/jobs/jr265312/software-engineering-smts/
-Salesforce software engineering, pmts
-https://careers.salesforce.com/en/jobs/jr265218/software-engineering-pmts/
-Salesforce software engineering, pmts
-https://careers.salesforce.com/en/jobs/jr265219/software-engineering-pmts/
-Salesforce software engineering, pmts
-https://careers.salesforce.com/en/jobs/jr265220/software-engineering-pmts/
 Salesforce software engineer mts
 https://careers.salesforce.com/en/jobs/jr255580/software-engineer-mts/
