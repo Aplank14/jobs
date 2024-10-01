@@ -10,22 +10,22 @@ Remitly:
 Paylocity:
 
 Reddit:
+Reddit backend engineer, business experience
+https://job-boards.greenhouse.io/reddit/jobs/6088865
+Reddit frontend engineer, moderation
+https://job-boards.greenhouse.io/reddit/jobs/6124474
 Reddit backend engineer - ads measurement core
 https://job-boards.greenhouse.io/reddit/jobs/6145932
 Reddit backend engineer - ads measurement core
 https://job-boards.greenhouse.io/reddit/jobs/6262385
 Reddit backend engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145968
-Reddit backend engineer, business experience
-https://job-boards.greenhouse.io/reddit/jobs/6088865
-Reddit data scientist
-https://job-boards.greenhouse.io/reddit/jobs/6032532
-Reddit frontend engineer, moderation
-https://job-boards.greenhouse.io/reddit/jobs/6124474
 Reddit fullstack engineer - ads measurement core
 https://job-boards.greenhouse.io/reddit/jobs/6145914
 Reddit fullstack engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145953
+Reddit data scientist
+https://job-boards.greenhouse.io/reddit/jobs/6032532
 Reddit machine learning engineer, notifications relevance
 https://job-boards.greenhouse.io/reddit/jobs/6233721
 Reddit software engineer, ml ranking platform
@@ -52,8 +52,6 @@ Pintrest data scientist
 https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
 
 1Password:
-1Password solutions engineer, smb
-https://jobs.lever.co/1password/d90607a2-73db-4ecb-a22a-e2ed9fa62db1
 1Password vp, product marketing
 https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 1Password backend developer (rust)
@@ -62,19 +60,11 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 CapitalOne:
 
 Salesforce:
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr265880/software-engineering-lmts/
-Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr265305/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr265306/software-engineering-mts-software-engineer-multiple-positions-available/
-Salesforce software engineering, mts
-https://careers.salesforce.com/en/jobs/jr265318/software-engineering-mts/
-Salesforce software engineering, mts
-https://careers.salesforce.com/en/jobs/jr265317/software-engineering-mts/
-Salesforce software engineering, mts
-https://careers.salesforce.com/en/jobs/jr265319/software-engineering-mts/
-Salesforce software engineering, mts / software engineer (multiple positions available)
-https://careers.salesforce.com/en/jobs/jr265303/software-engineering-mts-software-engineer-multiple-positions-available/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr266236/software-engineering-mts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr266234/software-engineering-mts/
 Salesforce software engineer mts
 https://careers.salesforce.com/en/jobs/jr255580/software-engineer-mts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr265880/software-engineering-lmts/
