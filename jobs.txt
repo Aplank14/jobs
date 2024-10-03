@@ -14,10 +14,6 @@ Reddit backend engineer, business experience
 https://job-boards.greenhouse.io/reddit/jobs/6088865
 Reddit frontend engineer, moderation
 https://job-boards.greenhouse.io/reddit/jobs/6124474
-Reddit backend engineer - ads measurement core
-https://job-boards.greenhouse.io/reddit/jobs/6145932
-Reddit backend engineer - ads measurement core
-https://job-boards.greenhouse.io/reddit/jobs/6262385
 Reddit backend engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145968
 Reddit fullstack engineer - ads measurement core
@@ -30,6 +26,16 @@ Reddit machine learning engineer, notifications relevance
 https://job-boards.greenhouse.io/reddit/jobs/6233721
 Reddit software engineer, ml ranking platform
 https://job-boards.greenhouse.io/reddit/jobs/6108085
+Reddit backend engineer - ads measurement core
+https://job-boards.greenhouse.io/reddit/jobs/6262385
+Reddit backend engineer - ads measurement core
+https://job-boards.greenhouse.io/reddit/jobs/6145932
+Reddit fullstack engineer - ads measurement
+https://job-boards.greenhouse.io/reddit/jobs/6296060
+Reddit machine learning engineer, ads measurement
+https://job-boards.greenhouse.io/reddit/jobs/6296157
+Reddit software engineer, transport
+https://job-boards.greenhouse.io/reddit/jobs/6241597
 Reddit technical compliance engineer - governance, risk, compliance
 https://job-boards.greenhouse.io/reddit/jobs/6139332
 
@@ -38,14 +44,14 @@ TurnItIn:
 Zillow:
 
 Pintrest:
-Pintrest software engineer, backend
-https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest  software engineer ii, full stack
 https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
-Pintrest software engineer ii, ios
-https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
+Pintrest software engineer, backend
+https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest data analytics engineer
 https://www.pinterestcareers.com/jobs/6016579/data-analytics-engineer/?gh_jid=6016579
+Pintrest software engineer ii, ios
+https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
 Pintrest vp of engineering, business interfaces & growth engineering
 https://www.pinterestcareers.com/jobs/6259749/vp-of-engineering-business-interfaces-growth-engineering/?gh_jid=6259749
 Pintrest data scientist
@@ -60,11 +66,13 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 CapitalOne:
 
 Salesforce:
+Salesforce software engineer tableau
+https://careers.salesforce.com/en/jobs/jr266449/software-engineer-tableau/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr265880/software-engineering-lmts/
+Salesforce associate user researcher
+https://careers.salesforce.com/en/jobs/jr266445/associate-user-researcher/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr266236/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr266234/software-engineering-mts/
-Salesforce software engineer mts
-https://careers.salesforce.com/en/jobs/jr255580/software-engineer-mts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr265880/software-engineering-lmts/
