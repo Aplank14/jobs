@@ -30,9 +30,9 @@ Reddit fullstack engineer - ads measurement
 https://job-boards.greenhouse.io/reddit/jobs/6296060
 Reddit machine learning engineer, ads measurement
 https://job-boards.greenhouse.io/reddit/jobs/6296157
-Reddit vice president of machine learning engineering, ads quality
+Reddit vice president of ads quality engineering
 https://job-boards.greenhouse.io/reddit/jobs/6263058
-Reddit vice president of machine learning engineering, ads qualityity 
+Reddit vice president of machine learning engineering, ads quality 
 https://job-boards.greenhouse.io/reddit/jobs/6263302
 Reddit technical compliance engineer - governance, risk, compliance
 https://job-boards.greenhouse.io/reddit/jobs/6139332
@@ -44,10 +44,10 @@ TurnItIn:
 Zillow:
 
 Pintrest:
-Pintrest  software engineer ii, full stack
-https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest  software engineer ii, full stack
+https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
 Pintrest data analytics engineer
