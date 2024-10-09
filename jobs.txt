@@ -34,24 +34,20 @@ Reddit vice president of ads quality engineering
 https://job-boards.greenhouse.io/reddit/jobs/6263058
 Reddit vice president of machine learning engineering, ads quality 
 https://job-boards.greenhouse.io/reddit/jobs/6263302
-Reddit technical compliance engineer - governance, risk, compliance
-https://job-boards.greenhouse.io/reddit/jobs/6139332
-Reddit ux researcher
-https://job-boards.greenhouse.io/reddit/jobs/6213253
+Reddit machine learning engineer - ads retrieval
+https://job-boards.greenhouse.io/reddit/jobs/6313603
 
 TurnItIn:
 
 Zillow:
 
 Pintrest:
-Pintrest software engineer, backend
-https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest  software engineer ii, full stack
 https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
+Pintrest software engineer, backend
+https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
-Pintrest data analytics engineer
-https://www.pinterestcareers.com/jobs/6016579/data-analytics-engineer/?gh_jid=6016579
 Pintrest vp of engineering, business interfaces & growth engineering
 https://www.pinterestcareers.com/jobs/6259749/vp-of-engineering-business-interfaces-growth-engineering/?gh_jid=6259749
 Pintrest data scientist
@@ -66,8 +62,14 @@ https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 
 CapitalOne:
+CapitalOne software engineer, devops
+https://www.capitalonecareers.com/job/mexico-city/software-engineer-devops/1732/68938193200
 
 Salesforce:
+Salesforce software engineer
+https://careers.salesforce.com/en/jobs/jr267000/software-engineer/
+Salesforce software engineer
+https://careers.salesforce.com/en/jobs/jr266998/software-engineer/
 Salesforce software engineer
 https://careers.salesforce.com/en/jobs/jr266741/software-engineer/
 Salesforce software engineering mts
