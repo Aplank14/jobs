@@ -4,6 +4,8 @@ Spotify:
 Discord:
 Discord software engineer, billing
 https://discord.com/jobs/7531687002
+Discord developer compliance analyst
+https://discord.com/jobs/7675668002
 
 Remitly:
 
@@ -36,16 +38,22 @@ Reddit vice president of machine learning engineering, ads quality
 https://job-boards.greenhouse.io/reddit/jobs/6263302
 Reddit machine learning engineer - ads retrieval
 https://job-boards.greenhouse.io/reddit/jobs/6313603
+Reddit backend engineer - ads data platform
+https://job-boards.greenhouse.io/reddit/jobs/6321181
+Reddit backend engineer - ads data platform
+https://job-boards.greenhouse.io/reddit/jobs/6321364
+Reddit software engineer, transport
+https://job-boards.greenhouse.io/reddit/jobs/6241597
 
 TurnItIn:
 
 Zillow:
 
 Pintrest:
-Pintrest  software engineer ii, full stack
-https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest  software engineer ii, full stack
+https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
 Pintrest vp of engineering, business interfaces & growth engineering
@@ -62,22 +70,22 @@ https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 
 CapitalOne:
-CapitalOne software engineer, devops
-https://www.capitalonecareers.com/job/mexico-city/software-engineer-devops/1732/68938193200
 
 Salesforce:
+Salesforce software engineer
+https://careers.salesforce.com/en/jobs/jr266741/software-engineer/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr267409/software-engineering-smts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr267177/software-engineering-lmts/
 Salesforce software engineer
 https://careers.salesforce.com/en/jobs/jr267000/software-engineer/
 Salesforce software engineer
 https://careers.salesforce.com/en/jobs/jr266998/software-engineer/
-Salesforce software engineer
-https://careers.salesforce.com/en/jobs/jr266741/software-engineer/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr266654/software-engineering-mts/
 Salesforce software engineer mts
 https://careers.salesforce.com/en/jobs/jr266653/software-engineer-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr266328/software-engineering-mts/
 Salesforce software engineer tableau
 https://careers.salesforce.com/en/jobs/jr266449/software-engineer-tableau/
 Salesforce software engineering lmts
