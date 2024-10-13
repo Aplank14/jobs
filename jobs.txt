@@ -12,8 +12,6 @@ Remitly:
 Paylocity:
 
 Reddit:
-Reddit backend engineer, business experience
-https://job-boards.greenhouse.io/reddit/jobs/6088865
 Reddit backend engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145968
 Reddit fullstack engineer - ads signals
