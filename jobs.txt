@@ -2,6 +2,8 @@
 Spotify:
 
 Discord:
+Discord software engineer, experimentation platform
+https://discord.com/jobs/7593341002
 Discord software engineer, billing
 https://discord.com/jobs/7531687002
 Discord developer compliance analyst
@@ -20,14 +22,10 @@ Reddit data scientist
 https://job-boards.greenhouse.io/reddit/jobs/6032532
 Reddit machine learning engineer, notifications relevance
 https://job-boards.greenhouse.io/reddit/jobs/6233721
-Reddit software engineer, ml ranking platform
-https://job-boards.greenhouse.io/reddit/jobs/6108085
-Reddit backend engineer - ads measurement core
-https://job-boards.greenhouse.io/reddit/jobs/6262385
-Reddit backend engineer - ads measurement core
-https://job-boards.greenhouse.io/reddit/jobs/6145932
 Reddit fullstack engineer - ads measurement
 https://job-boards.greenhouse.io/reddit/jobs/6296060
+Reddit backend engineer - ads measurement core
+https://job-boards.greenhouse.io/reddit/jobs/6145932
 Reddit machine learning engineer, ads measurement
 https://job-boards.greenhouse.io/reddit/jobs/6296157
 Reddit vice president of ads quality engineering
@@ -40,8 +38,6 @@ Reddit backend engineer - ads data platform
 https://job-boards.greenhouse.io/reddit/jobs/6321181
 Reddit backend engineer - ads data platform
 https://job-boards.greenhouse.io/reddit/jobs/6321364
-Reddit software engineer, transport
-https://job-boards.greenhouse.io/reddit/jobs/6241597
 
 TurnItIn:
 
