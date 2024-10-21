@@ -18,8 +18,6 @@ Reddit backend engineer - ads measurement core
 https://job-boards.greenhouse.io/reddit/jobs/6145932
 Reddit backend engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145968
-Reddit fullstack engineer - ads signals
-https://job-boards.greenhouse.io/reddit/jobs/6145953
 Reddit data scientist
 https://job-boards.greenhouse.io/reddit/jobs/6032532
 Reddit machine learning engineer, notifications relevance
@@ -54,8 +52,6 @@ Pintrest  software engineer ii, full stack
 https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
-Pintrest vp of engineering, business interfaces & growth engineering
-https://www.pinterestcareers.com/jobs/6259749/vp-of-engineering-business-interfaces-growth-engineering/?gh_jid=6259749
 Pintrest data scientist
 https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
 
