@@ -4,10 +4,6 @@ Spotify:
 Discord:
 Discord software engineer, experimentation platform
 https://discord.com/jobs/7593341002
-Discord software engineer, billing
-https://discord.com/jobs/7531687002
-Discord developer compliance analyst
-https://discord.com/jobs/7675668002
 
 Remitly:
 
@@ -32,6 +28,10 @@ Reddit vice president of ads quality engineering
 https://job-boards.greenhouse.io/reddit/jobs/6263302
 Reddit fullstack engineer - ads measurement
 https://job-boards.greenhouse.io/reddit/jobs/6296060
+Reddit backend engineer - ads targeting platform
+https://job-boards.greenhouse.io/reddit/jobs/6171923
+Reddit backend engineer - ads targeting platform
+https://job-boards.greenhouse.io/reddit/jobs/6157740
 Reddit revenue accountant
 https://job-boards.greenhouse.io/reddit/jobs/6319800
 Reddit revenue accountant
@@ -56,18 +56,30 @@ Pintrest data scientist
 https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
 
 1Password:
-1Password solutions engineer, smb
-https://jobs.lever.co/1password/d90607a2-73db-4ecb-a22a-e2ed9fa62db1
 1Password vp, product marketing
 https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 1Password backend developer (rust)
 https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 
 CapitalOne:
+CapitalOne software engineer, back end (java,aws,cicd)
+https://www.capitalonecareers.com/job/richmond/software-engineer-back-end-java-aws-cicd/1732/71726731472
 
 Salesforce:
-Salesforce software engineer (all levels) - typescript
-https://careers.salesforce.com/en/jobs/jr267955/software-engineer-all-levels-typescript/
+Salesforce software engineering mts/ai research
+https://careers.salesforce.com/en/jobs/jr268817/software-engineering-mtsai-research/
+Salesforce software engineering pmts
+https://careers.salesforce.com/en/jobs/jr268821/software-engineering-pmts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr268710/software-engineering-mts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr268714/software-engineering-smts/
+Salesforce software engineer (multiple levels) - typescript
+https://careers.salesforce.com/en/jobs/jr267955/software-engineer-multiple-levels-typescript/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr268712/software-engineering-lmts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr266328/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr268410/software-engineering-smts/
 Salesforce software engineer, ios
@@ -78,15 +90,9 @@ Salesforce software engineer ii product security
 https://careers.salesforce.com/en/jobs/jr268190/software-engineer-ii-product-security/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr268152/software-engineering-lmts/
-Salesforce software engineer
-https://careers.salesforce.com/en/jobs/jr266741/software-engineer/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr267409/software-engineering-smts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr267177/software-engineering-lmts/
-Salesforce software engineer
-https://careers.salesforce.com/en/jobs/jr267000/software-engineer/
-Salesforce software engineer
-https://careers.salesforce.com/en/jobs/jr266998/software-engineer/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr265880/software-engineering-lmts/
