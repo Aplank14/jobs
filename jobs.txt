@@ -10,8 +10,6 @@ Remitly:
 Paylocity:
 
 Reddit:
-Reddit backend engineer - ads measurement core
-https://job-boards.greenhouse.io/reddit/jobs/6145932
 Reddit backend engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145968
 Reddit data scientist
@@ -32,6 +30,8 @@ Reddit backend engineer - ads targeting platform
 https://job-boards.greenhouse.io/reddit/jobs/6171923
 Reddit backend engineer - ads targeting platform
 https://job-boards.greenhouse.io/reddit/jobs/6157740
+Reddit backend software engineer
+https://job-boards.greenhouse.io/reddit/jobs/6124468
 Reddit revenue accountant
 https://job-boards.greenhouse.io/reddit/jobs/6319800
 Reddit revenue accountant
@@ -62,10 +62,16 @@ https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 
 CapitalOne:
-CapitalOne software engineer, back end (java,aws,cicd)
-https://www.capitalonecareers.com/job/richmond/software-engineer-back-end-java-aws-cicd/1732/71726731472
 
 Salesforce:
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr269087/software-engineering-mts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr269090/software-engineering-lmts/
+Salesforce mts software engineer
+https://careers.salesforce.com/en/jobs/jr269080/mts-software-engineer/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr268956/software-engineering-lmts/
 Salesforce software engineering mts/ai research
 https://careers.salesforce.com/en/jobs/jr268817/software-engineering-mtsai-research/
 Salesforce software engineering pmts
@@ -78,8 +84,6 @@ Salesforce software engineer (multiple levels) - typescript
 https://careers.salesforce.com/en/jobs/jr267955/software-engineer-multiple-levels-typescript/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr268712/software-engineering-lmts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr266328/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr268410/software-engineering-smts/
 Salesforce software engineer, ios
@@ -90,9 +94,5 @@ Salesforce software engineer ii product security
 https://careers.salesforce.com/en/jobs/jr268190/software-engineer-ii-product-security/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr268152/software-engineering-lmts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr267409/software-engineering-smts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr267177/software-engineering-lmts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr265880/software-engineering-lmts/
