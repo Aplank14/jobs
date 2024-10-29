@@ -4,6 +4,8 @@ Spotify:
 Discord:
 Discord software engineer, experimentation platform
 https://discord.com/jobs/7593341002
+Discord software engineer - activity feed
+https://discord.com/jobs/7673381002
 
 Remitly:
 
@@ -14,8 +16,6 @@ Reddit backend engineer - ads signals
 https://job-boards.greenhouse.io/reddit/jobs/6145968
 Reddit data scientist
 https://job-boards.greenhouse.io/reddit/jobs/6032532
-Reddit machine learning engineer, notifications relevance
-https://job-boards.greenhouse.io/reddit/jobs/6233721
 Reddit backend engineer - ads data platform
 https://job-boards.greenhouse.io/reddit/jobs/6321181
 Reddit backend engineer - ads data platform
@@ -30,8 +30,6 @@ Reddit backend engineer - ads targeting platform
 https://job-boards.greenhouse.io/reddit/jobs/6171923
 Reddit backend engineer - ads targeting platform
 https://job-boards.greenhouse.io/reddit/jobs/6157740
-Reddit backend software engineer
-https://job-boards.greenhouse.io/reddit/jobs/6124468
 Reddit revenue accountant
 https://job-boards.greenhouse.io/reddit/jobs/6319800
 Reddit revenue accountant
@@ -46,10 +44,10 @@ TurnItIn:
 Zillow:
 
 Pintrest:
-Pintrest software engineer, backend
-https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest  software engineer ii, full stack
 https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
+Pintrest software engineer, backend
+https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
 Pintrest data scientist
@@ -90,8 +88,6 @@ Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr268712/software-engineering-lmts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr268410/software-engineering-smts/
-Salesforce software engineer, ios
-https://careers.salesforce.com/en/jobs/jr267089/software-engineer-ios/
 Salesforce software engineering pmts
 https://careers.salesforce.com/en/jobs/jr268291/software-engineering-pmts/
 Salesforce software engineer ii product security
