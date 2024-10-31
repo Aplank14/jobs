@@ -12,18 +12,12 @@ Remitly:
 Paylocity:
 
 Reddit:
-Reddit backend engineer - ads signals
-https://job-boards.greenhouse.io/reddit/jobs/6145968
 Reddit data scientist
 https://job-boards.greenhouse.io/reddit/jobs/6032532
 Reddit backend engineer - ads data platform
 https://job-boards.greenhouse.io/reddit/jobs/6321181
 Reddit backend engineer - ads data platform
 https://job-boards.greenhouse.io/reddit/jobs/6321364
-Reddit vice president of ads quality engineering
-https://job-boards.greenhouse.io/reddit/jobs/6263058
-Reddit vice president of ads quality engineering
-https://job-boards.greenhouse.io/reddit/jobs/6263302
 Reddit fullstack engineer - ads measurement
 https://job-boards.greenhouse.io/reddit/jobs/6296060
 Reddit backend engineer - ads targeting platform
@@ -62,6 +56,16 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 CapitalOne:
 
 Salesforce:
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr266328/software-engineering-mts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr269606/software-engineering-smts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr269603/software-engineering-mts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr269611/software-engineering-mts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr269610/software-engineering-lmts/
 Salesforce devops engineer
 https://careers.salesforce.com/en/jobs/jr269239/devops-engineer/
 Salesforce software engineering lmts
@@ -88,11 +92,5 @@ Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr268712/software-engineering-lmts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr268410/software-engineering-smts/
-Salesforce software engineering pmts
-https://careers.salesforce.com/en/jobs/jr268291/software-engineering-pmts/
-Salesforce software engineer ii product security
-https://careers.salesforce.com/en/jobs/jr268190/software-engineer-ii-product-security/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr268152/software-engineering-lmts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr265880/software-engineering-lmts/
