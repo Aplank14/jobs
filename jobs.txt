@@ -14,16 +14,14 @@ Paylocity:
 Reddit:
 Reddit data scientist
 https://job-boards.greenhouse.io/reddit/jobs/6032532
-Reddit backend engineer - ads data platform
-https://job-boards.greenhouse.io/reddit/jobs/6321181
-Reddit backend engineer - ads data platform
-https://job-boards.greenhouse.io/reddit/jobs/6321364
 Reddit fullstack engineer - ads measurement
 https://job-boards.greenhouse.io/reddit/jobs/6296060
 Reddit backend engineer - ads targeting platform
 https://job-boards.greenhouse.io/reddit/jobs/6171923
 Reddit backend engineer - ads targeting platform
 https://job-boards.greenhouse.io/reddit/jobs/6157740
+Reddit backend engineer - ads billing
+https://job-boards.greenhouse.io/reddit/jobs/6194464
 Reddit revenue accountant
 https://job-boards.greenhouse.io/reddit/jobs/6319800
 Reddit revenue accountant
@@ -57,13 +55,13 @@ CapitalOne:
 
 Salesforce:
 Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr269611/software-engineering-mts/
+Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr266328/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr269606/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr269603/software-engineering-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr269611/software-engineering-mts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr269610/software-engineering-lmts/
 Salesforce devops engineer
@@ -90,7 +88,5 @@ Salesforce software engineer (multiple levels) - typescript
 https://careers.salesforce.com/en/jobs/jr267955/software-engineer-multiple-levels-typescript/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr268712/software-engineering-lmts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr268410/software-engineering-smts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr265880/software-engineering-lmts/
