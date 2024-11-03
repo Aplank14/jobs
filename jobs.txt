@@ -56,8 +56,6 @@ CapitalOne:
 Salesforce:
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr269611/software-engineering-mts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr266328/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr269606/software-engineering-smts/
 Salesforce software engineering mts
