@@ -36,10 +36,10 @@ TurnItIn:
 Zillow:
 
 Pintrest:
-Pintrest  software engineer ii, full stack
-https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
+Pintrest  software engineer ii, full stack
+https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest software engineer ii, ios
 https://www.pinterestcareers.com/jobs/6041945/software-engineer-ii-ios/?gh_jid=6041945
 Pintrest data scientist
@@ -54,6 +54,12 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 CapitalOne:
 
 Salesforce:
+Salesforce mts software engineer
+https://careers.salesforce.com/en/jobs/jr270636/mts-software-engineer/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr270659/software-engineering-lmts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr270633/software-engineering-lmts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr269611/software-engineering-mts/
 Salesforce software engineering smts
