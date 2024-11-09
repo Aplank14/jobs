@@ -52,14 +52,14 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 https://jobs.lever.co/1password/9a581a3f-2604-4496-bfb1-63fab7afa0be
 
 CapitalOne:
-CapitalOne machine learning engineer - capital one software (remote)
-https://www.capitalonecareers.com/job/remote/machine-learning-engineer-capital-one-software-remote/1732/71030471424
-CapitalOne technology development program associate - mexico - 2025
-https://www.capitalonecareers.com/job/mexico-city/technology-development-program-associate-mexico-2025/1732/69824078384
 
 Salesforce:
 Salesforce systems engineering engineer
 https://careers.salesforce.com/en/jobs/jr270933/systems-engineering-engineer/
+Salesforce security data analytics engineer, pmts
+https://careers.salesforce.com/en/jobs/jr262585/security-data-analytics-engineer-pmts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr270659/software-engineering-lmts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr270935/software-engineering-smts/
 Salesforce software engineering mts
@@ -68,8 +68,6 @@ Salesforce software engineer smts
 https://careers.salesforce.com/en/jobs/jr270934/software-engineer-smts/
 Salesforce mts software engineer
 https://careers.salesforce.com/en/jobs/jr270636/mts-software-engineer/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr270659/software-engineering-lmts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr270633/software-engineering-lmts/
 Salesforce software engineering mts
@@ -80,16 +78,6 @@ Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr269603/software-engineering-mts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr269610/software-engineering-lmts/
-Salesforce devops engineer
-https://careers.salesforce.com/en/jobs/jr269239/devops-engineer/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr269236/software-engineering-lmts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr269087/software-engineering-mts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr269090/software-engineering-lmts/
-Salesforce mts software engineer
-https://careers.salesforce.com/en/jobs/jr269080/mts-software-engineer/
 Salesforce software engineer (multiple levels) - typescript
 https://careers.salesforce.com/en/jobs/jr267955/software-engineer-multiple-levels-typescript/
 Salesforce software engineering lmts
