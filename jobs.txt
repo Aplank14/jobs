@@ -14,6 +14,10 @@ Reddit data scientist
 https://job-boards.greenhouse.io/reddit/jobs/6032532
 Reddit software engineer, product catalogs 
 https://job-boards.greenhouse.io/reddit/jobs/6364886
+Reddit fullstack engineer - ads measurement
+https://job-boards.greenhouse.io/reddit/jobs/6296060
+Reddit backend engineer - ads billing
+https://job-boards.greenhouse.io/reddit/jobs/6194464
 Reddit revenue accountant
 https://job-boards.greenhouse.io/reddit/jobs/6319800
 Reddit revenue accountant
@@ -46,8 +50,6 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 https://jobs.lever.co/1password/9a581a3f-2604-4496-bfb1-63fab7afa0be
 
 CapitalOne:
-CapitalOne software engineer, backend ( enterprise platforms technology)
-https://www.capitalonecareers.com/job/plano/software-engineer-backend-enterprise-platforms-technology/1732/73002084288
 
 Salesforce:
 Salesforce software engineering lmts
