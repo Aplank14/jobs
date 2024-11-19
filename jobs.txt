@@ -18,14 +18,6 @@ Reddit fullstack engineer - ads measurement
 https://job-boards.greenhouse.io/reddit/jobs/6296060
 Reddit backend engineer - ads billing
 https://job-boards.greenhouse.io/reddit/jobs/6194464
-Reddit revenue accountant
-https://job-boards.greenhouse.io/reddit/jobs/6319800
-Reddit revenue accountant
-https://job-boards.greenhouse.io/reddit/jobs/6319757
-Reddit revenue accountant
-https://job-boards.greenhouse.io/reddit/jobs/6319804
-Reddit revenue accountant
-https://job-boards.greenhouse.io/reddit/jobs/6319797
 
 TurnItIn:
 
@@ -52,14 +44,16 @@ https://jobs.lever.co/1password/9a581a3f-2604-4496-bfb1-63fab7afa0be
 CapitalOne:
 
 Salesforce:
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr272335/software-engineering-mts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr272308/software-engineering-smts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr271935/software-engineering-lmts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr270935/software-engineering-smts/
 Salesforce software engineer - production support engineering
 https://careers.salesforce.com/en/jobs/jr270383/software-engineer-production-support-engineering/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr270659/software-engineering-lmts/
 Salesforce systems engineering engineer
 https://careers.salesforce.com/en/jobs/jr270933/systems-engineering-engineer/
 Salesforce security data analytics engineer, pmts
@@ -68,9 +62,5 @@ Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr270921/software-engineering-mts/
 Salesforce software engineer smts
 https://careers.salesforce.com/en/jobs/jr270934/software-engineer-smts/
-Salesforce mts software engineer
-https://careers.salesforce.com/en/jobs/jr270636/mts-software-engineer/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr270633/software-engineering-lmts/
 Salesforce software engineer (multiple levels) - typescript
 https://careers.salesforce.com/en/jobs/jr267955/software-engineer-multiple-levels-typescript/
