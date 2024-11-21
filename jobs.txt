@@ -16,6 +16,8 @@ Reddit software engineer, product catalogs
 https://job-boards.greenhouse.io/reddit/jobs/6364886
 Reddit fullstack engineer - ads measurement
 https://job-boards.greenhouse.io/reddit/jobs/6296060
+Reddit fullstack engineer - ads measurement
+https://job-boards.greenhouse.io/reddit/jobs/6414943
 Reddit backend engineer - ads billing
 https://job-boards.greenhouse.io/reddit/jobs/6194464
 
@@ -24,10 +26,10 @@ TurnItIn:
 Zillow:
 
 Pintrest:
-Pintrest  software engineer ii, full stack
-https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest web engineer
 https://www.pinterestcareers.com/jobs/6060266/web-engineer/?gh_jid=6060266
+Pintrest  software engineer ii, full stack
+https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest data scientist
@@ -42,8 +44,14 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 https://jobs.lever.co/1password/9a581a3f-2604-4496-bfb1-63fab7afa0be
 
 CapitalOne:
+CapitalOne ai engineer
+https://www.capitalonecareers.com/job/san-francisco/ai-engineer/1732/73324690656
 
 Salesforce:
+Salesforce associate, software engineer - machine learning (new grad)
+https://careers.salesforce.com/en/jobs/jr272427/associate-software-engineer-machine-learning-new-grad/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr272415/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr272335/software-engineering-mts/
 Salesforce software engineering smts
@@ -54,13 +62,7 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr270935/software-engineering-smts/
 Salesforce software engineer - production support engineering
 https://careers.salesforce.com/en/jobs/jr270383/software-engineer-production-support-engineering/
-Salesforce systems engineering engineer
-https://careers.salesforce.com/en/jobs/jr270933/systems-engineering-engineer/
 Salesforce security data analytics engineer, pmts
 https://careers.salesforce.com/en/jobs/jr262585/security-data-analytics-engineer-pmts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr270921/software-engineering-mts/
-Salesforce software engineer smts
-https://careers.salesforce.com/en/jobs/jr270934/software-engineer-smts/
 Salesforce software engineer (multiple levels) - typescript
 https://careers.salesforce.com/en/jobs/jr267955/software-engineer-multiple-levels-typescript/
