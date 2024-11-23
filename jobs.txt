@@ -44,22 +44,16 @@ https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 https://jobs.lever.co/1password/9a581a3f-2604-4496-bfb1-63fab7afa0be
 
 CapitalOne:
-CapitalOne ai engineer
-https://www.capitalonecareers.com/job/san-francisco/ai-engineer/1732/73324690656
 
 Salesforce:
-Salesforce associate, software engineer - machine learning (new grad)
-https://careers.salesforce.com/en/jobs/jr272427/associate-software-engineer-machine-learning-new-grad/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr272415/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr272335/software-engineering-mts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr272415/software-engineering-mts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr272308/software-engineering-smts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr271935/software-engineering-lmts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr270935/software-engineering-smts/
 Salesforce software engineer - production support engineering
 https://careers.salesforce.com/en/jobs/jr270383/software-engineer-production-support-engineering/
 Salesforce security data analytics engineer, pmts
