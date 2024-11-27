@@ -2,8 +2,8 @@
 Spotify:
 
 Discord:
-Discord software engineer, experimentation platform
-https://discord.com/jobs/7593341002
+Discord software engineer, persistence infrastructure
+https://discord.com/jobs/7585902002
 
 Remitly:
 
@@ -26,10 +26,10 @@ TurnItIn:
 Zillow:
 
 Pintrest:
-Pintrest web engineer
-https://www.pinterestcareers.com/jobs/6060266/web-engineer/?gh_jid=6060266
 Pintrest  software engineer ii, full stack
 https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
+Pintrest web engineer
+https://www.pinterestcareers.com/jobs/6060266/web-engineer/?gh_jid=6060266
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest data scientist
@@ -46,8 +46,16 @@ https://jobs.lever.co/1password/9a581a3f-2604-4496-bfb1-63fab7afa0be
 CapitalOne:
 
 Salesforce:
+Salesforce deliverability consultant
+https://careers.salesforce.com/en/jobs/jr267924/deliverability-consultant/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr273275/software-engineering-smts/
+Salesforce salesforce platform developer
+https://careers.salesforce.com/en/jobs/jr273276/salesforce-platform-developer/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr272996/software-engineering-lmts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr273277/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr272335/software-engineering-mts/
 Salesforce software engineering mts
@@ -56,9 +64,5 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr272308/software-engineering-smts/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr271935/software-engineering-lmts/
-Salesforce software engineer - production support engineering
-https://careers.salesforce.com/en/jobs/jr270383/software-engineer-production-support-engineering/
-Salesforce security data analytics engineer, pmts
-https://careers.salesforce.com/en/jobs/jr262585/security-data-analytics-engineer-pmts/
 Salesforce software engineer (multiple levels) - typescript
 https://careers.salesforce.com/en/jobs/jr267955/software-engineer-multiple-levels-typescript/
