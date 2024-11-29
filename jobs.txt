@@ -26,24 +26,26 @@ TurnItIn:
 Zillow:
 
 Pintrest:
-Pintrest  software engineer ii, full stack
-https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest web engineer
 https://www.pinterestcareers.com/jobs/6060266/web-engineer/?gh_jid=6060266
+Pintrest  software engineer ii, full stack
+https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
+Pintrest data engineer
+https://www.pinterestcareers.com/jobs/6041927/data-engineer/?gh_jid=6041927
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest data scientist
 https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
 
 1Password:
-1Password vp, product marketing
-https://jobs.lever.co/1password/21902bc9-8595-4ed5-b4af-da4ab756fa5a
 1Password backend developer (rust)
 https://jobs.lever.co/1password/e8ed6e04-3455-498a-85df-368a699f7b26
 1Password windows developer (rust)
 https://jobs.lever.co/1password/9a581a3f-2604-4496-bfb1-63fab7afa0be
 
 CapitalOne:
+CapitalOne software engineer, back end (bank tech)
+https://www.capitalonecareers.com/job/wilmington/software-engineer-back-end-bank-tech/1732/73377218304
 
 Salesforce:
 Salesforce deliverability consultant
@@ -54,8 +56,6 @@ Salesforce salesforce platform developer
 https://careers.salesforce.com/en/jobs/jr273276/salesforce-platform-developer/
 Salesforce software engineering lmts
 https://careers.salesforce.com/en/jobs/jr272996/software-engineering-lmts/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr273277/software-engineering-mts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr272335/software-engineering-mts/
 Salesforce software engineering mts
