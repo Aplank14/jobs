@@ -10,14 +10,12 @@ Remitly:
 Paylocity:
 
 Reddit:
-Reddit data scientist
-https://job-boards.greenhouse.io/reddit/jobs/6032532
 Reddit software engineer, product catalogs 
 https://job-boards.greenhouse.io/reddit/jobs/6364886
 Reddit fullstack engineer - ads measurement
-https://job-boards.greenhouse.io/reddit/jobs/6296060
-Reddit fullstack engineer - ads measurement
 https://job-boards.greenhouse.io/reddit/jobs/6414943
+Reddit fullstack engineer - ads measurement
+https://job-boards.greenhouse.io/reddit/jobs/6296060
 Reddit backend engineer - ads billing
 https://job-boards.greenhouse.io/reddit/jobs/6194464
 
@@ -44,17 +42,27 @@ https://jobs.lever.co/1password/9a581a3f-2604-4496-bfb1-63fab7afa0be
 CapitalOne:
 
 Salesforce:
-Salesforce deliverability consultant
-https://careers.salesforce.com/en/jobs/jr267924/deliverability-consultant/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr272996/software-engineering-lmts/
+Salesforce machine learning engineer (slack search)
+https://careers.salesforce.com/en/jobs/jr266431/machine-learning-engineer-slack-search/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr273275/software-engineering-smts/
-Salesforce salesforce platform developer
-https://careers.salesforce.com/en/jobs/jr273276/salesforce-platform-developer/
-Salesforce software engineering mts
-https://careers.salesforce.com/en/jobs/jr272415/software-engineering-mts/
-Salesforce software engineering smts
-https://careers.salesforce.com/en/jobs/jr272308/software-engineering-smts/
 Salesforce software engineer (multiple levels) - typescript
 https://careers.salesforce.com/en/jobs/jr267955/software-engineer-multiple-levels-typescript/
+Salesforce production support engineer (lmts/pmts)
+https://careers.salesforce.com/en/jobs/jr272610/production-support-engineer-lmtspmts/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr274161/software-engineering-smts/
+Salesforce deliverability consultant
+https://careers.salesforce.com/en/jobs/jr267924/deliverability-consultant/
+Salesforce salesforce platform developer
+https://careers.salesforce.com/en/jobs/jr273276/salesforce-platform-developer/
+Salesforce software engineering smts
+https://careers.salesforce.com/en/jobs/jr274159/software-engineering-smts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr274158/software-engineering-mts/
+Salesforce software engineering lmts
+https://careers.salesforce.com/en/jobs/jr272996/software-engineering-lmts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr274178/software-engineering-mts/
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr274180/software-engineering-mts/
