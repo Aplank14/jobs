@@ -36,12 +36,16 @@ Pintrest data scientist
 https://www.pinterestcareers.com/jobs/4912949/data-scientist/?gh_jid=4912949
 
 1Password:
+1Password vp, enterprise sales
+https://jobs.lever.co/1password/8afd9ef3-033d-4da5-9c49-e527561bc105
 1Password windows developer (rust)
 https://jobs.lever.co/1password/9a581a3f-2604-4496-bfb1-63fab7afa0be
 
 CapitalOne:
 
 Salesforce:
+Salesforce software engineering mts
+https://careers.salesforce.com/en/jobs/jr274618/software-engineering-mts/
 Salesforce machine learning engineer (slack search)
 https://careers.salesforce.com/en/jobs/jr266431/machine-learning-engineer-slack-search/
 Salesforce software engineering smts
