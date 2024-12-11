@@ -26,10 +26,10 @@ Zillow:
 Pintrest:
 Pintrest web engineer
 https://www.pinterestcareers.com/jobs/6060266/web-engineer/?gh_jid=6060266
-Pintrest  software engineer ii, full stack
-https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest data engineer
 https://www.pinterestcareers.com/jobs/6041927/data-engineer/?gh_jid=6041927
+Pintrest  software engineer ii, full stack
+https://www.pinterestcareers.com/jobs/6142084/software-engineer-ii-full-stack/?gh_jid=6142084
 Pintrest software engineer, backend
 https://www.pinterestcareers.com/jobs/5039778/software-engineer-backend/?gh_jid=5039778
 Pintrest data scientist
@@ -42,10 +42,8 @@ https://jobs.lever.co/1password/8afd9ef3-033d-4da5-9c49-e527561bc105
 https://jobs.lever.co/1password/9a581a3f-2604-4496-bfb1-63fab7afa0be
 
 CapitalOne:
-CapitalOne software engineer, full stack (bank modernization)
-https://www.capitalonecareers.com/job/mclean/software-engineer-full-stack-bank-modernization/1732/74266380832
-CapitalOne ai engineer - pr. associate
-https://www.capitalonecareers.com/job/mclean/ai-engineer-pr-associate/1732/73133144816
+CapitalOne software engineer, back end (bank tech)
+https://www.capitalonecareers.com/job/wilmington/software-engineer-back-end-bank-tech/1732/72853964512
 
 Salesforce:
 Salesforce software engineering mts
@@ -56,8 +54,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr273275/software-engineering-smts/
 Salesforce software engineer (multiple levels) - typescript
 https://careers.salesforce.com/en/jobs/jr267955/software-engineer-multiple-levels-typescript/
-Salesforce production support engineer (lmts/pmts)
-https://careers.salesforce.com/en/jobs/jr272610/production-support-engineer-lmtspmts/
 Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr274161/software-engineering-smts/
 Salesforce deliverability consultant
@@ -68,8 +64,6 @@ Salesforce software engineering smts
 https://careers.salesforce.com/en/jobs/jr274159/software-engineering-smts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr274158/software-engineering-mts/
-Salesforce software engineering lmts
-https://careers.salesforce.com/en/jobs/jr272996/software-engineering-lmts/
 Salesforce software engineering mts
 https://careers.salesforce.com/en/jobs/jr274178/software-engineering-mts/
 Salesforce software engineering mts
